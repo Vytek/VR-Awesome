@@ -20,6 +20,9 @@
 - http://ovrvision.com/order-ovr1/
 - https://www.thalmic.com/en/myo/
 - http://www.remoriavr.com/
+- http://julesthuillier.com/vrtracker/ 
+- https://manus-vr.com/
+- http://www.vicovr.com/ 
 
 ## Software
 
@@ -52,7 +55,11 @@
 	2. [https://github.com/AADProductions/VR-Mirrors]()
 * HTC Vive Hack guide: [http://www.ultravr.org/htc-vive-guide/]()
 
-## VR Dev School and VR Course:
+### Unity Assets for VR:
+
+* 
+
+## VR Dev School, VR Course, Tutorials:
 
 * VRDev School: http://www.vrdev.school/
 * Fuseman Tutorial: [https://www.youtube.com/channel/UCLO98KHpNx6JwsdnH04l9yQ]()
@@ -67,6 +74,9 @@
 * [Virtual Reality by Unity](http://unity3d.com/learn/tutorials/topics/virtual-reality/)
 * Interesting VR Tutorial: [http://www.leadingones.com/index.html](http://www.leadingones.com/index.html) 
 * [VR Best Practices](https://developer.oculus.com/documentation/intro-vr/latest/concepts/bp_intro/) - VR Best Practices by Oculus.
+* New type of locomotion: [http://smirkingcat.software/ripmotion/](http://smirkingcat.software/ripmotion/)
+* Udemy starter VR Course: https://www.udemy.com/developing-oculus-rift-vr-applications-with-unity3d/ 
+* OLD: http://www.digitaltutors.com/tutorial/2227-Getting-Started-with-VR-in-Unity
 
 	
 ## VR Tools and PlugIn:
