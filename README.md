@@ -10,7 +10,7 @@
 ### Other hardware
 - [Leap Motion](https://www.leapmotion.com/) - Use hand and finger motions as input.
 - http://priovr.com/#about
-- http://perceptionmocap.com/pre-order.html
+- https://neuronmocap.com/
 - http://sixense.com/razerhydra
 - http://sixense.com/wireless
 - http://www.reachvr.com/
@@ -69,6 +69,7 @@
 
 * Google TiltBrush Utility: [https://github.com/google/tiltbrushtoolkit]()
 * VR Simulator: [http://developers.immerseum.io/vr-simulator-beta-0.9/]()
+* Multi HMD: [http://intugame.com/quarkvr/](http://intugame.com/quarkvr/)
 
 ## List of Immersive Virtual Worlds:
 - http://www.vrchat.net/
@@ -83,3 +84,6 @@
 - [Virtual Reality](https://www.reddit.com/r/virtualreality/) 
 - [Oculus](https://www.reddit.com/r/oculus/)
 - [Vive](https://www.reddit.com/r/vive/) 
+- [/r/VRplugins/](https://www.reddit.com/r/VRplugins/)
+- [/r/learnVRdev/](https://www.reddit.com/r/learnVRdev/)
+- [/r/vrdev/](https://www.reddit.com/r/vrdev/)
