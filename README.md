@@ -6,6 +6,8 @@
 - [Oculus Rift](https://www.oculus.com/en-us/rift/)
 - [HTC Vive](http://www.htcvr.com/)
 - [Razer OSVR](http://www.osvr.org/)
+- [Google Cardboard](https://vr.google.com/cardboard/)
+- [Google Daydream View](https://vr.google.com/daydream/headset/)
 
 ### Other hardware
 - [Leap Motion](https://www.leapmotion.com/) - Use hand and finger motions as input.
@@ -33,6 +35,7 @@
 ### Web
 - [Awesome WebVR](https://github.com/wizztjh/awesome-WebVR) - List of WebVR resources.
 
+
 ## UI/UX
 
 - [UI/UX VR](https://github.com/omgmog/ui-ux-vr) - A list of resources about the UI/UX considerations for VR.
@@ -53,7 +56,8 @@
 
 * VRDev School: http://www.vrdev.school/
 * Fuseman Tutorial: [https://www.youtube.com/channel/UCLO98KHpNx6JwsdnH04l9yQ]()
-* Udacity VR Course: [https://www.udemy.com/courses/search/?q=VR&src=ukw]()
+* Udemy VR Course: [https://www.udemy.com/courses/search/?q=VR&src=ukw]()
+* Udacity VR Developer Nanodegree: [https://www.udacity.com/course/vr-developer-nanodegree--nd017]
 * VR Book from Prof. LaValle and MOOC VR Course:
 	1. [http://vr.cs.uiuc.edu/]()
 	2. [http://nptel.ac.in/syllabus/106106138/]()
