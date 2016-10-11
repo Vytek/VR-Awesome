@@ -76,7 +76,8 @@
 * Unity Introduction for VR (USC GamePipe Laboratory): h[ttps://www.youtube.com/watch?v=JAxfcKQCwfA](https://www.youtube.com/watch?v=JAxfcKQCwfA) 
 * [VR Best Practices](https://developer.oculus.com/documentation/intro-vr/latest/concepts/bp_intro/) - VR Best Practices by Oculus.
 * New type of locomotion: [http://smirkingcat.software/ripmotion/](http://smirkingcat.software/ripmotion/)
-* Udemy starter VR Course: https://www.udemy.com/developing-oculus-rift-vr-applications-with-unity3d/ 
+* Udemy starter VR Course: https://www.udemy.com/developing-oculus-rift-vr-applications-with-unity3d/
+* Do it yourself VR: [http://diy-vr.com/ ](http://diy-vr.com/)
 * OLD: http://www.digitaltutors.com/tutorial/2227-Getting-Started-with-VR-in-Unity
 	
 ## VR Tools and PlugIn:
