@@ -57,7 +57,7 @@
 
 ### Unity Assets for VR:
 
-* 
+* Free low poly 3D nature assets (trees, plants, rocks and more!): https://www.reddit.com/r/gamedev/comments/349kpt/free_low_poly_3d_nature_assets_trees_plants_rocks/
 
 ## VR Dev School, VR Course, Tutorials:
 
@@ -72,12 +72,12 @@
 	1. [https://archive.is/Jp8qw](https://archive.is/Jp8qw)
 	2. [https://archive.is/NYbB1]( https://archive.is/NYbB1)
 * [Virtual Reality by Unity](http://unity3d.com/learn/tutorials/topics/virtual-reality/)
-* Interesting VR Tutorial: [http://www.leadingones.com/index.html](http://www.leadingones.com/index.html) 
+* Interesting VR Tutorial: [http://www.leadingones.com/index.html](http://www.leadingones.com/index.html)
+* Unity Introduction for VR (USC GamePipe Laboratory): h[ttps://www.youtube.com/watch?v=JAxfcKQCwfA](https://www.youtube.com/watch?v=JAxfcKQCwfA) 
 * [VR Best Practices](https://developer.oculus.com/documentation/intro-vr/latest/concepts/bp_intro/) - VR Best Practices by Oculus.
 * New type of locomotion: [http://smirkingcat.software/ripmotion/](http://smirkingcat.software/ripmotion/)
 * Udemy starter VR Course: https://www.udemy.com/developing-oculus-rift-vr-applications-with-unity3d/ 
 * OLD: http://www.digitaltutors.com/tutorial/2227-Getting-Started-with-VR-in-Unity
-
 	
 ## VR Tools and PlugIn:
 
