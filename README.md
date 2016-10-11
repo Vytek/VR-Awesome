@@ -56,7 +56,7 @@
 
 * VRDev School: http://www.vrdev.school/
 * Fuseman Tutorial: [https://www.youtube.com/channel/UCLO98KHpNx6JwsdnH04l9yQ]()
-* Udacity VR Course: [https://www.udemy.com/courses/search/?q=VR&src=ukw]()
+* Udemy VR Course: [https://www.udemy.com/courses/search/?q=VR&src=ukw]()
 * VR Book from Prof. LaValle and MOOC VR Course:
 	1. [http://vr.cs.uiuc.edu/]()
 	2. [http://nptel.ac.in/syllabus/106106138/]()
