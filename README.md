@@ -78,6 +78,7 @@
 * New type of locomotion: [http://smirkingcat.software/ripmotion/](http://smirkingcat.software/ripmotion/)
 * Udemy starter VR Course: https://www.udemy.com/developing-oculus-rift-vr-applications-with-unity3d/
 * Do it yourself VR: [http://diy-vr.com/ ](http://diy-vr.com/)
+* Get Started Making Virtual Reality Games in Unity 5 for Free: [http://www.makeuseof.com/tag/get-started-making-virtual-reality-games-unity-5-free/](http://www.makeuseof.com/tag/get-started-making-virtual-reality-games-unity-5-free/ "Link to website")
 * OLD: http://www.digitaltutors.com/tutorial/2227-Getting-Started-with-VR-in-Unity
 	
 ## VR Tools and PlugIn:
