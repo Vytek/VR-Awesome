@@ -6,6 +6,8 @@
 - [Oculus Rift](https://www.oculus.com/en-us/rift/)
 - [HTC Vive](http://www.htcvr.com/)
 - [Razer OSVR](http://www.osvr.org/)
+- [Google Cardboard](https://vr.google.com/cardboard/)
+- [Google Daydream View](https://vr.google.com/daydream/headset/)
 
 ### Other hardware
 - [Leap Motion](https://www.leapmotion.com/) - Use hand and finger motions as input.
@@ -32,6 +34,7 @@
 
 ### Web
 - [Awesome WebVR](https://github.com/wizztjh/awesome-WebVR) - List of WebVR resources.
+
 
 ## UI/UX
 
