@@ -12,20 +12,20 @@
 
 ### Other hardware
 - [Leap Motion](https://www.leapmotion.com/) - Use hand and finger motions as input.
-- http://priovr.com/#about
-- https://neuronmocap.com/ - Mocap
-- http://sixense.com/razerhydra
-- http://sixense.com/wireless
-- http://www.reachvr.com/
-- http://graphinesoftware.com/
-- http://ovrvision.com/order-ovr1/
-- https://www.thalmic.com/en/myo/
-- http://www.remoriavr.com/ - Lignum Input
-- http://julesthuillier.com/vrtracker/ 
-- https://manus-vr.com/ - VR Glove
-- http://www.vicovr.com/
-- http://www.smivision.com/en/gaze-and-eye-tracking-systems/home.html - Eyes Tracking
-- http://www.binaryvr.com/ - Facial Recognition
+- [http://priovr.com/#about]()
+- [https://neuronmocap.com/]() - Mocap
+- [http://sixense.com/razerhydra]()
+- [http://sixense.com/wireless]()
+- [http://www.reachvr.com/]()
+- [http://graphinesoftware.com/]()
+- [http://ovrvision.com/order-ovr1/]()
+- [https://www.thalmic.com/en/myo/]()
+- [http://www.remoriavr.com/]() - Lignum Input
+- [http://julesthuillier.com/vrtracker/]() 
+- [https://manus-vr.com/]() - VR Glove
+- [http://www.vicovr.com/]()
+- [http://www.smivision.com/en/gaze-and-eye-tracking-systems/home.html]() - Eyes Tracking
+- [http://www.binaryvr.com/]() - Facial Recognition
 
 ## Software
 
@@ -52,7 +52,7 @@
 ## Unity VR Plugin
 
 * SteamVR: [https://github.com/ValveSoftware/openvr](https://github.com/ValveSoftware/openvr)
-* Steam Lab Render: https://www.assetstore.unity3d.com/en/#!/content/63141 - [https://github.com/ValveSoftware/the_lab_renderer]()
+* Steam Lab Render: [https://www.assetstore.unity3d.com/en/#!/content/63141]() - [https://github.com/ValveSoftware/the_lab_renderer]()
 * HTC Vive Asset Store Plugin:  [https://www.assetstore.unity3d.com/en/#!/search/page=1/sortby=popularity/query=publisher:21581]()
 * VRTK: [https://github.com/thestonefox/SteamVR_Unity_Toolkit]()
 * HTC Vive Teleportation System with Parabolic Pointer: [https://github.com/Flafla2/Vive-Teleporter]()
@@ -65,7 +65,7 @@
 
 ### Unity Assets for VR:
 
-* Free low poly 3D nature assets (trees, plants, rocks and more!): https://www.reddit.com/r/gamedev/comments/349kpt/free_low_poly_3d_nature_assets_trees_plants_rocks/
+* Free low poly 3D nature assets (trees, plants, rocks and more!): [https://www.reddit.com/r/gamedev/comments/349kpt/free_low_poly_3d_nature_assets_trees_plants_rocks/]()
 * Low Poly: Free Pack 3D Models/Environments
 Axey Works: [https://www.assetstore.unity3d.com/en/#!/content/58821]()
 * Low Poly Animals: [http://opengameart.org/content/5-low-poly-animals]()
@@ -75,23 +75,23 @@ Axey Works: [https://www.assetstore.unity3d.com/en/#!/content/58821]()
 * VRDev School: http://www.vrdev.school/
 * Fuseman Tutorial: [https://www.youtube.com/channel/UCLO98KHpNx6JwsdnH04l9yQ]()
 * Udemy VR Course: [https://www.udemy.com/courses/search/?q=VR&src=ukw]()
-* Udacity VR Developer Nanodegree: [https://www.udacity.com/course/vr-developer-nanodegree--nd017]
+* Udacity VR Developer Nanodegree: [https://www.udacity.com/course/vr-developer-nanodegree--nd017]()
 * Tutorial Convrge for multiplayer VR
-	1. http://www.convrge.co/multiplayer-oculus-rift-games-in-unity-tutorial 
-	2. http://www.convrge.co/add-voice-chat-to-unity-using-dfvoice 
+	1. [http://www.convrge.co/multiplayer-oculus-rift-games-in-unity-tutorial]() 
+	2. [http://www.convrge.co/add-voice-chat-to-unity-using-dfvoice]() 
 	3. [https://archive.is/Jp8qw](https://archive.is/Jp8qw)
 	4. [https://archive.is/NYbB1]( https://archive.is/NYbB1)
-* [Virtual Reality by Unity](http://unity3d.com/learn/tutorials/topics/virtual-reality/) - https://www.assetstore.unity3d.com/en/#!/content/51519
+* [Virtual Reality by Unity](http://unity3d.com/learn/tutorials/topics/virtual-reality/) - [https://www.assetstore.unity3d.com/en/#!/content/51519]()
 * [https://blogs.unity3d.com/2015/12/09/get-started-with-vr-sample-pack-learning-articles/]()
 * Interesting VR Tutorial: [http://www.leadingones.com/index.html](http://www.leadingones.com/index.html)
 * Unity Introduction for VR (USC GamePipe Laboratory): h[ttps://www.youtube.com/watch?v=JAxfcKQCwfA](https://www.youtube.com/watch?v=JAxfcKQCwfA) 
 * [VR Best Practices](https://developer.oculus.com/documentation/intro-vr/latest/concepts/bp_intro/) - VR Best Practices by Oculus.
 * New type of locomotion: [http://smirkingcat.software/ripmotion/](http://smirkingcat.software/ripmotion/)
-* Udemy starter VR Course: https://www.udemy.com/developing-oculus-rift-vr-applications-with-unity3d/
+* Udemy starter VR Course: [https://www.udemy.com/developing-oculus-rift-vr-applications-with-unity3d/]()
 * Do it yourself VR: [http://diy-vr.com/ ](http://diy-vr.com/)
 * Get Started Making Virtual Reality Games in Unity 5 for Free: [http://www.makeuseof.com/tag/get-started-making-virtual-reality-games-unity-5-free/](http://www.makeuseof.com/tag/get-started-making-virtual-reality-games-unity-5-free/ "Link to website")
-* Create a 1:1 replica of your VR workspace in under an hour with Unity: https://medium.com/yvr/create-a-1-1-replica-of-your-vr-workspace-in-under-an-hour-with-unity-71399bdb50a9#.fpm4b223g
-* OLD: http://www.digitaltutors.com/tutorial/2227-Getting-Started-with-VR-in-Unity
+* Create a 1:1 replica of your VR workspace in under an hour with Unity: [https://medium.com/yvr/create-a-1-1-replica-of-your-vr-workspace-in-under-an-hour-with-unity-71399bdb50a9#.fpm4b223g]()
+* OLD: [http://www.digitaltutors.com/tutorial/2227-Getting-Started-with-VR-in-Unity]()
 * Facial Recognition: [https://www.technologyreview.com/s/537566/oculus-rift-hack-transfers-your-facial-expressions-onto-your-avatar/]()
 
 ## VR Book
@@ -109,17 +109,17 @@ Axey Works: [https://www.assetstore.unity3d.com/en/#!/content/58821]()
 * Google TiltBrush Utility: [https://github.com/google/tiltbrushtoolkit]()
 * VR Simulator: [http://developers.immerseum.io/vr-simulator-beta-0.9/]()
 * Multi HMD: [http://intugame.com/quarkvr/](http://intugame.com/quarkvr/)
-* ReVive: https://github.com/LibreVR/Revive
-* VR Prototipes: http://grayboxvr.com/
+* ReVive: [https://github.com/LibreVR/Revive]()
+* VR Prototipes: [http://grayboxvr.com/]()
 
 ## List of Immersive Virtual Worlds:
-- http://www.vrchat.net/
-- http://janusvr.com/
-- https://highfidelity.com/
-- http://altvr.com/
-- http://surre.al/
-- http://scenevr.com/
-- https://projectsansar.com/
+- [http://www.vrchat.net/]()
+- [http://janusvr.com/]()
+- [https://highfidelity.com/]()
+- [http://altvr.com/]()
+- [http://surre.al/]()
+- [http://scenevr.com/]()
+- [https://projectsansar.com/]()
 
 ### Reddit on Virtual Reality:
 - [Virtual Reality](https://www.reddit.com/r/virtualreality/) 
