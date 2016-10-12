@@ -41,6 +41,7 @@
 - [Freecad](http://www.freecadweb.org/)
 - [Anim8or](http://www.anim8or.com/)
 - [Make Human](http://www.makehuman.org/)
+- [DeleD 3DEditor CE](https://sourceforge.net/projects/deled/)
 
 ### Web
 - [Awesome WebVR](https://github.com/wizztjh/awesome-WebVR) - List of WebVR resources.
