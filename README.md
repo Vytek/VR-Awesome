@@ -52,6 +52,8 @@
 ## Unity VR Plugin
 
 * SteamVR: [https://github.com/ValveSoftware/openvr](https://github.com/ValveSoftware/openvr)
+* Steam Lab Render: https://www.assetstore.unity3d.com/en/#!/content/63141 - [https://github.com/ValveSoftware/the_lab_renderer]()
+* HTC Vive Asset Store Plugin:  [https://www.assetstore.unity3d.com/en/#!/search/page=1/sortby=popularity/query=publisher:21581]()
 * VRTK: [https://github.com/thestonefox/SteamVR_Unity_Toolkit]()
 * HTC Vive Teleportation System with Parabolic Pointer: [https://github.com/Flafla2/Vive-Teleporter]()
 * NewtonVR: [https://github.com/TomorrowTodayLabs/NewtonVR]()
@@ -79,7 +81,7 @@ Axey Works: [https://www.assetstore.unity3d.com/en/#!/content/58821]()
 	2. http://www.convrge.co/add-voice-chat-to-unity-using-dfvoice 
 	3. [https://archive.is/Jp8qw](https://archive.is/Jp8qw)
 	4. [https://archive.is/NYbB1]( https://archive.is/NYbB1)
-* [Virtual Reality by Unity](http://unity3d.com/learn/tutorials/topics/virtual-reality/)
+* [Virtual Reality by Unity](http://unity3d.com/learn/tutorials/topics/virtual-reality/) - https://www.assetstore.unity3d.com/en/#!/content/51519
 * [https://blogs.unity3d.com/2015/12/09/get-started-with-vr-sample-pack-learning-articles/]()
 * Interesting VR Tutorial: [http://www.leadingones.com/index.html](http://www.leadingones.com/index.html)
 * Unity Introduction for VR (USC GamePipe Laboratory): h[ttps://www.youtube.com/watch?v=JAxfcKQCwfA](https://www.youtube.com/watch?v=JAxfcKQCwfA) 
