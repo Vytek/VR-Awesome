@@ -25,6 +25,7 @@
 - https://manus-vr.com/ - VR Glove
 - http://www.vicovr.com/
 - http://www.smivision.com/en/gaze-and-eye-tracking-systems/home.html - Eyes Tracking
+- http://www.binaryvr.com/ - Facial Recognition
 
 ## Software
 
@@ -89,6 +90,7 @@ Axey Works: [https://www.assetstore.unity3d.com/en/#!/content/58821]()
 * Get Started Making Virtual Reality Games in Unity 5 for Free: [http://www.makeuseof.com/tag/get-started-making-virtual-reality-games-unity-5-free/](http://www.makeuseof.com/tag/get-started-making-virtual-reality-games-unity-5-free/ "Link to website")
 * Create a 1:1 replica of your VR workspace in under an hour with Unity: https://medium.com/yvr/create-a-1-1-replica-of-your-vr-workspace-in-under-an-hour-with-unity-71399bdb50a9#.fpm4b223g
 * OLD: http://www.digitaltutors.com/tutorial/2227-Getting-Started-with-VR-in-Unity
+* Facial Recognition: [https://www.technologyreview.com/s/537566/oculus-rift-hack-transfers-your-facial-expressions-onto-your-avatar/]()
 
 ## VR Book
 * [http://www.thevrbook.net/]() 
