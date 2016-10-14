@@ -27,6 +27,10 @@
 - [http://www.smivision.com/en/gaze-and-eye-tracking-systems/home.html](http://www.smivision.com/en/gaze-and-eye-tracking-systems/home.html) - Eyes Tracking
 - [http://www.binaryvr.com/](http://www.binaryvr.com/) - Facial Recognition
 
+### Accessories
+
+* [http://www.vive.com/eu/accessory/](http://www.vive.com/eu/accessory/)
+
 ## Software
 
 ### (Game) engines
