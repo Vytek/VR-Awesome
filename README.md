@@ -66,6 +66,7 @@
 * Mirror in VR for SteamVR:
 	1. [https://www.assetstore.unity3d.com/en/#!/content/71255](https://www.assetstore.unity3d.com/en/#!/content/71255)
 	2. [https://github.com/AADProductions/VR-Mirrors](ttps://github.com/AADProductions/VR-Mirrors)
+* Unity Post Processing source: [https://github.com/Unity-Technologies/PostProcessing/wiki](https://github.com/Unity-Technologies/PostProcessing/wiki)
 * HTC Vive Hack guide: [http://www.ultravr.org/htc-vive-guide/](http://www.ultravr.org/htc-vive-guide/)
 
 ### Unity Assets for VR:
@@ -74,6 +75,9 @@
 * Low Poly: Free Pack 3D Models/Environments
 Axey Works: [https://www.assetstore.unity3d.com/en/#!/content/58821](https://www.assetstore.unity3d.com/en/#!/content/58821)
 * Low Poly Animals: [http://opengameart.org/content/5-low-poly-animals](http://opengameart.org/content/5-low-poly-animals)
+
+### UnrealEngine VR
+* [VRTemplate](https://github.com/tomlooman/VRTemplates)
 
 ## VR Dev School, VR Course, Tutorials, VR Blogs:
 
