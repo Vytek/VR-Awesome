@@ -21,7 +21,7 @@
 - [http://ovrvision.com/order-ovr1/](http://ovrvision.com/order-ovr1/)
 - [https://www.thalmic.com/en/myo/](https://www.thalmic.com/en/myo/)
 - [http://www.remoriavr.com/](http://www.remoriavr.com/) - Lignum Input
-- [http://julesthuillier.com/vrtracker/](http://julesthuillier.com/vrtracker/) 
+- [http://julesthuillier.com/vrtracker/](http://julesthuillier.com/vrtracker/)
 - [https://manus-vr.com/](https://manus-vr.com/) - VR Glove
 - [http://www.vicovr.com/](http://www.vicovr.com/)
 - [http://www.smivision.com/en/gaze-and-eye-tracking-systems/home.html](http://www.smivision.com/en/gaze-and-eye-tracking-systems/home.html) - Eyes Tracking
@@ -62,7 +62,7 @@
 * VRTK: [https://github.com/thestonefox/SteamVR_Unity_Toolkit](https://github.com/thestonefox/SteamVR_Unity_Toolkit)
 * HTC Vive Teleportation System with Parabolic Pointer: [https://github.com/Flafla2/Vive-Teleporter](https://github.com/Flafla2/Vive-Teleporter)
 * NewtonVR: [https://github.com/TomorrowTodayLabs/NewtonVR](https://github.com/TomorrowTodayLabs/NewtonVR)
-* Facal Point VR: [http://www.albert-hwang.com/focal-point-vr](http://www.albert-hwang.com/focal-point-vr) 
+* Facal Point VR: [http://www.albert-hwang.com/focal-point-vr](http://www.albert-hwang.com/focal-point-vr)
 * Mirror in VR for SteamVR:
 	1. [https://www.assetstore.unity3d.com/en/#!/content/71255](https://www.assetstore.unity3d.com/en/#!/content/71255)
 	2. [https://github.com/AADProductions/VR-Mirrors](ttps://github.com/AADProductions/VR-Mirrors)
@@ -82,33 +82,35 @@ Axey Works: [https://www.assetstore.unity3d.com/en/#!/content/58821](https://www
 * Udemy VR Course: [https://www.udemy.com/courses/search/?q=VR&src=ukw](https://www.udemy.com/courses/search/?q=VR&src=ukw)
 * Udacity VR Developer Nanodegree: [https://www.udacity.com/course/vr-developer-nanodegree--nd017](https://www.udacity.com/course/vr-developer-nanodegree--nd017)
 * Tutorial Convrge for multiplayer VR
-	1. [http://www.convrge.co/multiplayer-oculus-rift-games-in-unity-tutorial](http://www.convrge.co/multiplayer-oculus-rift-games-in-unity-tutorial) 
-	2. [http://www.convrge.co/add-voice-chat-to-unity-using-dfvoice](http://www.convrge.co/add-voice-chat-to-unity-using-dfvoice) 
+	1. [http://www.convrge.co/multiplayer-oculus-rift-games-in-unity-tutorial](http://www.convrge.co/multiplayer-oculus-rift-games-in-unity-tutorial)
+	2. [http://www.convrge.co/add-voice-chat-to-unity-using-dfvoice](http://www.convrge.co/add-voice-chat-to-unity-using-dfvoice)
 	3. [https://archive.is/Jp8qw](https://archive.is/Jp8qw)
 	4. [https://archive.is/NYbB1]( https://archive.is/NYbB1)
 * [Virtual Reality by Unity](http://unity3d.com/learn/tutorials/topics/virtual-reality/) - [https://www.assetstore.unity3d.com/en/#!/content/51519]()
 * [https://blogs.unity3d.com/2015/12/09/get-started-with-vr-sample-pack-learning-articles/](https://blogs.unity3d.com/2015/12/09/get-started-with-vr-sample-pack-learning-articles/)
 * Interesting VR Tutorial: [http://www.leadingones.com/index.html](http://www.leadingones.com/index.html)
-* Unity Introduction for VR (USC GamePipe Laboratory): h[ttps://www.youtube.com/watch?v=JAxfcKQCwfA](https://www.youtube.com/watch?v=JAxfcKQCwfA) 
+* Unity Introduction for VR (USC GamePipe Laboratory): h[ttps://www.youtube.com/watch?v=JAxfcKQCwfA](https://www.youtube.com/watch?v=JAxfcKQCwfA)
 * [VR Best Practices](https://developer.oculus.com/documentation/intro-vr/latest/concepts/bp_intro/) - VR Best Practices by Oculus.
 * New type of locomotion: [http://smirkingcat.software/ripmotion/](http://smirkingcat.software/ripmotion/)
 * Udemy starter VR Course: [https://www.udemy.com/developing-oculus-rift-vr-applications-with-unity3d/](https://www.udemy.com/developing-oculus-rift-vr-applications-with-unity3d/)
 * Do it yourself VR: [http://diy-vr.com/ ](http://diy-vr.com/)
 * Get Started Making Virtual Reality Games in Unity 5 for Free: [http://www.makeuseof.com/tag/get-started-making-virtual-reality-games-unity-5-free/](http://www.makeuseof.com/tag/get-started-making-virtual-reality-games-unity-5-free/ "Link to website")
-* Create a 1:1 replica of your VR workspace in under an hour with Unity: [https://medium.com/yvr/create-a-1-1-replica-of-your-vr-workspace-in-under-an-hour-with-unity-71399bdb50a9#.fpm4b223g]()
+* Create a 1:1 replica of your VR workspace in under an hour with Unity: [https://medium.com/yvr/create-a-1-1-replica-of-your-vr-workspace-in-under-an-hour-with-unity-71399bdb50a9#.fpm4b223g](https://medium.com/yvr/create-a-1-1-replica-of-your-vr-workspace-in-under-an-hour-with-unity-71399bdb50a9#.fpm4b223g)
+* Very Interesting Blog for Unity VR Beginner developer: [ thttps://livierickson.com/blog/](https://livierickson.com/blog/)
 * OLD: [http://www.digitaltutors.com/tutorial/2227-Getting-Started-with-VR-in-Unity](http://www.digitaltutors.com/tutorial/2227-Getting-Started-with-VR-in-Unity)
 * Facial Recognition: [https://www.technologyreview.com/s/537566/oculus-rift-hack-transfers-your-facial-expressions-onto-your-avatar/](https://www.technologyreview.com/s/537566/oculus-rift-hack-transfers-your-facial-expressions-onto-your-avatar/)
 
 ## VR Book
-* [http://www.thevrbook.net/](http://www.thevrbook.net/) 
+* [http://www.thevrbook.net/](http://www.thevrbook.net/)
 * [http://www.amazon.it/gp/product/1466511842](http://www.amazon.it/gp/product/1466511842)
 * [Oculus in Action](https://www.amazon.com/Oculus-Action-Bradley-Austin-Davis/dp/1617292192)
 * [Unity Virtual Reality Projects](https://www.amazon.it/Virtual-Reality-Projects-Jonathan-Linowes/dp/178398855X)
 * [Learning Virtual Reality: Developing Immersive Experiences and Applications for Desktop, Web, and Mobile](https://www.amazon.com/Learning-Virtual-Reality-Experiences-Applications/dp/1491922834/)
+* [Entering Metaverse](https://www.amazon.it/Entering-Metaverse-Joining-Virtual-Industry-ebook/dp/B01LLHGAX6/ref=sr_1_1?ie=UTF8&qid=1476435500)
 * VR Book from Prof. LaValle and MOOC VR Course:
 	1. [http://vr.cs.uiuc.edu/](http://vr.cs.uiuc.edu/)
 	2. [http://nptel.ac.in/syllabus/106106138/](http://nptel.ac.in/syllabus/106106138/)
-	
+
 ## VR Tools and PlugIn:
 
 * Google TiltBrush Utility: [https://github.com/google/tiltbrushtoolkit](https://github.com/google/tiltbrushtoolkit)
@@ -127,9 +129,9 @@ Axey Works: [https://www.assetstore.unity3d.com/en/#!/content/58821](https://www
 - [https://projectsansar.com/](https://projectsansar.com/)
 
 ### Reddit on Virtual Reality:
-- [Virtual Reality](https://www.reddit.com/r/virtualreality/) 
+- [Virtual Reality](https://www.reddit.com/r/virtualreality/)
 - [Oculus](https://www.reddit.com/r/oculus/)
-- [Vive](https://www.reddit.com/r/vive/) 
+- [Vive](https://www.reddit.com/r/vive/)
 - [/r/VRplugins/](https://www.reddit.com/r/VRplugins/)
 - [/r/learnVRdev/](https://www.reddit.com/r/learnVRdev/)
 - [/r/vrdev/](https://www.reddit.com/r/vrdev/)
