@@ -102,7 +102,9 @@ Axey Works: [https://www.assetstore.unity3d.com/en/#!/content/58821](https://www
 * Get Started Making Virtual Reality Games in Unity 5 for Free: [http://www.makeuseof.com/tag/get-started-making-virtual-reality-games-unity-5-free/](http://www.makeuseof.com/tag/get-started-making-virtual-reality-games-unity-5-free/ "Link to website")
 * Create a 1:1 replica of your VR workspace in under an hour with Unity: [https://medium.com/yvr/create-a-1-1-replica-of-your-vr-workspace-in-under-an-hour-with-unity-71399bdb50a9#.fpm4b223g](https://medium.com/yvr/create-a-1-1-replica-of-your-vr-workspace-in-under-an-hour-with-unity-71399bdb50a9#.fpm4b223g)
 * Very Interesting Blog for Unity VR Beginner developer: [ thttps://livierickson.com/blog/](https://livierickson.com/blog/)
+* Stater Tutorial for Unity VR Vive Developer: [https://www.youtube.com/watch?v=ewqRU9y0i4I](https://www.youtube.com/watch?v=ewqRU9y0i4I)
 * NormalVR (New VR Blog): [http://www.normalvr.com/blog/throwing-throw-down/](http://www.normalvr.com/blog/throwing-throw-down/)
+* Oculus Rift in Action Blog: [https://rifty-business.blogspot.it/](https://rifty-business.blogspot.it/)
 * OLD: [http://www.digitaltutors.com/tutorial/2227-Getting-Started-with-VR-in-Unity](http://www.digitaltutors.com/tutorial/2227-Getting-Started-with-VR-in-Unity)
 * Facial Recognition: [https://www.technologyreview.com/s/537566/oculus-rift-hack-transfers-your-facial-expressions-onto-your-avatar/](https://www.technologyreview.com/s/537566/oculus-rift-hack-transfers-your-facial-expressions-onto-your-avatar/)
 
