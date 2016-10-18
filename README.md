@@ -30,6 +30,8 @@
 ### Accessories
 
 * [http://www.vive.com/eu/accessory/](http://www.vive.com/eu/accessory/)
+* Top 10 Tips for New HTC Vive Owners: [https://www.youtube.com/watch?v=FBRwSx125Z8](https://www.youtube.com/watch?v=FBRwSx125Z8)
+* How to add working replacement models for steamVR: [http://steamcommunity.com/sharedfiles/filedetails/?id=687365559](http://steamcommunity.com/sharedfiles/filedetails/?id=687365559)
 
 ## Software
 
@@ -78,6 +80,9 @@ Axey Works: [https://www.assetstore.unity3d.com/en/#!/content/58821](https://www
 * Low Poly Animals: [http://opengameart.org/content/5-low-poly-animals](http://opengameart.org/content/5-low-poly-animals)
 
 ### UnrealEngine VR
+
+* [https://github.com/CJRobertson/HTCViveTemplate-UE4](https://github.com/CJRobertson/HTCViveTemplate-UE4)
+* [https://forums.unrealengine.com/showthread.php?106609-Steam-VR-Template](https://forums.unrealengine.com/showthread.php?106609-Steam-VR-Template)
 * [VRTemplate](https://github.com/tomlooman/VRTemplates)
 
 ## VR Dev School, VR Course, Tutorials, VR Blogs:
@@ -107,6 +112,8 @@ Axey Works: [https://www.assetstore.unity3d.com/en/#!/content/58821](https://www
 * Oculus Rift in Action Blog: [https://rifty-business.blogspot.it/](https://rifty-business.blogspot.it/)
 * OLD: [http://www.digitaltutors.com/tutorial/2227-Getting-Started-with-VR-in-Unity](http://www.digitaltutors.com/tutorial/2227-Getting-Started-with-VR-in-Unity)
 * Facial Recognition: [https://www.technologyreview.com/s/537566/oculus-rift-hack-transfers-your-facial-expressions-onto-your-avatar/](https://www.technologyreview.com/s/537566/oculus-rift-hack-transfers-your-facial-expressions-onto-your-avatar/)
+* CREATING IMMERSIVE AUDIO IN VR:   [http://www.blockinterval.com/project-updates/2015/11/10/better-sound-design-in-vr](http://www.blockinterval.com/project-updates/2015/11/10/better-sound-design-in-vr)
+* [http://entitycrisis.blogspot.it/2014/09/surround-binaural-or-spatial-sound-in.html](http://entitycrisis.blogspot.it/2014/09/surround-binaural-or-spatial-sound-in.html)
 
 ## VR Book
 * [http://www.thevrbook.net/](http://www.thevrbook.net/)
