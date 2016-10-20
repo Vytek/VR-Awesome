@@ -71,6 +71,7 @@
 	2. [https://github.com/AADProductions/VR-Mirrors](ttps://github.com/AADProductions/VR-Mirrors)
 * VR Movement System for HTC Vive: https://www.assetstore.unity3d.com/en/#!/content/47329
 * VR Movement System for Oculus Touch: https://www.assetstore.unity3d.com/en/#!/content/47292
+* Flight Navigation for HTC Vive controller: [https://www.assetstore.unity3d.com/en/#!/content/61830](https://www.assetstore.unity3d.com/en/#!/content/61830)
 * Unity Post Processing source: [https://github.com/Unity-Technologies/PostProcessing/wiki](https://github.com/Unity-Technologies/PostProcessing/wiki)
 * HTC Vive Hack guide: [http://www.ultravr.org/htc-vive-guide/](http://www.ultravr.org/htc-vive-guide/)
 
