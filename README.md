@@ -1,7 +1,7 @@
 # VR-Awesome
 ## Hardware
 
-### Head-mounted display
+### Head-mounted display:
 
 - [Oculus Rift](https://www.oculus.com/en-us/rift/)
 - [HTC Vive](http://www.htcvr.com/)
@@ -10,7 +10,7 @@
 - [Google Cardboard](https://vr.google.com/cardboard/)
 - [Google Daydream View](https://vr.google.com/daydream/headset/)
 
-### Other hardware
+### Other hardware:
 - [Leap Motion](https://www.leapmotion.com/) - Use hand and finger motions as input.
 - [http://priovr.com/#about](http://priovr.com/#about)
 - [https://neuronmocap.com/]() - Mocap
@@ -35,13 +35,13 @@
 
 ## Software
 
-### (Game) engines
+### (Game) engines:
 - [Unity](https://unity3d.com/) - Lots of resources, easy to get started. [Awesome Unity ](https://github.com/RyanNielson/awesome-unity)
   - [Google VR SDK for Unity](https://developers.google.com/vr/unity/#features) - Build VR applications for Android and iOS.
 - [Unreal Engine](https://www.unrealengine.com) - VR Tutorials: [https://docs.unrealengine.com/latest/INT/Platforms/VR/](https://docs.unrealengine.com/latest/INT/Platforms/VR/)
 - [CryEngine](https://www.cryengine.com) - VR First Tutorials: [https://www.cryengine.com/tutorials/vr-first-webinars](https://www.cryengine.com/tutorials/vr-first-webinars)
 
-### 3D modeling
+### 3D modeling:
 - [Blender](https://www.blender.org/)
 - [Wings3d](http://www.wings3d.com/)
 - [Freecad](http://www.freecadweb.org/)
@@ -49,14 +49,14 @@
 - [Make Human](http://www.makehuman.org/)
 - [DeleD 3DEditor CE](https://sourceforge.net/projects/deled/)
 
-### Web
+### Web:
 - [Awesome WebVR](https://github.com/wizztjh/awesome-WebVR) - List of WebVR resources.
 
-## UI/UX
+## UI/UX:
 
 - [UI/UX VR](https://github.com/omgmog/ui-ux-vr) - A list of resources about the UI/UX considerations for VR.
 
-## Unity VR Plugin
+## Unity VR Plugin:
 
 * SteamVR: [https://github.com/ValveSoftware/openvr](https://github.com/ValveSoftware/openvr)
 * Steam Lab Render: [https://www.assetstore.unity3d.com/en/#!/content/63141](https://www.assetstore.unity3d.com/en/#!/content/63141) - [https://github.com/ValveSoftware/the_lab_renderer](https://github.com/ValveSoftware/the_lab_renderer)
@@ -69,6 +69,8 @@
 * Mirror in VR for SteamVR:
 	1. [https://www.assetstore.unity3d.com/en/#!/content/71255](https://www.assetstore.unity3d.com/en/#!/content/71255)
 	2. [https://github.com/AADProductions/VR-Mirrors](ttps://github.com/AADProductions/VR-Mirrors)
+* VR Movement System for HTC Vive: https://www.assetstore.unity3d.com/en/#!/content/47329
+* VR Movement System for Oculus Touch: https://www.assetstore.unity3d.com/en/#!/content/47292
 * Unity Post Processing source: [https://github.com/Unity-Technologies/PostProcessing/wiki](https://github.com/Unity-Technologies/PostProcessing/wiki)
 * HTC Vive Hack guide: [http://www.ultravr.org/htc-vive-guide/](http://www.ultravr.org/htc-vive-guide/)
 
@@ -79,7 +81,7 @@
 Axey Works: [https://www.assetstore.unity3d.com/en/#!/content/58821](https://www.assetstore.unity3d.com/en/#!/content/58821)
 * Low Poly Animals: [http://opengameart.org/content/5-low-poly-animals](http://opengameart.org/content/5-low-poly-animals)
 
-### UnrealEngine VR
+### UnrealEngine VR:
 
 * [https://github.com/CJRobertson/HTCViveTemplate-UE4](https://github.com/CJRobertson/HTCViveTemplate-UE4)
 * [https://forums.unrealengine.com/showthread.php?106609-Steam-VR-Template](https://forums.unrealengine.com/showthread.php?106609-Steam-VR-Template)
@@ -112,10 +114,20 @@ Axey Works: [https://www.assetstore.unity3d.com/en/#!/content/58821](https://www
 * Oculus Rift in Action Blog: [https://rifty-business.blogspot.it/](https://rifty-business.blogspot.it/)
 * OLD: [http://www.digitaltutors.com/tutorial/2227-Getting-Started-with-VR-in-Unity](http://www.digitaltutors.com/tutorial/2227-Getting-Started-with-VR-in-Unity)
 * Facial Recognition: [https://www.technologyreview.com/s/537566/oculus-rift-hack-transfers-your-facial-expressions-onto-your-avatar/](https://www.technologyreview.com/s/537566/oculus-rift-hack-transfers-your-facial-expressions-onto-your-avatar/)
-* CREATING IMMERSIVE AUDIO IN VR:   [http://www.blockinterval.com/project-updates/2015/11/10/better-sound-design-in-vr](http://www.blockinterval.com/project-updates/2015/11/10/better-sound-design-in-vr)
-* [http://entitycrisis.blogspot.it/2014/09/surround-binaural-or-spatial-sound-in.html](http://entitycrisis.blogspot.it/2014/09/surround-binaural-or-spatial-sound-in.html)
 
-## VR Book
+## CREATING IMMERSIVE SPATIAL AUDIO IN VR:   
+* [http://www.blockinterval.com/project-updates/2015/11/10/better-sound-design-in-vr](http://www.blockinterval.com/project-updates/2015/11/10/better-sound-design-in-vr)
+* [http://entitycrisis.blogspot.it/2014/09/surround-binaural-or-spatial-sound-in.html](http://entitycrisis.blogspot.it/2014/09/surround-binaural-or-spatial-sound-in.html)
+* [http://dearvr.com/](http://dearvr.com/)
+* [https://www.assetstore.unity3d.com/en/#!/content/21994](https://www.assetstore.unity3d.com/en/#!/content/21994)
+* [http://csoundjournal.com/issue19/InterfacingCsoundUnity.html](http://csoundjournal.com/issue19/InterfacingCsoundUnity.html)
+* [https://github.com/marteroel/Binaural3D_Sound_Unity_Csound](https://github.com/marteroel/Binaural3D_Sound_Unity_Csound)
+* [http://rorywalsh.github.io/CsoundUnity/](http://rorywalsh.github.io/CsoundUnity/)
+* [http://realspace3daudio.com/unityplugindownloads/](http://realspace3daudio.com/unityplugindownloads/)
+Questa lista riporta i migliori motori HRTF:
+[http://designingsound.org/2015/04/3d-audio-weighing-the-options/](http://designingsound.org/2015/04/3d-audio-weighing-the-options/)
+
+## VR Book:
 * [http://www.thevrbook.net/](http://www.thevrbook.net/)
 * [http://www.amazon.it/gp/product/1466511842](http://www.amazon.it/gp/product/1466511842)
 * [Oculus in Action](https://www.amazon.com/Oculus-Action-Bradley-Austin-Davis/dp/1617292192)
