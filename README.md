@@ -171,3 +171,8 @@ Questa lista riporta i migliori motori HRTF:
 - [Awesome VR](https://github.com/cjroth/awesome-vr)
 - [Awesome WebVR](https://github.com/wizztjh/awesome-WebVR)
 - [Awesome VR UX](https://github.com/mauricesvay/awesome-vr-ux)
+
+## How to build a Metaverse
+
+* [https://github.com/HiddenMonk/Unity3DRuntimeTransformGizmo](https://github.com/HiddenMonk/Unity3DRuntimeTransformGizmo)
+* [http://www.darkriftnetworking.com/Default.cshtml](http://www.darkriftnetworking.com/Default.cshtml)
