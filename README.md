@@ -147,6 +147,7 @@ Questa lista riporta i migliori motori HRTF:
 * ReVive: [https://github.com/LibreVR/Revive]()
 * VR Prototipes: [http://grayboxvr.com/](http://grayboxvr.com/)
 * A tool to export any Unity GameObject into a FBX ASCII format: [https://github.com/KellanHiggins/UnityFBXExporter](https://github.com/KellanHiggins/UnityFBXExporter)
+* CognitiveVR, VR data analisys: [http://cognitivevr.co/](http://cognitivevr.co/)
 
 ## List of Immersive Virtual Worlds:
 - [http://www.vrchat.net/](http://www.vrchat.net/)
