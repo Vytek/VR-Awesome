@@ -113,6 +113,7 @@ Axey Works: [https://www.assetstore.unity3d.com/en/#!/content/58821](https://www
 * Stater Tutorial for Unity VR Vive Developer: [https://www.youtube.com/watch?v=ewqRU9y0i4I](https://www.youtube.com/watch?v=ewqRU9y0i4I)
 * NormalVR (New VR Blog): [http://www.normalvr.com/blog/throwing-throw-down/](http://www.normalvr.com/blog/throwing-throw-down/)
 * Oculus Rift in Action Blog: [https://rifty-business.blogspot.it/](https://rifty-business.blogspot.it/)
+* Add a Mirror for the HTC Vive in Unity: [https://www.youtube.com/watch?v=OgYBKzJiqI0](https://www.youtube.com/watch?v=OgYBKzJiqI0)
 * OLD: [http://www.digitaltutors.com/tutorial/2227-Getting-Started-with-VR-in-Unity](http://www.digitaltutors.com/tutorial/2227-Getting-Started-with-VR-in-Unity)
 * Facial Recognition: [https://www.technologyreview.com/s/537566/oculus-rift-hack-transfers-your-facial-expressions-onto-your-avatar/](https://www.technologyreview.com/s/537566/oculus-rift-hack-transfers-your-facial-expressions-onto-your-avatar/)
 
