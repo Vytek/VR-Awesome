@@ -54,7 +54,7 @@
 
 ## UI/UX:
 
-- [UI/UX VR](https://github.com/omgmog/ui-ux-vr) - A list of resources about the UI/UX considerations for VR.
+- [UX of VR](http://www.uxofvr.com/) - A list of resources about the UI/UX considerations for VR.
 
 ## Unity VR Plugin:
 
