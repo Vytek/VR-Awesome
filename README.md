@@ -5,10 +5,10 @@
 
 ### Head-mounted display:
 
-- [Oculus Rift](https://www.oculus.com/en-us/rift/)
-- [HTC Vive](http://www.htcvr.com/)
+- [Oculus Rift](https://www.oculus.com/rift)
+- [HTC Vive](http://www.htcvive.com/us/)
 - [Razer OSVR](http://www.osvr.org/)
-- [FOVE](http://www.getfove.com/)
+- [FOVE](https://www.getfove.com/)
 - [Google Cardboard](https://vr.google.com/cardboard/)
 - [Google Daydream View](https://vr.google.com/daydream/headset/)
 
@@ -20,10 +20,10 @@
 - [http://sixense.com/wireless](http://sixense.com/wireless)
 - [http://www.reachvr.com/](http://www.reachvr.com/)
 - [http://graphinesoftware.com/](http://graphinesoftware.com/)
-- [http://ovrvision.com/order-ovr1/](http://ovrvision.com/order-ovr1/)
-- [https://www.thalmic.com/en/myo/](https://www.thalmic.com/en/myo/)
+- [http://ovrvision.com/](http://ovrvision.com/order-ovr1/)
+- [https://www.myo.com/](https://www.thalmic.com/en/myo/)
 - [http://www.remoriavr.com/](http://www.remoriavr.com/) - Lignum Input
-- [http://julesthuillier.com/vrtracker/](http://julesthuillier.com/vrtracker/)
+- [http://vrtracker.xyz/](http://julesthuillier.com/vrtracker/)
 - [https://manus-vr.com/](https://manus-vr.com/) - VR Glove
 - [http://www.vicovr.com/](http://www.vicovr.com/)
 - [http://www.smivision.com/en/gaze-and-eye-tracking-systems/home.html](http://www.smivision.com/en/gaze-and-eye-tracking-systems/home.html) - Eyes Tracking
@@ -64,7 +64,7 @@
 * Steam Lab Render: [https://www.assetstore.unity3d.com/en/#!/content/63141](https://www.assetstore.unity3d.com/en/#!/content/63141) - [https://github.com/ValveSoftware/the_lab_renderer](https://github.com/ValveSoftware/the_lab_renderer)
 * HTC Vive Asset Store Plugin:  [https://www.assetstore.unity3d.com/en/#!/search/page=1/sortby=popularity/query=publisher:21581]()
 * HTC Vive Teleportation System with Parabolic Pointer: [https://github.com/Flafla2/Vive-Teleporter](https://github.com/Flafla2/Vive-Teleporter)
-* VRTK: [https://github.com/thestonefox/SteamVR_Unity_Toolkit](https://github.com/thestonefox/SteamVR_Unity_Toolkit)
+* VRTK: [https://github.com/thestonefox/VRTK](https://github.com/thestonefox/SteamVR_Unity_Toolkit)
 * NewtonVR: [https://github.com/TomorrowTodayLabs/NewtonVR](https://github.com/TomorrowTodayLabs/NewtonVR)
 * Facal Point VR: [http://www.albert-hwang.com/focal-point-vr](http://www.albert-hwang.com/focal-point-vr)
 * Vive Grip: [https://github.com/JScott/ViveGrip](https://github.com/JScott/ViveGrip)
@@ -101,11 +101,11 @@ Axey Works: [https://www.assetstore.unity3d.com/en/#!/content/58821](https://www
 	2. [http://www.convrge.co/add-voice-chat-to-unity-using-dfvoice](http://www.convrge.co/add-voice-chat-to-unity-using-dfvoice)
 	3. [https://archive.is/Jp8qw](https://archive.is/Jp8qw)
 	4. [https://archive.is/NYbB1]( https://archive.is/NYbB1)
-* [Virtual Reality by Unity](http://unity3d.com/learn/tutorials/topics/virtual-reality/) - [https://www.assetstore.unity3d.com/en/#!/content/51519]()
+* [Virtual Reality by Unity](https://unity3d.com/learn/tutorials/topics/virtual-reality/) - [https://www.assetstore.unity3d.com/en/#!/content/51519]()
 * [https://blogs.unity3d.com/2015/12/09/get-started-with-vr-sample-pack-learning-articles/](https://blogs.unity3d.com/2015/12/09/get-started-with-vr-sample-pack-learning-articles/)
 * Interesting VR Tutorial: [http://www.leadingones.com/index.html](http://www.leadingones.com/index.html)
 * Unity Introduction for VR (USC GamePipe Laboratory): h[ttps://www.youtube.com/watch?v=JAxfcKQCwfA](https://www.youtube.com/watch?v=JAxfcKQCwfA)
-* [VR Best Practices](https://developer.oculus.com/documentation/intro-vr/latest/concepts/bp_intro/) - VR Best Practices by Oculus.
+* [VR Best Practices](https://developer3.oculus.com/documentation/intro-vr/latest/concepts/bp_intro/) - VR Best Practices by Oculus.
 * New type of locomotion: [http://smirkingcat.software/ripmotion/](http://smirkingcat.software/ripmotion/)
 * Udemy starter VR Course: [https://www.udemy.com/developing-oculus-rift-vr-applications-with-unity3d/](https://www.udemy.com/developing-oculus-rift-vr-applications-with-unity3d/)
 * Do it yourself VR: [http://diy-vr.com/ ](http://diy-vr.com/)
@@ -134,7 +134,7 @@ Questa lista riporta i migliori motori HRTF:
 
 ## VR Book:
 * [http://www.thevrbook.net/](http://www.thevrbook.net/)
-* [http://www.amazon.it/gp/product/1466511842](http://www.amazon.it/gp/product/1466511842)
+* [https://www.amazon.it/gp/product/1466511842](http://www.amazon.it/gp/product/1466511842)
 * [Oculus in Action](https://www.amazon.com/Oculus-Action-Bradley-Austin-Davis/dp/1617292192)
 * [Unity Virtual Reality Projects](https://www.amazon.it/Virtual-Reality-Projects-Jonathan-Linowes/dp/178398855X)
 * [Learning Virtual Reality: Developing Immersive Experiences and Applications for Desktop, Web, and Mobile](https://www.amazon.com/Learning-Virtual-Reality-Experiences-Applications/dp/1491922834/)
@@ -157,10 +157,10 @@ Questa lista riporta i migliori motori HRTF:
 - [http://www.vrchat.net/](http://www.vrchat.net/)
 - [http://janusvr.com/](http://janusvr.com/)
 - [https://highfidelity.com/](https://highfidelity.com/)
-- [http://altvr.com/](http://altvr.com/)
-- [http://surre.al/](http://surre.al/)
+- [https://altvr.com/](http://altvr.com/)
+- [http://surrealvr.com](http://surre.al/)
 - [http://scenevr.com/](http://scenevr.com/)
-- [https://projectsansar.com/](https://projectsansar.com/)
+- [https://www.sansar.com/](https://projectsansar.com/)
 
 ### Reddit on Virtual Reality:
 - [Virtual Reality](https://www.reddit.com/r/virtualreality/)
