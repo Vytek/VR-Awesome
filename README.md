@@ -129,13 +129,16 @@ Axey Works: [https://www.assetstore.unity3d.com/en/#!/content/58821](https://www
 * [https://github.com/marteroel/Binaural3D_Sound_Unity_Csound](https://github.com/marteroel/Binaural3D_Sound_Unity_Csound)
 * [http://rorywalsh.github.io/CsoundUnity/](http://rorywalsh.github.io/CsoundUnity/)
 * [http://realspace3daudio.com/unityplugindownloads/](http://realspace3daudio.com/unityplugindownloads/)
-Questa lista riporta i migliori motori HRTF:
+List all HRTF sound Engines:
 [http://designingsound.org/2015/04/3d-audio-weighing-the-options/](http://designingsound.org/2015/04/3d-audio-weighing-the-options/)
 
 ## VR Book:
 * [http://www.thevrbook.net/](http://www.thevrbook.net/)
-* [http://www.amazon.it/gp/product/1466511842](http://www.amazon.it/gp/product/1466511842)
+* Handbook of Virtual Environments: Design, Implementation, and Applications, Second Edition: [http://www.amazon.it/gp/product/1466511842](http://www.amazon.it/gp/product/1466511842)
 * [Oculus in Action](https://www.amazon.com/Oculus-Action-Bradley-Austin-Davis/dp/1617292192)
+  1. Editor Manning Main site: [https://www.manning.com/books/oculus-rift-in-action](https://www.manning.com/books/oculus-rift-in-action)
+  2. Github Source Code: [https://github.com/OculusRiftInAction/OculusRiftInAction](https://github.com/OculusRiftInAction/OculusRiftInAction)
+  3. OculusRiftInAction Blog's Authors: [http://rifty-business.blogspot.it/](http://rifty-business.blogspot.it/)
 * [Unity Virtual Reality Projects](https://www.amazon.it/Virtual-Reality-Projects-Jonathan-Linowes/dp/178398855X)
 * [Learning Virtual Reality: Developing Immersive Experiences and Applications for Desktop, Web, and Mobile](https://www.amazon.com/Learning-Virtual-Reality-Experiences-Applications/dp/1491922834/)
 * [Entering Metaverse](https://www.amazon.it/Entering-Metaverse-Joining-Virtual-Industry-ebook/dp/B01LLHGAX6/ref=sr_1_1?ie=UTF8&qid=1476435500)
@@ -161,6 +164,8 @@ Questa lista riporta i migliori motori HRTF:
 - [http://surre.al/](http://surre.al/)
 - [http://scenevr.com/](http://scenevr.com/)
 - [https://projectsansar.com/](https://projectsansar.com/)
+- [http://anyland.com/](http://anyland.com/)
+- [http://www.metaworldvr.com/](http://www.metaworldvr.com/)
 
 ### Reddit on Virtual Reality:
 - [Virtual Reality](https://www.reddit.com/r/virtualreality/)
@@ -177,7 +182,16 @@ Questa lista riporta i migliori motori HRTF:
 - [Awesome WebVR](https://github.com/wizztjh/awesome-WebVR)
 - [Awesome VR UX](https://github.com/mauricesvay/awesome-vr-ux)
 
-## How to build a Metaverse
+## How to build a Metaverse:
 
 * [https://github.com/HiddenMonk/Unity3DRuntimeTransformGizmo](https://github.com/HiddenMonk/Unity3DRuntimeTransformGizmo)
 * [http://www.darkriftnetworking.com/Default.cshtml](http://www.darkriftnetworking.com/Default.cshtml)
+
+## Indie/Game/VR Market:
+
+* [https://itch.io/](https://itch.io/)
+* [http://gamejolt.com/](http://gamejolt.com/)
+* [https://www.gog.com/](https://www.gog.com/)
+* [http://store.steampowered.com/](http://store.steampowered.com/)
+* [https://www.oculus.com/experiences/rift/](https://www.oculus.com/experiences/rift/)
+* [https://www.viveport.com/](https://www.viveport.com/)
