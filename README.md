@@ -76,6 +76,8 @@
 * Flight Navigation for HTC Vive controller: [https://www.assetstore.unity3d.com/en/#!/content/61830](https://www.assetstore.unity3d.com/en/#!/content/61830)
 * Unity Post Processing source: [https://github.com/Unity-Technologies/PostProcessing/wiki](https://github.com/Unity-Technologies/PostProcessing/wiki)
 * HTC Vive Hack guide: [http://www.ultravr.org/htc-vive-guide/](http://www.ultravr.org/htc-vive-guide/)
+* HTC Vive: The Ultimate Guide: [http://www.vrheads.com/htc-vive-ultimate-guide](http://www.vrheads.com/htc-vive-ultimate-guide)
+* Oculus Rift troubleshooting guide: [http://m.vrheads.com/oculus-rift-troubleshooting-guide](http://m.vrheads.com/oculus-rift-troubleshooting-guide)
 
 ### Unity Assets for VR:
 
