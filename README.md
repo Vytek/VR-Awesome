@@ -75,9 +75,6 @@
 * VR Movement System for Oculus Touch: https://www.assetstore.unity3d.com/en/#!/content/47292
 * Flight Navigation for HTC Vive controller: [https://www.assetstore.unity3d.com/en/#!/content/61830](https://www.assetstore.unity3d.com/en/#!/content/61830)
 * Unity Post Processing source: [https://github.com/Unity-Technologies/PostProcessing/wiki](https://github.com/Unity-Technologies/PostProcessing/wiki)
-* HTC Vive Hack guide: [http://www.ultravr.org/htc-vive-guide/](http://www.ultravr.org/htc-vive-guide/)
-* HTC Vive: The Ultimate Guide: [http://www.vrheads.com/htc-vive-ultimate-guide](http://www.vrheads.com/htc-vive-ultimate-guide)
-* Oculus Rift troubleshooting guide: [http://m.vrheads.com/oculus-rift-troubleshooting-guide](http://m.vrheads.com/oculus-rift-troubleshooting-guide)
 
 ### Unity Assets for VR:
 
@@ -121,6 +118,9 @@ Axey Works: [https://www.assetstore.unity3d.com/en/#!/content/58821](https://www
 * How to enable SteamVR "Time Warp" Asynchronous Reprojection (ASR) for HTC Vive performance boost: [https://www.youtube.com/watch?v=V9zOM7sP5Qo](https://www.youtube.com/watch?v=V9zOM7sP5Qo)
 * OLD: [http://www.digitaltutors.com/tutorial/2227-Getting-Started-with-VR-in-Unity](http://www.digitaltutors.com/tutorial/2227-Getting-Started-with-VR-in-Unity)
 * Facial Recognition: [https://www.technologyreview.com/s/537566/oculus-rift-hack-transfers-your-facial-expressions-onto-your-avatar/](https://www.technologyreview.com/s/537566/oculus-rift-hack-transfers-your-facial-expressions-onto-your-avatar/)
+* HTC Vive Hack guide: [http://www.ultravr.org/htc-vive-guide/](http://www.ultravr.org/htc-vive-guide/)
+* HTC Vive: The Ultimate Guide: [http://www.vrheads.com/htc-vive-ultimate-guide](http://www.vrheads.com/htc-vive-ultimate-guide)
+* Oculus Rift troubleshooting guide: [http://m.vrheads.com/oculus-rift-troubleshooting-guide](http://m.vrheads.com/oculus-rift-troubleshooting-guide)
 
 ## CREATING IMMERSIVE SPATIAL AUDIO IN VR:   
 * [http://www.blockinterval.com/project-updates/2015/11/10/better-sound-design-in-vr](http://www.blockinterval.com/project-updates/2015/11/10/better-sound-design-in-vr)
