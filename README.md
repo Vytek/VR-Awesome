@@ -151,7 +151,7 @@ List all HRTF sound Engines:
 ## VR Tools and PlugIn:
 
 * Google TiltBrush Utility: [https://github.com/google/tiltbrushtoolkit](https://github.com/google/tiltbrushtoolkit)
-* VR Simulator: [http://developers.immerseum.io/vr-simulator-beta-0.9/](http://vr.cs.uiuc.edu/)
+* VR Simulator: [http://developers.immerseum.io/vr-simulator-beta-0.9/](http://developers.immerseum.io/vr-simulator-beta-0.9/)
 * Multi HMD: [http://intugame.com/quarkvr/](http://intugame.com/quarkvr/)
 * ReVive: [https://github.com/LibreVR/Revive]()
 * VR Prototipes: [http://grayboxvr.com/](http://grayboxvr.com/)
