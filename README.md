@@ -53,6 +53,7 @@
 
 ### Web:
 - [Awesome WebVR](https://github.com/wizztjh/awesome-WebVR) - List of WebVR resources.
+- [Practical VR:A design cheat sheet](https://medium.com/@hitsmachines/practical-vr-ce80427e8e9d)
 
 ## UI/UX:
 
