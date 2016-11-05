@@ -84,6 +84,7 @@
 * Low Poly: Free Pack 3D Models/Environments
 Axey Works: [https://www.assetstore.unity3d.com/en/#!/content/58821](https://www.assetstore.unity3d.com/en/#!/content/58821)
 * Low Poly Animals: [http://opengameart.org/content/5-low-poly-animals](http://opengameart.org/content/5-low-poly-animals)
+* Free Low Poly from QuaterniusDev Reddit user: [https://www.reddit.com/r/gamedev/comments/5a2xhl/free_low_poly_flat_shaded_pirate_pack/](https://www.reddit.com/r/gamedev/comments/5a2xhl/free_low_poly_flat_shaded_pirate_pack/)
 
 ### UnrealEngine VR:
 
