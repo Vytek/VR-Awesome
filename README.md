@@ -58,6 +58,7 @@
 ## UI/UX:
 
 - [UX of VR](http://www.uxofvr.com/) - A list of resources about the UI/UX considerations for VR.
+- [Practical VR:A design cheat sheet](https://medium.com/@hitsmachines/practical-vr-ce80427e8e9d)
 
 ## Unity VR Plugin:
 
