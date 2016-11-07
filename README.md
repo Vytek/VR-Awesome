@@ -9,6 +9,7 @@
 - [HTC Vive](http://www.htcvr.com/)
 - [Razer OSVR](http://www.osvr.org/)
 - [FOVE](http://www.getfove.com/)
+- [StarVR](http://www.starvr.com/)
 - [Google Cardboard](https://vr.google.com/cardboard/)
 - [Google Daydream View](https://vr.google.com/daydream/headset/)
 
