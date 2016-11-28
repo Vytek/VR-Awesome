@@ -94,6 +94,7 @@ Axey Works: [https://www.assetstore.unity3d.com/en/#!/content/58821](https://www
 * [https://github.com/CJRobertson/HTCViveTemplate-UE4](https://github.com/CJRobertson/HTCViveTemplate-UE4)
 * [https://forums.unrealengine.com/showthread.php?106609-Steam-VR-Template](https://forums.unrealengine.com/showthread.php?106609-Steam-VR-Template)
 * [VRTemplate](https://github.com/tomlooman/VRTemplates)
+* [Creating a basic VR demo using Unreal](https://virtualrealitypop.com/start-a-vr-demo-using-the-unreal-engine-63d31eeaf784#.gmvd20ves)
 
 ## VR Dev School, VR Course, Tutorials, VR Blogs:
 
