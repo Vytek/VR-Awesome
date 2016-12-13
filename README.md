@@ -127,7 +127,10 @@ Axey Works: [https://www.assetstore.unity3d.com/en/#!/content/58821](https://www
 * Facial Recognition: [https://www.technologyreview.com/s/537566/oculus-rift-hack-transfers-your-facial-expressions-onto-your-avatar/](https://www.technologyreview.com/s/537566/oculus-rift-hack-transfers-your-facial-expressions-onto-your-avatar/)
 * HTC Vive Hack guide: [http://www.ultravr.org/htc-vive-guide/](http://www.ultravr.org/htc-vive-guide/)
 * HTC Vive: The Ultimate Guide: [http://www.vrheads.com/htc-vive-ultimate-guide](http://www.vrheads.com/htc-vive-ultimate-guide)
-* HTC VIVE ESSENTIAL TIPS & TRICKS! [https://www.youtube.com/watch?v=LrFZcvggGPI]
+* [HTC VIVE ESSENTIAL TIPS & TRICKS!] (https://www.youtube.com/watch?v=LrFZcvggGPI)
+* [Getting started with SteamVR Controller Input](http://unity3d.college/2016/11/16/steamvr-controller-input/)
+* [Getting Started with SteamVR and Unity 5.4 Updated](http://unity3d.college/2016/04/29/getting-started-steamvr/)
+* [Using the Valves – Lab Renderer for VR](http://unity3d.college/2016/08/02/using-valves-lab-renderer-vr/)
 * Oculus Rift troubleshooting guide: [http://m.vrheads.com/oculus-rift-troubleshooting-guide](http://m.vrheads.com/oculus-rift-troubleshooting-guide)
 
 ## CREATING IMMERSIVE SPATIAL AUDIO IN VR:   
@@ -166,6 +169,7 @@ List all HRTF sound Engines:
 * OpenVR Advanced Settings Overlay: [https://github.com/matzman666/OpenVR-AdvancedSettings] (https://github.com/matzman666/OpenVR-AdvancedSettings)
 * A tool to export any Unity GameObject into a FBX ASCII format: [https://github.com/KellanHiggins/UnityFBXExporter](https://github.com/KellanHiggins/UnityFBXExporter)
 * CognitiveVR, VR data analisys: [http://cognitivevr.co/](http://cognitivevr.co/)
+* [OpenHMD aims to provide a Free and Open Source API and drivers for immersive technology](http://openhmd.net/)
 
 ## List of Immersive Virtual Worlds:
 - [http://www.vrchat.net/](http://www.vrchat.net/)
