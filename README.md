@@ -75,6 +75,7 @@
 * Mirror in VR for SteamVR:
 	1. [https://www.assetstore.unity3d.com/en/#!/content/71255](https://www.assetstore.unity3d.com/en/#!/content/71255)
 	2. [https://github.com/AADProductions/VR-Mirrors](ttps://github.com/AADProductions/VR-Mirrors)
+* [Unity EditorVR](https://github.com/Unity-Technologies/EditorVR)
 * VR Movement System for HTC Vive: https://www.assetstore.unity3d.com/en/#!/content/47329
 * VR Movement System for Oculus Touch: https://www.assetstore.unity3d.com/en/#!/content/47292
 * Flight Navigation for HTC Vive controller: [https://www.assetstore.unity3d.com/en/#!/content/61830](https://www.assetstore.unity3d.com/en/#!/content/61830)
@@ -131,6 +132,7 @@ Axey Works: [https://www.assetstore.unity3d.com/en/#!/content/58821](https://www
 * [Getting started with SteamVR Controller Input](http://unity3d.college/2016/11/16/steamvr-controller-input/)
 * [Getting Started with SteamVR and Unity 5.4 Updated](http://unity3d.college/2016/04/29/getting-started-steamvr/)
 * [Using the Valves – Lab Renderer for VR](http://unity3d.college/2016/08/02/using-valves-lab-renderer-vr/)
+* [Unity 3D Steam VR Video Tutorial Series](https://www.youtube.com/channel/UCV82jCz4CnkXtIoSWqM0-5Q)
 * Oculus Rift troubleshooting guide: [http://m.vrheads.com/oculus-rift-troubleshooting-guide](http://m.vrheads.com/oculus-rift-troubleshooting-guide)
 
 ## CREATING IMMERSIVE SPATIAL AUDIO IN VR:   
