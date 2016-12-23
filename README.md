@@ -33,7 +33,9 @@
 - [http://www.vicovr.com/](http://www.vicovr.com/)
 - [http://www.smivision.com/en/gaze-and-eye-tracking-systems/home.html](http://www.smivision.com/en/gaze-and-eye-tracking-systems/home.html) - Eyes Tracking
 - [http://www.binaryvr.com/](http://www.binaryvr.com/) - Facial Recognition
-- [Rivvr: Wireless VR for Oculus Rift and HTC Vive](https://www.rivvr.com/)
+- Wireless HMD Kit:	
+	1. 	[http://intugame.com/quarkvr/](http://intugame.com/quarkvr/)
+	2. [Rivvr: Wireless VR for Oculus Rift and HTC Vive](https://www.rivvr.com/)
 
 ### Accessories
 
