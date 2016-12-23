@@ -25,16 +25,22 @@
 - [https://www.thalmic.com/en/myo/](https://www.thalmic.com/en/myo/)
 - [http://www.remoriavr.com/](http://www.remoriavr.com/) - Lignum Input
 - [http://julesthuillier.com/vrtracker/](http://julesthuillier.com/vrtracker/)
-- [https://manus-vr.com/](https://manus-vr.com/) - VR Glove
+- VR Glove:
+	1. [https://manus-vr.com/](https://manus-vr.com/)
+	2. [https://senso.me/](https://senso.me/)
+	3. [http://www.dextarobotics.com/](http://www.dextarobotics.com/)
+	4. [https://www.neurodigital.es/](https://www.neurodigital.es/)
 - [http://www.vicovr.com/](http://www.vicovr.com/)
 - [http://www.smivision.com/en/gaze-and-eye-tracking-systems/home.html](http://www.smivision.com/en/gaze-and-eye-tracking-systems/home.html) - Eyes Tracking
 - [http://www.binaryvr.com/](http://www.binaryvr.com/) - Facial Recognition
+- [Rivvr: Wireless VR for Oculus Rift and HTC Vive](https://www.rivvr.com/)
 
 ### Accessories
 
 * [http://www.vive.com/eu/accessory/](http://www.vive.com/eu/accessory/)
 * Top 10 Tips for New HTC Vive Owners: [https://www.youtube.com/watch?v=FBRwSx125Z8](https://www.youtube.com/watch?v=FBRwSx125Z8)
 * How to add working replacement models for steamVR: [http://steamcommunity.com/sharedfiles/filedetails/?id=687365559](http://steamcommunity.com/sharedfiles/filedetails/?id=687365559)
+* [ImmotionRoom: your full body in Virtual Reality](http://www.immotionar.com/en/)
 
 ## Software
 
@@ -60,6 +66,8 @@
 
 - [UX of VR](http://www.uxofvr.com/) - A list of resources about the UI/UX considerations for VR.
 - [Practical VR: A design cheat sheet](https://medium.com/@hitsmachines/practical-vr-ce80427e8e9d)
+- [Virtual Reality Can Leave You With an Existential Hangover](https://www.theatlantic.com/technology/archive/2016/12/post-vr-sadness/511232/)
+- [Ciro Continisio (Unity Technologies) - UX and Interaction in Virtual Reality at DevGAMM Conference] (https://www.youtube.com/watch?v=LYzhsUVAED4)
 
 ## Unity VR Plugin:
 
@@ -75,7 +83,11 @@
 * Mirror in VR for SteamVR:
 	1. [https://www.assetstore.unity3d.com/en/#!/content/71255](https://www.assetstore.unity3d.com/en/#!/content/71255)
 	2. [https://github.com/AADProductions/VR-Mirrors](ttps://github.com/AADProductions/VR-Mirrors)
-* [Unity EditorVR](https://github.com/Unity-Technologies/EditorVR)
+* [Unity EditorVR](https://github.com/Unity-Technologies/EditorVR): 
+	1. [EDITORVR EXPERIMENTAL BUILD BLOG Unity](https://blogs.unity3d.com/2016/12/15/editorvr-experimental-build-available-today/)
+	2. [Unity5 EditorVR hello world tutorial video (from scratch) featuring Oculus ](https://www.youtube.com/watch?v=U0gBRIY3TpE&t=210s)
+	3. [HOW TO SET UP UNITY'S VR EDITOR (EditorVR) !](https://www.youtube.com/watch?v=vAxPoVmhvaw)
+	4. [Unity VR: EditorVR Quick Look](https://www.youtube.com/watch?v=5-NAjKPsx4A)
 * VR Movement System for HTC Vive: https://www.assetstore.unity3d.com/en/#!/content/47329
 * VR Movement System for Oculus Touch: https://www.assetstore.unity3d.com/en/#!/content/47292
 * Flight Navigation for HTC Vive controller: [https://www.assetstore.unity3d.com/en/#!/content/61830](https://www.assetstore.unity3d.com/en/#!/content/61830)
@@ -203,6 +215,7 @@ List all HRTF sound Engines:
 
 * [https://github.com/HiddenMonk/Unity3DRuntimeTransformGizmo](https://github.com/HiddenMonk/Unity3DRuntimeTransformGizmo)
 * [http://www.darkriftnetworking.com/Default.cshtml](http://www.darkriftnetworking.com/Default.cshtml)
+* SpatialOS Improbable.io: [https://spatialos.improbable.io/](https://spatialos.improbable.io/)
 
 ## Indie/Game/VR Market:
 
