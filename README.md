@@ -95,6 +95,7 @@
 * Flight Navigation for HTC Vive controller: [https://www.assetstore.unity3d.com/en/#!/content/61830](https://www.assetstore.unity3d.com/en/#!/content/61830)
 * Unity Post Processing source: [https://github.com/Unity-Technologies/PostProcessing/wiki](https://github.com/Unity-Technologies/PostProcessing/wiki)
 * A plugin to select deafult Microphone in Unity: [https://github.com/GabeBigBoxVR/UnityDefaultMicrophone](https://github.com/GabeBigBoxVR/UnityDefaultMicrophone)
+* List of Best Unity Assets for VR Devs: [Compiled by https://www.reddit.com/user/Legorobotdude](https://www.assetstore.unity3d.com/en/#!/list/2214-vr)
 
 ### Unity Assets for VR:
 
@@ -146,6 +147,8 @@ Axey Works: [https://www.assetstore.unity3d.com/en/#!/content/58821](https://www
 * [Getting started with SteamVR Controller Input](http://unity3d.college/2016/11/16/steamvr-controller-input/)
 * [Getting Started with SteamVR and Unity 5.4 Updated](http://unity3d.college/2016/04/29/getting-started-steamvr/)
 * [Using the Valves – Lab Renderer for VR](http://unity3d.college/2016/08/02/using-valves-lab-renderer-vr/)
+* [Scripts that may be useful to other developers](https://github.com/Topazoo/HTC-Vive-Unity)
+* [Vive Test Project](https://github.com/CyrilPaulus/ViveTest)
 * [Unity 3D Steam VR Video Tutorial Series](https://www.youtube.com/channel/UCV82jCz4CnkXtIoSWqM0-5Q)
 * Oculus Rift troubleshooting guide: [http://m.vrheads.com/oculus-rift-troubleshooting-guide](http://m.vrheads.com/oculus-rift-troubleshooting-guide)
 
