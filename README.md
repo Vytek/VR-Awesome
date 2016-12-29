@@ -36,6 +36,7 @@
 - Wireless HMD Kit:	
 	1. 	[http://intugame.com/quarkvr/](http://intugame.com/quarkvr/)
 	2. [Rivvr: Wireless VR for Oculus Rift and HTC Vive](https://www.rivvr.com/)
+	3. [Immersive Robotic: Wireless Virtual Reality](http://www.immersiverobotics.com/our-technology/)
 
 ### Accessories
 
