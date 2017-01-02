@@ -34,9 +34,11 @@
 - [http://www.smivision.com/en/gaze-and-eye-tracking-systems/home.html](http://www.smivision.com/en/gaze-and-eye-tracking-systems/home.html) - Eyes Tracking
 - [http://www.binaryvr.com/](http://www.binaryvr.com/) - Facial Recognition
 - Wireless HMD Kit:	
-	1. 	[http://intugame.com/quarkvr/](http://intugame.com/quarkvr/)
+	1. [http://intugame.com/quarkvr/](http://intugame.com/quarkvr/)
 	2. [Rivvr: Wireless VR for Oculus Rift and HTC Vive](https://www.rivvr.com/)
 	3. [Immersive Robotic: Wireless Virtual Reality](http://www.immersiverobotics.com/our-technology/)
+	4. [http://kwikvr.com/](http://kwikvr.com/)
+	5. [https://www.vive.com/cn/accessory/tpcast/](https://www.vive.com/cn/accessory/tpcast/)
 
 ### Accessories
 
@@ -151,6 +153,7 @@ Axey Works: [https://www.assetstore.unity3d.com/en/#!/content/58821](https://www
 * [Scripts that may be useful to other developers](https://github.com/Topazoo/HTC-Vive-Unity)
 * [Vive Test Project](https://github.com/CyrilPaulus/ViveTest)
 * [Unity 3D Steam VR Video Tutorial Series](https://www.youtube.com/channel/UCV82jCz4CnkXtIoSWqM0-5Q)
+* [DebugLog HTC Vive Unity 3D Steam VR Video Tutorial](https://www.youtube.com/channel/UCS9ZUr3LQrrsaxO_3MVnA-g)
 * Oculus Rift troubleshooting guide: [http://m.vrheads.com/oculus-rift-troubleshooting-guide](http://m.vrheads.com/oculus-rift-troubleshooting-guide)
 
 ## CREATING IMMERSIVE SPATIAL AUDIO IN VR:   
