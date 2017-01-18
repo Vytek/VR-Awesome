@@ -46,6 +46,8 @@
 * Top 10 Tips for New HTC Vive Owners: [https://www.youtube.com/watch?v=FBRwSx125Z8](https://www.youtube.com/watch?v=FBRwSx125Z8)
 * How to add working replacement models for steamVR: [http://steamcommunity.com/sharedfiles/filedetails/?id=687365559](http://steamcommunity.com/sharedfiles/filedetails/?id=687365559)
 * [ImmotionRoom: your full body in Virtual Reality](http://www.immotionar.com/en/)
+* [SteamVR Developer Hardware](http://steamcommunity.com/app/358720/discussions/)
+* [How to revive your non-working vive! (tips and tricks)](https://www.reddit.com/r/Vive/comments/4eu3uh/how_to_revive_your_nonworking_vive_tips_and_tricks/)
 
 ## Software
 
