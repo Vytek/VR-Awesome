@@ -157,6 +157,7 @@ Axey Works: [https://www.assetstore.unity3d.com/en/#!/content/58821](https://www
 * [Vive Test Project](https://github.com/CyrilPaulus/ViveTest)
 * [Unity 3D Steam VR Video Tutorial Series](https://www.youtube.com/channel/UCV82jCz4CnkXtIoSWqM0-5Q)
 * [DebugLog HTC Vive Unity 3D Steam VR Video Tutorial](https://www.youtube.com/channel/UCS9ZUr3LQrrsaxO_3MVnA-g)
+* [Very interesting HTC Vive Tutorial for SteamVR from raywenderlich site](https://www.raywenderlich.com/149239/htc-vive-tutorial-unity) - [Mirror site](https://archive.is/GgRJB)
 * Oculus Rift troubleshooting guide: [http://m.vrheads.com/oculus-rift-troubleshooting-guide](http://m.vrheads.com/oculus-rift-troubleshooting-guide)
 
 ## CREATING IMMERSIVE SPATIAL AUDIO IN VR:   
