@@ -49,6 +49,7 @@
 * [SteamVR Developer Hardware](http://steamcommunity.com/app/358720/discussions/)
 * [How to revive your non-working vive! (tips and tricks)](https://www.reddit.com/r/Vive/comments/4eu3uh/how_to_revive_your_nonworking_vive_tips_and_tricks/)
 * [Update Vive firmware](https://www.youtube.com/watch?v=_b3GjUdPzCA) 
+* [HTCVive Bracket for Welding headgear mod](http://www.thingiverse.com/thing:1620362)
 
 ## Software
 
