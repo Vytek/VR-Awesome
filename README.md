@@ -88,6 +88,8 @@
 * NewtonVR: [https://github.com/TomorrowTodayLabs/NewtonVR](https://github.com/TomorrowTodayLabs/NewtonVR)
 * Facal Point VR: [http://www.albert-hwang.com/focal-point-vr](http://www.albert-hwang.com/focal-point-vr)
 * Vive Grip: [https://github.com/JScott/ViveGrip](https://github.com/JScott/ViveGrip)
+* [VR Drum Keyboard from NormalVR](http://www.normalvr.com/blog/an-open-source-keyboard-to-make-your-own/) - [Medium Mirror](https://medium.com/@normalvr/an-open-source-keyboard-to-make-your-own-4f8c531bb92d#.ecu0d3v4m) - [Mirror 2](https://archive.is/4GG8R)
+* VR Camera for HTC Vive: [VR Camera](https://www.assetstore.unity3d.com/en/#!/content/79203)
 * Unity POC for click-drag interactivity in Vive: [https://github.com/Albert/clicky-draggy](https://github.com/Albert/clicky-draggy)
 * Mirror in VR for SteamVR:
 	1. [https://www.assetstore.unity3d.com/en/#!/content/71255](https://www.assetstore.unity3d.com/en/#!/content/71255)
@@ -200,6 +202,7 @@ List all HRTF sound Engines:
 * A tool to export any Unity GameObject into a FBX ASCII format: [https://github.com/KellanHiggins/UnityFBXExporter](https://github.com/KellanHiggins/UnityFBXExporter)
 * CognitiveVR, VR data analisys: [http://cognitivevr.co/](http://cognitivevr.co/)
 * [OpenHMD aims to provide a Free and Open Source API and drivers for immersive technology](http://openhmd.net/)
+* [How to setup Unity Analytics for your indie VR project?](http://vrthefeedback.com/how-to-setup-unity-analytics-for-your-indie-vr-project)
 
 ## List of Immersive Virtual Worlds:
 - [http://www.vrchat.net/](http://www.vrchat.net/)
