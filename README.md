@@ -70,6 +70,7 @@
 ### Web:
 - [Awesome WebVR](https://github.com/wizztjh/awesome-WebVR) - List of WebVR resources.
 - [Practical VR:A design cheat sheet](https://medium.com/@hitsmachines/practical-vr-ce80427e8e9d)
+- [Sense of Presence in Social VR Experience](http://www.interactivearchitecture.org/sense-of-presence-in-social-vr-experience.html) - [Mirror 1](https://archive.is/KUcIh) - [Mirror 2](https://web.archive.org/web/20170223094600/http://www.interactivearchitecture.org/sense-of-presence-in-social-vr-experience.html)
 
 ## UI/UX:
 
@@ -89,6 +90,7 @@
 * Facal Point VR: [http://www.albert-hwang.com/focal-point-vr](http://www.albert-hwang.com/focal-point-vr)
 * Vive Grip: [https://github.com/JScott/ViveGrip](https://github.com/JScott/ViveGrip)
 * [VR Drum Keyboard from NormalVR](http://www.normalvr.com/blog/an-open-source-keyboard-to-make-your-own/) - [Medium Mirror](https://medium.com/@normalvr/an-open-source-keyboard-to-make-your-own-4f8c531bb92d#.ecu0d3v4m) - [Mirror 2](https://archive.is/4GG8R)
+* [Keyboard Input for Virtual Reality](https://uxdesign.cc/keyboard-input-for-virtual-reality-d551a29c53e9#.12u2xskbr) - [Mirror](https://web.archive.org/web/20170223084857/https://uxdesign.cc/keyboard-input-for-virtual-reality-d551a29c53e9?gi=18e71e260b3f)
 * VR Camera for HTC Vive: [VR Camera](https://www.assetstore.unity3d.com/en/#!/content/79203)
 * Unity POC for click-drag interactivity in Vive: [https://github.com/Albert/clicky-draggy](https://github.com/Albert/clicky-draggy)
 * Mirror in VR for SteamVR:
@@ -146,6 +148,7 @@ Axey Works: [https://www.assetstore.unity3d.com/en/#!/content/58821](https://www
 * Very Interesting Blog for Unity VR Beginner developer: [https://livierickson.com/blog/](https://livierickson.com/blog/)
 * Stater Tutorial for Unity VR Vive Developer: [https://www.youtube.com/watch?v=ewqRU9y0i4I](https://www.youtube.com/watch?v=ewqRU9y0i4I)
 * NormalVR (New VR Blog): [http://www.normalvr.com/blog/throwing-throw-down/](http://www.normalvr.com/blog/throwing-throw-down/) - [Mirror on Medium](https://medium.com/@normalvr/throwing-throw-down-82db3a658d4c#.pmfdwxc5x)
+* [HOW TO CREATE A MINIMAP FOR VR IN UNITY](https://somedudes.ch/2017/02/21/how-to-create-a-minimap-for-vr-in-unity/) - [Mirror](https://archive.is/Sy5NG)
 * Oculus Rift in Action Blog: [https://rifty-business.blogspot.it/](https://rifty-business.blogspot.it/)
 * Add a Mirror for the HTC Vive in Unity: [https://www.youtube.com/watch?v=OgYBKzJiqI0](https://www.youtube.com/watch?v=OgYBKzJiqI0)
 * How to enable SteamVR "Time Warp" Asynchronous Reprojection (ASR) for HTC Vive performance boost: [https://www.youtube.com/watch?v=V9zOM7sP5Qo](https://www.youtube.com/watch?v=V9zOM7sP5Qo)
