@@ -77,6 +77,7 @@
 - [UX of VR](http://www.uxofvr.com/) - A list of resources about the UI/UX considerations for VR.
 - [Practical VR: A design cheat sheet](https://medium.com/@hitsmachines/practical-vr-ce80427e8e9d)
 - [Virtual Reality Can Leave You With an Existential Hangover](https://www.theatlantic.com/technology/archive/2016/12/post-vr-sadness/511232/)
+- [Simulating Weight in VR](http://www.roadtovr.com/b-reel-simulating-object-weight-mass-virtual-reality-motion-controllers/) - [Mirror Medium](https://medium.com/@B__REEL/simulating-weight-in-vr-d161e87990b#.vde09kd3e) - [Github Repository](https://github.com/B-Reel/vr-weight)
 - [Ciro Continisio (Unity Technologies) - UX and Interaction in Virtual Reality at DevGAMM Conference] (https://www.youtube.com/watch?v=LYzhsUVAED4)
 
 ## Unity VR Plugin:
@@ -178,6 +179,8 @@ Axey Works: [https://www.assetstore.unity3d.com/en/#!/content/58821](https://www
 * [https://github.com/marteroel/Binaural3D_Sound_Unity_Csound](https://github.com/marteroel/Binaural3D_Sound_Unity_Csound)
 * [http://rorywalsh.github.io/CsoundUnity/](http://rorywalsh.github.io/CsoundUnity/)
 * [http://realspace3daudio.com/unityplugindownloads/](http://realspace3daudio.com/unityplugindownloads/)
+* [Free Valve Steam Audio](https://github.com/ValveSoftware/steam-audio) - [Support](http://steamcommunity.com/app/596420/discussions/0/133258092237744096/)
+
 List all HRTF sound Engines:
 [http://designingsound.org/2015/04/3d-audio-weighing-the-options/](http://designingsound.org/2015/04/3d-audio-weighing-the-options/)
 
