@@ -155,7 +155,7 @@ Axey Works: [https://www.assetstore.unity3d.com/en/#!/content/58821](https://www
 * How to enable SteamVR "Time Warp" Asynchronous Reprojection (ASR) for HTC Vive performance boost: [https://www.youtube.com/watch?v=V9zOM7sP5Qo](https://www.youtube.com/watch?v=V9zOM7sP5Qo)
 * OLD: [http://www.digitaltutors.com/tutorial/2227-Getting-Started-with-VR-in-Unity](http://www.digitaltutors.com/tutorial/2227-Getting-Started-with-VR-in-Unity)
 * Facial Recognition: [https://www.technologyreview.com/s/537566/oculus-rift-hack-transfers-your-facial-expressions-onto-your-avatar/](https://www.technologyreview.com/s/537566/oculus-rift-hack-transfers-your-facial-expressions-onto-your-avatar/)
-* HTC Vive Hack guide: [http://www.ultravr.org/htc-vive-guide/](http://www.ultravr.org/htc-vive-guide/)
+* HTC Vive Hack guide: [http://www.ultravr.org/htc-vive-guide/](http://www.ultravr.org/htc-vive-guide/) - [Mirror](https://archive.is/zUQFQ)
 * HTC Vive: The Ultimate Guide: [http://www.vrheads.com/htc-vive-ultimate-guide](http://www.vrheads.com/htc-vive-ultimate-guide)
 * [HTC VIVE ESSENTIAL TIPS & TRICKS!] (https://www.youtube.com/watch?v=LrFZcvggGPI)
 * [Getting started with SteamVR Controller Input](http://unity3d.college/2016/11/16/steamvr-controller-input/) - [Mirror](https://archive.is/iY9A0) - [Miror 2](https://web.archive.org/web/20170127090506/http://unity3d.college/2016/11/16/steamvr-controller-input/)
