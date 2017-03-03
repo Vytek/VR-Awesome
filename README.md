@@ -128,11 +128,13 @@ Axey Works: [https://www.assetstore.unity3d.com/en/#!/content/58821](https://www
 
 ## VR Dev School, VR Course, Tutorials, VR Blogs:
 
-* VRDev School: http://www.vrdev.school/
-* Fuseman Tutorial: [https://www.youtube.com/channel/UCLO98KHpNx6JwsdnH04l9yQ](https://www.youtube.com/channel/UCLO98KHpNx6JwsdnH04l9yQ)
-* Udemy VR Course: [https://www.udemy.com/courses/search/?q=VR&src=ukw](https://www.udemy.com/courses/search/?q=VR&src=ukw)
-* Udacity VR Developer Nanodegree: [https://www.udacity.com/course/vr-developer-nanodegree--nd017](https://www.udacity.com/course/vr-developer-nanodegree--nd017)
-* Tutorial Convrge for multiplayer VR
+* VR School/Courses:
+	* VRDev School: http://www.vrdev.school/
+	* Fuseman Tutorial: [https://www.youtube.com/channel/UCLO98KHpNx6JwsdnH04l9yQ](https://www.youtube.com/channel/UCLO98KHpNx6JwsdnH04l9yQ)
+	* Udemy VR Course: [https://www.udemy.com/courses/search/?q=VR&src=ukw](https://www.udemy.com/courses/search/?q=VR&src=ukw)
+	* Udacity VR Developer Nanodegree: [https://www.udacity.com/course/vr-developer-nanodegree--nd017](https://www.udacity.com/course/vr-developer-nanodegree--nd017)
+	* [Zenva Complete Virtual Reality Game Development Course](https://academy.zenva.com/product/the-complete-virtual-reality-game-development-course/)
+* Tutorial Convrge for multiplayer VR:
 	1. [http://www.convrge.co/multiplayer-oculus-rift-games-in-unity-tutorial](http://www.convrge.co/multiplayer-oculus-rift-games-in-unity-tutorial)
 	2. [http://www.convrge.co/add-voice-chat-to-unity-using-dfvoice](http://www.convrge.co/add-voice-chat-to-unity-using-dfvoice)
 	3. [https://archive.is/Jp8qw](https://archive.is/Jp8qw)
@@ -209,8 +211,10 @@ List all HRTF sound Engines:
 * OpenVR Advanced Settings Overlay: [https://github.com/matzman666/OpenVR-AdvancedSettings] (https://github.com/matzman666/OpenVR-AdvancedSettings) - [Supersample HTC Vive using OpenVR AdvancedSettings](http://www.roadtovr.com/supersample-htc-vive-oculus-rift-steamvr-openvr-advanced-settings-sharpen/)
 * A tool to export any Unity GameObject into a FBX ASCII format: [https://github.com/KellanHiggins/UnityFBXExporter](https://github.com/KellanHiggins/UnityFBXExporter)
 * CognitiveVR, VR data analisys: [http://cognitivevr.co/](http://cognitivevr.co/)
+* [Ghostline is an advanced analytics suite for virtual reality](http://ghostline.xyz/)
 * [OpenHMD aims to provide a Free and Open Source API and drivers for immersive technology](http://openhmd.net/)
 * [How to setup Unity Analytics for your indie VR project?](http://vrthefeedback.com/how-to-setup-unity-analytics-for-your-indie-vr-project)
+* [IBM Cognitivi API for Unity](https://www.ibm.com/innovation/milab/watson-speech-virtual-reality-unity/) - [GitHub Watson Unity Repo](https://github.com/watson-developer-cloud/unity-sdk)
 
 ## List of Immersive Virtual Worlds:
 - [http://www.vrchat.net/](http://www.vrchat.net/)
