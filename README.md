@@ -72,6 +72,7 @@
 - [Awesome WebVR](https://github.com/wizztjh/awesome-WebVR) - List of WebVR resources.
 - [Practical VR:A design cheat sheet](https://medium.com/@hitsmachines/practical-vr-ce80427e8e9d)
 - [Sense of Presence in Social VR Experience](http://www.interactivearchitecture.org/sense-of-presence-in-social-vr-experience.html) - [Mirror 1](https://archive.is/KUcIh) - [Mirror 2](https://web.archive.org/web/20170223094600/http://www.interactivearchitecture.org/sense-of-presence-in-social-vr-experience.html)
+- [Networked-Aframe](http://haydenlee.io/networked-aframe/)
 
 ## UI/UX:
 
@@ -125,6 +126,7 @@ Axey Works: [https://www.assetstore.unity3d.com/en/#!/content/58821](https://www
 * [VRTemplate](https://github.com/tomlooman/VRTemplates)
 * [Creating a basic VR demo using Unreal](https://virtualrealitypop.com/start-a-vr-demo-using-the-unreal-engine-63d31eeaf784#.gmvd20ves)
 * [Nvidia VRWorks for UE](https://developer.nvidia.com/nvidia-vrworks-and-ue4)
+* Similar VRTK for Unreal: [https://bitbucket.org/mordentral/vrexpansionplugin](https://bitbucket.org/mordentral/vrexpansionplugin)
 
 ## VR Dev School, VR Course, Tutorials, VR Blogs:
 
@@ -215,6 +217,7 @@ List all HRTF sound Engines:
 * [OpenHMD aims to provide a Free and Open Source API and drivers for immersive technology](http://openhmd.net/)
 * [How to setup Unity Analytics for your indie VR project?](http://vrthefeedback.com/how-to-setup-unity-analytics-for-your-indie-vr-project)
 * [IBM Cognitivi API for Unity](https://www.ibm.com/innovation/milab/watson-speech-virtual-reality-unity/) - [GitHub Watson Unity Repo](https://github.com/watson-developer-cloud/unity-sdk)
+- [Useful tool to help you record in game footage while in your headset](https://github.com/KellanHiggins/VRCameraFramelines)
 
 ## List of Immersive Virtual Worlds:
 - [http://www.vrchat.net/](http://www.vrchat.net/)
