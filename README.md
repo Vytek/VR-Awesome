@@ -91,6 +91,7 @@
 * VRTK: [https://github.com/thestonefox/SteamVR_Unity_Toolkit](https://github.com/thestonefox/SteamVR_Unity_Toolkit)
 * NewtonVR: [https://github.com/TomorrowTodayLabs/NewtonVR](https://github.com/TomorrowTodayLabs/NewtonVR)
 * Facal Point VR: [http://www.albert-hwang.com/focal-point-vr](http://www.albert-hwang.com/focal-point-vr)
+* An Unity plugin that allows developers to access Vive device status [https://github.com/ViveSoftware/ViveInputUtility-Unity](https://github.com/ViveSoftware/ViveInputUtility-Unity)
 * Vive Grip: [https://github.com/JScott/ViveGrip](https://github.com/JScott/ViveGrip)
 * [VR Drum Keyboard from NormalVR](http://www.normalvr.com/blog/an-open-source-keyboard-to-make-your-own/) - [Medium Mirror](https://medium.com/@normalvr/an-open-source-keyboard-to-make-your-own-4f8c531bb92d#.ecu0d3v4m) - [Mirror 2](https://archive.is/4GG8R)
 * [Keyboard Input for Virtual Reality](https://uxdesign.cc/keyboard-input-for-virtual-reality-d551a29c53e9#.12u2xskbr) - [Mirror](https://web.archive.org/web/20170223084857/https://uxdesign.cc/keyboard-input-for-virtual-reality-d551a29c53e9?gi=18e71e260b3f)
@@ -136,6 +137,7 @@ Axey Works: [https://www.assetstore.unity3d.com/en/#!/content/58821](https://www
 	* Udemy VR Course: [https://www.udemy.com/courses/search/?q=VR&src=ukw](https://www.udemy.com/courses/search/?q=VR&src=ukw)
 	* Udacity VR Developer Nanodegree: [https://www.udacity.com/course/vr-developer-nanodegree--nd017](https://www.udacity.com/course/vr-developer-nanodegree--nd017)
 	* [Zenva Complete Virtual Reality Game Development Course](https://academy.zenva.com/product/the-complete-virtual-reality-game-development-course/)
+	* [VR Game Development in 24 Hours](https://unity3d.college/unity-vr-course/)
 * Tutorial Convrge for multiplayer VR:
 	1. [http://www.convrge.co/multiplayer-oculus-rift-games-in-unity-tutorial](http://www.convrge.co/multiplayer-oculus-rift-games-in-unity-tutorial)
 	2. [http://www.convrge.co/add-voice-chat-to-unity-using-dfvoice](http://www.convrge.co/add-voice-chat-to-unity-using-dfvoice)
@@ -218,6 +220,7 @@ List all HRTF sound Engines:
 * [How to setup Unity Analytics for your indie VR project?](http://vrthefeedback.com/how-to-setup-unity-analytics-for-your-indie-vr-project)
 * [IBM Cognitivi API for Unity](https://www.ibm.com/innovation/milab/watson-speech-virtual-reality-unity/) - [GitHub Watson Unity Repo](https://github.com/watson-developer-cloud/unity-sdk)
 - [Useful tool to help you record in game footage while in your headset](https://github.com/KellanHiggins/VRCameraFramelines)
+- [Free NVIDIA FCAT VR Performance Analysis Tool Available Now For Download](http://www.geforce.com/whats-new/guides/fcat-vr-download-and-how-to-guide#HTCViveTestingWithFCATVR) - [Mirror](https://archive.is/CNqpW)
 
 ## List of Immersive Virtual Worlds:
 - [http://www.vrchat.net/](http://www.vrchat.net/)
