@@ -137,7 +137,11 @@ Axey Works: [https://www.assetstore.unity3d.com/en/#!/content/58821](https://www
 	* Udemy VR Course: [https://www.udemy.com/courses/search/?q=VR&src=ukw](https://www.udemy.com/courses/search/?q=VR&src=ukw)
 	* Udacity VR Developer Nanodegree: [https://www.udacity.com/course/vr-developer-nanodegree--nd017](https://www.udacity.com/course/vr-developer-nanodegree--nd017)
 	* [Zenva Complete Virtual Reality Game Development Course](https://academy.zenva.com/product/the-complete-virtual-reality-game-development-course/)
+<<<<<<< HEAD
 	* [VR Game Development in 24 Hours](https://unity3d.college/unity-vr-course/)
+=======
+	* [Unity 3D VR Course](https://unity3d.college/unity-vr-course/)
+>>>>>>> origin/master
 * Tutorial Convrge for multiplayer VR:
 	1. [http://www.convrge.co/multiplayer-oculus-rift-games-in-unity-tutorial](http://www.convrge.co/multiplayer-oculus-rift-games-in-unity-tutorial)
 	2. [http://www.convrge.co/add-voice-chat-to-unity-using-dfvoice](http://www.convrge.co/add-voice-chat-to-unity-using-dfvoice)
