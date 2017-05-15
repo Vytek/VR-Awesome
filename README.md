@@ -113,7 +113,7 @@
 * List of Best Unity Assets for VR Devs: [Compiled by https://www.reddit.com/user/Legorobotdude](https://www.assetstore.unity3d.com/en/#!/list/2214-vr)
 
 ### Unity Assets for VR:
-
+* [Yobi3D - Free 3D model search engine](https://www.yobi3d.com/)
 * Free low poly 3D nature assets (trees, plants, rocks and more!): [https://www.reddit.com/r/gamedev/comments/349kpt/free_low_poly_3d_nature_assets_trees_plants_rocks/](https://www.reddit.com/r/gamedev/comments/349kpt/free_low_poly_3d_nature_assets_trees_plants_rocks/)
 * Low Poly: Free Pack 3D Models/Environments
 Axey Works: [https://www.assetstore.unity3d.com/en/#!/content/58821](https://www.assetstore.unity3d.com/en/#!/content/58821)
