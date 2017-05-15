@@ -173,8 +173,11 @@ Axey Works: [https://www.assetstore.unity3d.com/en/#!/content/58821](https://www
 * [Unity 3D Steam VR Video Tutorial Series](https://www.youtube.com/channel/UCV82jCz4CnkXtIoSWqM0-5Q)
 * [DebugLog HTC Vive Unity 3D Steam VR Video Tutorial](https://www.youtube.com/channel/UCS9ZUr3LQrrsaxO_3MVnA-g)
 * [Very interesting HTC Vive Tutorial for SteamVR from raywenderlich site](https://www.raywenderlich.com/149239/htc-vive-tutorial-unity) - [Mirror](https://archive.is/GgRJB) - [Mirror 2](https://web.archive.org/web/20170127090448/https://www.raywenderlich.com/149239/htc-vive-tutorial-unity)
+* [Advanced VR Mechanics With Unity and the HTC Vive Part 1](https://www.raywenderlich.com/159552/advanced-vr-mechanics-unity-htc-vive-part-1) - [Mirror](https://archive.is/qHQXY) - [Mirror 2](https://web.archive.org/web/20170515082222/https://www.raywenderlich.com/159552/advanced-vr-mechanics-unity-htc-vive-part-1)
 * [HTC Vive SteamVR Tutorial using Flafla2 Teleport, Probuil Box, Lab Render](https://www.youtube.com/watch?v=uDwAIveGDU0)
 * [HTC Vive VR Input](http://wacki.me/blog/2016/06/vr-gui-input-module-for-unity-htc-vive/) - [Mirror](https://archive.is/qCMTY) - [Mirror 2](https://web.archive.org/web/20170201100941/http://wacki.me/blog/2016/06/vr-gui-input-module-for-unity-htc-vive/)
+* [How to make games for the HTC Vive with Unity and C#](https://www.youtube.com/playlist?list=PLEjAIFnF0Q_asf8ZIjTM4ijT89gB6M5r1) - [GitHub repo](https://github.com/LochieWestfallGames/VR-Tutorial)
+* [Vive Tutorial - Intro / UI | Unity VR (VRTK)](https://www.youtube.com/channel/UC2SDL6DcSlgVBTnEbfksQQQ) - [GitHub Repo](https://github.com/SyntonicApps/unity-vrtk-examples)
 * Oculus Rift troubleshooting guide: [http://m.vrheads.com/oculus-rift-troubleshooting-guide](http://m.vrheads.com/oculus-rift-troubleshooting-guide)
 
 ## CREATING IMMERSIVE SPATIAL AUDIO IN VR:   
@@ -199,6 +202,7 @@ List all HRTF sound Engines:
   2. Github Source Code: [https://github.com/OculusRiftInAction/OculusRiftInAction](https://github.com/OculusRiftInAction/OculusRiftInAction)
   3. OculusRiftInAction Blog's Authors: [http://rifty-business.blogspot.it/](http://rifty-business.blogspot.it/)
 * [Unity Virtual Reality Projects](https://www.amazon.it/Virtual-Reality-Projects-Jonathan-Linowes/dp/178398855X)
+* [Building Virtual Reality with Unity and Steam VR](https://www.crcpress.com/Building-Virtual-Reality-with-Unity-and-Steam-VR/Murray/p/book/9781138033511)
 * [Learning Virtual Reality: Developing Immersive Experiences and Applications for Desktop, Web, and Mobile](https://www.amazon.com/Learning-Virtual-Reality-Experiences-Applications/dp/1491922834/)
 * [Entering Metaverse](https://www.amazon.it/Entering-Metaverse-Joining-Virtual-Industry-ebook/dp/B01LLHGAX6/ref=sr_1_1?ie=UTF8&qid=1476435500)
 * VR Book from Prof. LaValle and MOOC VR Course:
@@ -214,6 +218,7 @@ List all HRTF sound Engines:
 * VR Prototipes: [http://grayboxvr.com/](http://grayboxvr.com/)
 * OpenVR Advanced Settings Overlay: [https://github.com/matzman666/OpenVR-AdvancedSettings] (https://github.com/matzman666/OpenVR-AdvancedSettings) - [Supersample HTC Vive using OpenVR AdvancedSettings](http://www.roadtovr.com/supersample-htc-vive-oculus-rift-steamvr-openvr-advanced-settings-sharpen/)
 * A tool to export any Unity GameObject into a FBX ASCII format: [https://github.com/KellanHiggins/UnityFBXExporter](https://github.com/KellanHiggins/UnityFBXExporter)
+* OpenVR-InputEmulator: [https://github.com/matzman666/OpenVR-InputEmulator](https://github.com/matzman666/OpenVR-InputEmulator)
 * CognitiveVR, VR data analisys: [http://cognitivevr.co/](http://cognitivevr.co/)
 * [Ghostline is an advanced analytics suite for virtual reality](http://ghostline.xyz/)
 * [OpenHMD aims to provide a Free and Open Source API and drivers for immersive technology](http://openhmd.net/)
@@ -221,6 +226,7 @@ List all HRTF sound Engines:
 * [IBM Cognitivi API for Unity](https://www.ibm.com/innovation/milab/watson-speech-virtual-reality-unity/) - [GitHub Watson Unity Repo](https://github.com/watson-developer-cloud/unity-sdk)
 - [Useful tool to help you record in game footage while in your headset](https://github.com/KellanHiggins/VRCameraFramelines)
 - [Free NVIDIA FCAT VR Performance Analysis Tool Available Now For Download](http://www.geforce.com/whats-new/guides/fcat-vr-download-and-how-to-guide#HTCViveTestingWithFCATVR) - [Mirror](https://archive.is/CNqpW)
+- [NVIDIA VRWorks and Unity](https://developer.nvidia.com/nvidia-vrworks-and-unity)
 
 ## List of Immersive Virtual Worlds:
 - [http://www.vrchat.net/](http://www.vrchat.net/)
