@@ -259,6 +259,8 @@ List all HRTF sound Engines:
 * [https://github.com/HiddenMonk/Unity3DRuntimeTransformGizmo](https://github.com/HiddenMonk/Unity3DRuntimeTransformGizmo)
 * [http://www.darkriftnetworking.com/Default.cshtml](http://www.darkriftnetworking.com/Default.cshtml)
 * SpatialOS Improbable.io: [https://spatialos.improbable.io/](https://spatialos.improbable.io/)
+	* [https://spatialos.improbable.io/games/sofa-so-good-the-spatialos-vr-starter-project-is-now-live](https://spatialos.improbable.io/games/sofa-so-good-the-spatialos-vr-starter-project-is-now-live)
+	* [https://github.com/rjfwhite/VRSpatialMadness](https://github.com/rjfwhite/VRSpatialMadness)	
 
 ## Indie/Game/VR Market:
 
