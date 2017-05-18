@@ -39,7 +39,8 @@
 	3. [Immersive Robotic: Wireless Virtual Reality](http://www.immersiverobotics.com/our-technology/)
 	4. [http://kwikvr.com/](http://kwikvr.com/)
 	5. [https://www.vive.com/cn/accessory/tpcast/](https://www.vive.com/cn/accessory/tpcast/)
-	6. [DisplayLink Ultra-Low Latency Wireless VR](http://www.displaylink.com/vr)
+	6. [https://www.tpcast.cn/h_en/htcvive.html?p1=1&p2=1](https://www.tpcast.cn/h_en/htcvive.html?p1=1&p2=1)	
+	7. [DisplayLink Ultra-Low Latency Wireless VR](http://www.displaylink.com/vr)
 
 ### Accessories
 
@@ -119,6 +120,9 @@
 Axey Works: [https://www.assetstore.unity3d.com/en/#!/content/58821](https://www.assetstore.unity3d.com/en/#!/content/58821)
 * Low Poly Animals: [http://opengameart.org/content/5-low-poly-animals](http://opengameart.org/content/5-low-poly-animals)
 * Free Low Poly from QuaterniusDev Reddit user: [https://www.reddit.com/r/gamedev/comments/5a2xhl/free_low_poly_flat_shaded_pirate_pack/](https://www.reddit.com/r/gamedev/comments/5a2xhl/free_low_poly_flat_shaded_pirate_pack/)
+* Assets LowPoly Free: [http://simplecreations.info/](http://simplecreations.info/)
+* Royalty free music: [http://soundimage.org/](http://soundimage.org/)
+* Texture Ninja :[https://texture.ninja/](https://texture.ninja/)
 
 ### UnrealEngine VR:
 
@@ -128,6 +132,7 @@ Axey Works: [https://www.assetstore.unity3d.com/en/#!/content/58821](https://www
 * [Creating a basic VR demo using Unreal](https://virtualrealitypop.com/start-a-vr-demo-using-the-unreal-engine-63d31eeaf784#.gmvd20ves)
 * [Nvidia VRWorks for UE](https://developer.nvidia.com/nvidia-vrworks-and-ue4)
 * Similar VRTK for Unreal: [https://bitbucket.org/mordentral/vrexpansionplugin](https://bitbucket.org/mordentral/vrexpansionplugin)
+* Virtual Reality Pawn and Components Plugin v2.2: [https://www.unrealengine.com/marketplace/vr-pawn-components-plugin](https://www.unrealengine.com/marketplace/vr-pawn-components-plugin)
 
 ## VR Dev School, VR Course, Tutorials, VR Blogs:
 
@@ -217,6 +222,7 @@ List all HRTF sound Engines:
 * ReVive: [https://github.com/LibreVR/Revive]()
 * VR Prototipes: [http://grayboxvr.com/](http://grayboxvr.com/)
 * OpenVR Advanced Settings Overlay: [https://github.com/matzman666/OpenVR-AdvancedSettings] (https://github.com/matzman666/OpenVR-AdvancedSettings) - [Supersample HTC Vive using OpenVR AdvancedSettings](http://www.roadtovr.com/supersample-htc-vive-oculus-rift-steamvr-openvr-advanced-settings-sharpen/)
+* ChaperoneTweak: An in-VR chaperone editor: [https://github.com/Xavr0k/ChaperoneTweak](https://github.com/Xavr0k/ChaperoneTweak)
 * A tool to export any Unity GameObject into a FBX ASCII format: [https://github.com/KellanHiggins/UnityFBXExporter](https://github.com/KellanHiggins/UnityFBXExporter)
 * OpenVR-InputEmulator: [https://github.com/matzman666/OpenVR-InputEmulator](https://github.com/matzman666/OpenVR-InputEmulator)
 * CognitiveVR, VR data analisys: [http://cognitivevr.co/](http://cognitivevr.co/)
