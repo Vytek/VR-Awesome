@@ -89,8 +89,11 @@
 * Steam Lab Render: [https://www.assetstore.unity3d.com/en/#!/content/63141](https://www.assetstore.unity3d.com/en/#!/content/63141) - [https://github.com/ValveSoftware/the_lab_renderer](https://github.com/ValveSoftware/the_lab_renderer)
 * HTC Vive Asset Store Plugin:  [https://www.assetstore.unity3d.com/en/#!/search/page=1/sortby=popularity/query=publisher:21581]()
 * HTC Vive Teleportation System with Parabolic Pointer: [https://github.com/Flafla2/Vive-Teleporter](https://github.com/Flafla2/Vive-Teleporter)
-* VRTK: [https://github.com/thestonefox/SteamVR_Unity_Toolkit](https://github.com/thestonefox/SteamVR_Unity_Toolkit)
-* NewtonVR: [https://github.com/TomorrowTodayLabs/NewtonVR](https://github.com/TomorrowTodayLabs/NewtonVR)
+* VRTK: [https://github.com/thestonefox/SteamVR_Unity_Toolkit](https://github.com/thestonefox/SteamVR_Unity_Toolkit):
+	* [Loosely based on quintesse/PlayoVR/Assets/NetVRTK but for UNET](https://github.com/trumpetx/UNetVRTK)
+	* [A Unity demo project using VRTK, PhotonNetwork and PUNVoice] (https://github.com/quintesse/PlayoVR)
+	* [Lightsaber Training with the HTC Vive (with source code)](https://www.youtube.com/watch?v=rg_nS-vChLY)
+* NewtonVR: [https://github.com/TomorrowTodayLabs/NewtonVR] (https://github.com/TomorrowTodayLabs/NewtonVR)
 * Facal Point VR: [http://www.albert-hwang.com/focal-point-vr](http://www.albert-hwang.com/focal-point-vr)
 * An Unity plugin that allows developers to access Vive device status [https://github.com/ViveSoftware/ViveInputUtility-Unity](https://github.com/ViveSoftware/ViveInputUtility-Unity)
 * Vive Grip: [https://github.com/JScott/ViveGrip](https://github.com/JScott/ViveGrip)
@@ -179,10 +182,12 @@ Axey Works: [https://www.assetstore.unity3d.com/en/#!/content/58821](https://www
 * [DebugLog HTC Vive Unity 3D Steam VR Video Tutorial](https://www.youtube.com/channel/UCS9ZUr3LQrrsaxO_3MVnA-g)
 * [Very interesting HTC Vive Tutorial for SteamVR from raywenderlich site](https://www.raywenderlich.com/149239/htc-vive-tutorial-unity) - [Mirror](https://archive.is/GgRJB) - [Mirror 2](https://web.archive.org/web/20170127090448/https://www.raywenderlich.com/149239/htc-vive-tutorial-unity)
 * [Advanced VR Mechanics With Unity and the HTC Vive Part 1](https://www.raywenderlich.com/159552/advanced-vr-mechanics-unity-htc-vive-part-1) - [Mirror](https://archive.is/qHQXY) - [Mirror 2](https://web.archive.org/web/20170515082222/https://www.raywenderlich.com/159552/advanced-vr-mechanics-unity-htc-vive-part-1)
+* [Advanced VR Mechanics With Unity and the HTC Vive Part 2](https://www.raywenderlich.com/159610/advanced-vr-mechanics-unity-htc-vive-part-2) - [Mirror](https://archive.is/9IyFG) - [Mirror 2](https://web.archive.org/web/20170609191610/https://www.raywenderlich.com/159610/advanced-vr-mechanics-unity-htc-vive-part-2)
 * [HTC Vive SteamVR Tutorial using Flafla2 Teleport, Probuil Box, Lab Render](https://www.youtube.com/watch?v=uDwAIveGDU0)
 * [HTC Vive VR Input](http://wacki.me/blog/2016/06/vr-gui-input-module-for-unity-htc-vive/) - [Mirror](https://archive.is/qCMTY) - [Mirror 2](https://web.archive.org/web/20170201100941/http://wacki.me/blog/2016/06/vr-gui-input-module-for-unity-htc-vive/)
 * [How to make games for the HTC Vive with Unity and C#](https://www.youtube.com/playlist?list=PLEjAIFnF0Q_asf8ZIjTM4ijT89gB6M5r1) - [GitHub repo](https://github.com/LochieWestfallGames/VR-Tutorial)
 * [Vive Tutorial - Intro / UI | Unity VR (VRTK)](https://www.youtube.com/channel/UC2SDL6DcSlgVBTnEbfksQQQ) - [GitHub Repo](https://github.com/SyntonicApps/unity-vrtk-examples)
+* [Implementing VR Scene Transitions by FusedVR](https://medium.com/fusedvr/implementing-vr-scene-transitions-c27861a9ac77)
 * Oculus Rift troubleshooting guide: [http://m.vrheads.com/oculus-rift-troubleshooting-guide](http://m.vrheads.com/oculus-rift-troubleshooting-guide)
 
 ## CREATING IMMERSIVE SPATIAL AUDIO IN VR:   
