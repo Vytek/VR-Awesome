@@ -25,6 +25,7 @@
 - [https://www.thalmic.com/en/myo/](https://www.thalmic.com/en/myo/)
 - [http://www.remoriavr.com/](http://www.remoriavr.com/) - Lignum Input
 - [http://julesthuillier.com/vrtracker/](http://julesthuillier.com/vrtracker/)
+- [Tobbi VR integration](https://www.tobiipro.com/product-listing/vr-integration/)
 - VR Glove:
 	1. [https://manus-vr.com/](https://manus-vr.com/)
 	2. [https://senso.me/](https://senso.me/)
@@ -33,6 +34,7 @@
 - [http://www.vicovr.com/](http://www.vicovr.com/)
 - [http://www.smivision.com/en/gaze-and-eye-tracking-systems/home.html](http://www.smivision.com/en/gaze-and-eye-tracking-systems/home.html) - Eyes Tracking
 - [http://www.binaryvr.com/](http://www.binaryvr.com/) - Facial Recognition
+- [The world’s first full-body haptic feedback, motion capture, thermo controlled suit.](https://teslasuit.io/)
 - Wireless HMD Kit:	
 	1. [http://intugame.com/quarkvr/](http://intugame.com/quarkvr/)
 	2. [Rivvr: Wireless VR for Oculus Rift and HTC Vive](https://www.rivvr.com/)
@@ -52,6 +54,8 @@
 * [How to revive your non-working vive! (tips and tricks)](https://www.reddit.com/r/Vive/comments/4eu3uh/how_to_revive_your_nonworking_vive_tips_and_tricks/)
 * [Update Vive firmware](https://www.youtube.com/watch?v=_b3GjUdPzCA) 
 * [HTCVive Bracket for Welding headgear mod](http://www.thingiverse.com/thing:1620362)
+* [VR Frames – Glasses for Virtual Reality Headsets](https://vr-lens-lab.com/product/vr-frames-virtual-reality-glasses/)
+* [HTC Vive Disposable Hygiene Cover Starter Kit](https://vrcover.com/product/htc-vive-disposable-hygiene-cover/)
 
 ## Software
 
@@ -91,7 +95,7 @@
 * HTC Vive Teleportation System with Parabolic Pointer: [https://github.com/Flafla2/Vive-Teleporter](https://github.com/Flafla2/Vive-Teleporter)
 * VRTK: [https://github.com/thestonefox/SteamVR_Unity_Toolkit](https://github.com/thestonefox/SteamVR_Unity_Toolkit):
 	* [Loosely based on quintesse/PlayoVR/Assets/NetVRTK but for UNET](https://github.com/trumpetx/UNetVRTK)
-	* [A Unity demo project using VRTK, PhotonNetwork and PUNVoice] (https://github.com/quintesse/PlayoVR)
+	* [A Unity demo project using VRTK, PhotonNetwork and PUNVoice](https://github.com/quintesse/PlayoVR)
 	* [Lightsaber Training with the HTC Vive (with source code)](https://www.youtube.com/watch?v=rg_nS-vChLY)
 * NewtonVR: [https://github.com/TomorrowTodayLabs/NewtonVR] (https://github.com/TomorrowTodayLabs/NewtonVR)
 * Facal Point VR: [http://www.albert-hwang.com/focal-point-vr](http://www.albert-hwang.com/focal-point-vr)
