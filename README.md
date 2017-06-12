@@ -97,8 +97,11 @@
 	* [Loosely based on quintesse/PlayoVR/Assets/NetVRTK but for UNET](https://github.com/trumpetx/UNetVRTK)
 	* [A Unity demo project using VRTK, PhotonNetwork and PUNVoice](https://github.com/quintesse/PlayoVR)
 	* [Lightsaber Training with the HTC Vive (with source code)](https://www.youtube.com/watch?v=rg_nS-vChLY)
+	* [Syntonic VRTK Example Github Repo](https://github.com/SyntonicApps/unity-vrtk-examples) - [VRTK Examples & Tutorials](https://www.youtube.com/channel/UC2SDL6DcSlgVBTnEbfksQQQ)
 * NewtonVR: [https://github.com/TomorrowTodayLabs/NewtonVR] (https://github.com/TomorrowTodayLabs/NewtonVR)
 * Facal Point VR: [http://www.albert-hwang.com/focal-point-vr](http://www.albert-hwang.com/focal-point-vr)
+* ArmSwinger is an artificial VR locomotion library developed on Unity 5.4: [https://github.com/ElectricNightOwl/ArmSwinger](https://github.com/ElectricNightOwl/ArmSwinger)
+* VR UI. This project contains the full source code for the Mesh Maker VR UI system. It includes Buttons, Panels, and automatic layout tools like Row and Column containers. It also provides File Open and SaveAs dialogs using a PhysX based kinetic scroller. Factory scripts are provided to quickly build these components from the Editor or from code. The intent is to save time when designing complex VR application UIs: [https://github.com/createthis/createthis_vr_ui](https://github.com/createthis/createthis_vr_ui)
 * An Unity plugin that allows developers to access Vive device status [https://github.com/ViveSoftware/ViveInputUtility-Unity](https://github.com/ViveSoftware/ViveInputUtility-Unity)
 * Vive Grip: [https://github.com/JScott/ViveGrip](https://github.com/JScott/ViveGrip)
 * [VR Drum Keyboard from NormalVR](http://www.normalvr.com/blog/an-open-source-keyboard-to-make-your-own/) - [Medium Mirror](https://medium.com/@normalvr/an-open-source-keyboard-to-make-your-own-4f8c531bb92d#.ecu0d3v4m) - [Mirror 2](https://archive.is/4GG8R)
@@ -113,8 +116,8 @@
 	2. [Unity5 EditorVR hello world tutorial video (from scratch) featuring Oculus ](https://www.youtube.com/watch?v=U0gBRIY3TpE&t=210s)
 	3. [HOW TO SET UP UNITY'S VR EDITOR (EditorVR) !](https://www.youtube.com/watch?v=vAxPoVmhvaw)
 	4. [Unity VR: EditorVR Quick Look](https://www.youtube.com/watch?v=5-NAjKPsx4A)
-* VR Movement System for HTC Vive: https://www.assetstore.unity3d.com/en/#!/content/47329
-* VR Movement System for Oculus Touch: https://www.assetstore.unity3d.com/en/#!/content/47292
+* VR Movement System for HTC Vive: [https://www.assetstore.unity3d.com/en/#!/content/47329](https://www.assetstore.unity3d.com/en/#!/content/47329)
+* VR Movement System for Oculus Touch: [https://www.assetstore.unity3d.com/en/#!/content/47292](https://www.assetstore.unity3d.com/en/#!/content/47292)
 * Flight Navigation for HTC Vive controller: [https://www.assetstore.unity3d.com/en/#!/content/61830](https://www.assetstore.unity3d.com/en/#!/content/61830)
 * Unity Post Processing source: [https://github.com/Unity-Technologies/PostProcessing/wiki](https://github.com/Unity-Technologies/PostProcessing/wiki)
 * A plugin to select deafult Microphone in Unity: [https://github.com/GabeBigBoxVR/UnityDefaultMicrophone](https://github.com/GabeBigBoxVR/UnityDefaultMicrophone)
