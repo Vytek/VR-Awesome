@@ -241,10 +241,10 @@ List all HRTF sound Engines:
 * [Ghostline is an advanced analytics suite for virtual reality](http://ghostline.xyz/)
 * [OpenHMD aims to provide a Free and Open Source API and drivers for immersive technology](http://openhmd.net/)
 * [How to setup Unity Analytics for your indie VR project?](http://vrthefeedback.com/how-to-setup-unity-analytics-for-your-indie-vr-project)
-* [IBM Cognitivi API for Unity](https://www.ibm.com/innovation/milab/watson-speech-virtual-reality-unity/) - [GitHub Watson Unity Repo](https://github.com/watson-developer-cloud/unity-sdk)
-- [Useful tool to help you record in game footage while in your headset](https://github.com/KellanHiggins/VRCameraFramelines)
-- [Free NVIDIA FCAT VR Performance Analysis Tool Available Now For Download](http://www.geforce.com/whats-new/guides/fcat-vr-download-and-how-to-guide#HTCViveTestingWithFCATVR) - [Mirror](https://archive.is/CNqpW)
-- [NVIDIA VRWorks and Unity](https://developer.nvidia.com/nvidia-vrworks-and-unity)
+* [IBM Cognitivi API for Unity](https://www.ibm.com/innovation/milab/watson-speech-virtual-reality-unity/) - [GitHub Watson Unity Repo](https://github.com/watson-developer-cloud/unity-sdk) - [https://github.com/IBM/vr-speech-sandbox-vive](https://github.com/IBM/vr-speech-sandbox-vive) - [Mirror](https://archive.is/qOCLc) - [Mirror 2](https://web.archive.org/web/20170621150656/https://www.ibm.com/innovation/milab/watson-speech-virtual-reality-unity/)
+* [Useful tool to help you record in game footage while in your headset](https://github.com/KellanHiggins/VRCameraFramelines)
+* [Free NVIDIA FCAT VR Performance Analysis Tool Available Now For Download](http://www.geforce.com/whats-new/guides/fcat-vr-download-and-how-to-guide#HTCViveTestingWithFCATVR) - [Mirror](https://archive.is/CNqpW)
+* [NVIDIA VRWorks and Unity](https://developer.nvidia.com/nvidia-vrworks-and-unity)
 
 ## List of Immersive Virtual Worlds:
 - [http://www.vrchat.net/](http://www.vrchat.net/)
