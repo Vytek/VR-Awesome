@@ -98,6 +98,7 @@
 	* [A Unity demo project using VRTK, PhotonNetwork and PUNVoice](https://github.com/quintesse/PlayoVR)
 	* [Lightsaber Training with the HTC Vive (with source code)](https://www.youtube.com/watch?v=rg_nS-vChLY)
 	* [Syntonic VRTK Example Github Repo](https://github.com/SyntonicApps/unity-vrtk-examples) - [VRTK Examples & Tutorials](https://www.youtube.com/channel/UC2SDL6DcSlgVBTnEbfksQQQ)
+	* [Mesh Maker VR Github Repository](https://github.com/createthis/mesh_maker_vr)
 * NewtonVR: [https://github.com/TomorrowTodayLabs/NewtonVR] (https://github.com/TomorrowTodayLabs/NewtonVR)
 * Facal Point VR: [http://www.albert-hwang.com/focal-point-vr](http://www.albert-hwang.com/focal-point-vr)
 * ArmSwinger is an artificial VR locomotion library developed on Unity 5.4: [https://github.com/ElectricNightOwl/ArmSwinger](https://github.com/ElectricNightOwl/ArmSwinger)
@@ -194,7 +195,9 @@ Axey Works: [https://www.assetstore.unity3d.com/en/#!/content/58821](https://www
 * [HTC Vive VR Input](http://wacki.me/blog/2016/06/vr-gui-input-module-for-unity-htc-vive/) - [Mirror](https://archive.is/qCMTY) - [Mirror 2](https://web.archive.org/web/20170201100941/http://wacki.me/blog/2016/06/vr-gui-input-module-for-unity-htc-vive/)
 * [How to make games for the HTC Vive with Unity and C#](https://www.youtube.com/playlist?list=PLEjAIFnF0Q_asf8ZIjTM4ijT89gB6M5r1) - [GitHub repo](https://github.com/LochieWestfallGames/VR-Tutorial)
 * [Vive Tutorial - Intro / UI | Unity VR (VRTK)](https://www.youtube.com/channel/UC2SDL6DcSlgVBTnEbfksQQQ) - [GitHub Repo](https://github.com/SyntonicApps/unity-vrtk-examples)
+* [Tutorial: Controlling Objects with Vive Trackers in Unity](https://www.solidearthvr.com/2017/05/12/tutorial-vive-tracker-basic-setup-in-unity/) - [Mirror 1](https://archive.is/Il17G) - [Mirror 2](https://web.archive.org/web/20170713091924/https://www.solidearthvr.com/2017/05/12/tutorial-vive-tracker-basic-setup-in-unity/)
 * [Implementing VR Scene Transitions by FusedVR](https://medium.com/fusedvr/implementing-vr-scene-transitions-c27861a9ac77)
+* [Basic VR Interaction Prototyping Tutorial for Designers — No Coding Required](https://virtualrealitypop.com/basic-vr-interaction-prototyping-tutorial-for-designers-no-coding-required-e5249993e872)
 * Oculus Rift troubleshooting guide: [http://m.vrheads.com/oculus-rift-troubleshooting-guide](http://m.vrheads.com/oculus-rift-troubleshooting-guide)
 
 ## CREATING IMMERSIVE SPATIAL AUDIO IN VR:   
@@ -245,6 +248,7 @@ List all HRTF sound Engines:
 * [Useful tool to help you record in game footage while in your headset](https://github.com/KellanHiggins/VRCameraFramelines)
 * [Free NVIDIA FCAT VR Performance Analysis Tool Available Now For Download](http://www.geforce.com/whats-new/guides/fcat-vr-download-and-how-to-guide#HTCViveTestingWithFCATVR) - [Mirror](https://archive.is/CNqpW)
 * [NVIDIA VRWorks and Unity](https://developer.nvidia.com/nvidia-vrworks-and-unity)
+* [Guardian Boundary Editor - Customize/straighten your boundaries](https://www.reddit.com/r/oculus/comments/6iezwq/guardian_boundary_editor_customizestraighten_your/) - [Download](http://www.emuvr.net/download/GuardianBoundaryEditor.zip)
 
 ## List of Immersive Virtual Worlds:
 - [http://www.vrchat.net/](http://www.vrchat.net/)
@@ -276,6 +280,8 @@ List all HRTF sound Engines:
 
 * [https://github.com/HiddenMonk/Unity3DRuntimeTransformGizmo](https://github.com/HiddenMonk/Unity3DRuntimeTransformGizmo)
 * [http://www.darkriftnetworking.com/Default.cshtml](http://www.darkriftnetworking.com/Default.cshtml)
+* [[Tutorial] Controlling Makehuman Avatar with Vive Trackers in Unity](https://www.youtube.com/watch?v=jTMa1pgmVC4)
+* [Unity Mecanim VR IK vs Final IK](https://www.youtube.com/watch?v=7y9GAVpCW_c) - [VR IK using native Unity Mecanim IK](https://github.com/createthis/unity_vr_ik_mecanim)
 * SpatialOS Improbable.io: [https://spatialos.improbable.io/](https://spatialos.improbable.io/)
 	* [https://spatialos.improbable.io/games/sofa-so-good-the-spatialos-vr-starter-project-is-now-live](https://spatialos.improbable.io/games/sofa-so-good-the-spatialos-vr-starter-project-is-now-live)
 	* [https://github.com/rjfwhite/VRSpatialMadness](https://github.com/rjfwhite/VRSpatialMadness)	
