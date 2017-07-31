@@ -103,6 +103,7 @@
 * Facal Point VR: [http://www.albert-hwang.com/focal-point-vr](http://www.albert-hwang.com/focal-point-vr)
 * ArmSwinger is an artificial VR locomotion library developed on Unity 5.4: [https://github.com/ElectricNightOwl/ArmSwinger](https://github.com/ElectricNightOwl/ArmSwinger)
 * VR UI. This project contains the full source code for the Mesh Maker VR UI system. It includes Buttons, Panels, and automatic layout tools like Row and Column containers. It also provides File Open and SaveAs dialogs using a PhysX based kinetic scroller. Factory scripts are provided to quickly build these components from the Editor or from code. The intent is to save time when designing complex VR application UIs: [https://github.com/createthis/createthis_vr_ui](https://github.com/createthis/createthis_vr_ui)
+* [Unusual Virtual reality locomotion modifications for Unity3D](https://github.com/Clavilux/VRLM)
 * An Unity plugin that allows developers to access Vive device status [https://github.com/ViveSoftware/ViveInputUtility-Unity](https://github.com/ViveSoftware/ViveInputUtility-Unity)
 * Vive Grip: [https://github.com/JScott/ViveGrip](https://github.com/JScott/ViveGrip)
 * [VR Drum Keyboard from NormalVR](http://www.normalvr.com/blog/an-open-source-keyboard-to-make-your-own/) - [Medium Mirror](https://medium.com/@normalvr/an-open-source-keyboard-to-make-your-own-4f8c531bb92d#.ecu0d3v4m) - [Mirror 2](https://archive.is/4GG8R)
@@ -198,6 +199,7 @@ Axey Works: [https://www.assetstore.unity3d.com/en/#!/content/58821](https://www
 * [Tutorial: Controlling Objects with Vive Trackers in Unity](https://www.solidearthvr.com/2017/05/12/tutorial-vive-tracker-basic-setup-in-unity/) - [Mirror 1](https://archive.is/Il17G) - [Mirror 2](https://web.archive.org/web/20170713091924/https://www.solidearthvr.com/2017/05/12/tutorial-vive-tracker-basic-setup-in-unity/)
 * [Implementing VR Scene Transitions by FusedVR](https://medium.com/fusedvr/implementing-vr-scene-transitions-c27861a9ac77)
 * [Basic VR Interaction Prototyping Tutorial for Designers — No Coding Required](https://virtualrealitypop.com/basic-vr-interaction-prototyping-tutorial-for-designers-no-coding-required-e5249993e872)
+* [How to Beautify the VR Spectator Camera and record stunning VR Content of your game](http://blog.vikubb.com/2017/07/28/how-to-beautify-the-vr-spectator-camera-and-record-stunning-vr-content-of-your-game/) - [Mirror 1](https://archive.is/eVDNC) - [Mirror 2](https://web.archive.org/web/20170731081741/http://blog.vikubb.com/2017/07/28/how-to-beautify-the-vr-spectator-camera-and-record-stunning-vr-content-of-your-game/)
 * Oculus Rift troubleshooting guide: [http://m.vrheads.com/oculus-rift-troubleshooting-guide](http://m.vrheads.com/oculus-rift-troubleshooting-guide)
 
 ## CREATING IMMERSIVE SPATIAL AUDIO IN VR:   
@@ -249,6 +251,7 @@ List all HRTF sound Engines:
 * [Free NVIDIA FCAT VR Performance Analysis Tool Available Now For Download](http://www.geforce.com/whats-new/guides/fcat-vr-download-and-how-to-guide#HTCViveTestingWithFCATVR) - [Mirror](https://archive.is/CNqpW)
 * [NVIDIA VRWorks and Unity](https://developer.nvidia.com/nvidia-vrworks-and-unity)
 * [Guardian Boundary Editor - Customize/straighten your boundaries](https://www.reddit.com/r/oculus/comments/6iezwq/guardian_boundary_editor_customizestraighten_your/) - [Download](http://www.emuvr.net/download/GuardianBoundaryEditor.zip)
+* [DEVELOPERS: this is how you handle the Oculus Parties voice chat when your app also uses voice chat (so that both VOIPs don't run at once)](https://www.reddit.com/r/oculus/comments/6q8e1u/developers_this_is_how_you_handle_the_oculus/)
 
 ## List of Immersive Virtual Worlds:
 - [http://www.vrchat.net/](http://www.vrchat.net/)
@@ -282,6 +285,8 @@ List all HRTF sound Engines:
 * [http://www.darkriftnetworking.com/Default.cshtml](http://www.darkriftnetworking.com/Default.cshtml)
 * [[Tutorial] Controlling Makehuman Avatar with Vive Trackers in Unity](https://www.youtube.com/watch?v=jTMa1pgmVC4)
 * [Unity Mecanim VR IK vs Final IK](https://www.youtube.com/watch?v=7y9GAVpCW_c) - [VR IK using native Unity Mecanim IK](https://github.com/createthis/unity_vr_ik_mecanim)
+* [Free, open-source TTS engine for .NET](https://github.com/TheBerkin/Sagen)
+* [Performant Mumble Client For Unity3D](https://github.com/BananaHemic/Mumble-Unity) - Warning seee note here: https://github.com/BananaHemic/Mumble-Unity/issues/6
 * SpatialOS Improbable.io: [https://spatialos.improbable.io/](https://spatialos.improbable.io/)
 	* [https://spatialos.improbable.io/games/sofa-so-good-the-spatialos-vr-starter-project-is-now-live](https://spatialos.improbable.io/games/sofa-so-good-the-spatialos-vr-starter-project-is-now-live)
 	* [https://github.com/rjfwhite/VRSpatialMadness](https://github.com/rjfwhite/VRSpatialMadness)	
