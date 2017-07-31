@@ -252,6 +252,7 @@ List all HRTF sound Engines:
 * [NVIDIA VRWorks and Unity](https://developer.nvidia.com/nvidia-vrworks-and-unity)
 * [Guardian Boundary Editor - Customize/straighten your boundaries](https://www.reddit.com/r/oculus/comments/6iezwq/guardian_boundary_editor_customizestraighten_your/) - [Download](http://www.emuvr.net/download/GuardianBoundaryEditor.zip)
 * [DEVELOPERS: this is how you handle the Oculus Parties voice chat when your app also uses voice chat (so that both VOIPs don't run at once)](https://www.reddit.com/r/oculus/comments/6q8e1u/developers_this_is_how_you_handle_the_oculus/)
+* [Getting started with Oculus Touch and Avatar SDK in Unity [Updated]](https://skarredghost.com/2017/01/03/getting-started-with-oculus-touch-and-avatar-sdk-in-unity/) - [Mirror 1](https://archive.is/a8W4R) - [Mirror 2](https://web.archive.org/web/20170731103259/https://skarredghost.com/2017/01/03/getting-started-with-oculus-touch-and-avatar-sdk-in-unity)
 
 ## List of Immersive Virtual Worlds:
 - [http://www.vrchat.net/](http://www.vrchat.net/)
