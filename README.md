@@ -201,6 +201,7 @@ Axey Works: [https://www.assetstore.unity3d.com/en/#!/content/58821](https://www
 * [Basic VR Interaction Prototyping Tutorial for Designers — No Coding Required](https://virtualrealitypop.com/basic-vr-interaction-prototyping-tutorial-for-designers-no-coding-required-e5249993e872)
 * [How to Beautify the VR Spectator Camera and record stunning VR Content of your game](http://blog.vikubb.com/2017/07/28/how-to-beautify-the-vr-spectator-camera-and-record-stunning-vr-content-of-your-game/) - [Mirror 1](https://archive.is/eVDNC) - [Mirror 2](https://web.archive.org/web/20170731081741/http://blog.vikubb.com/2017/07/28/how-to-beautify-the-vr-spectator-camera-and-record-stunning-vr-content-of-your-game/)
 * Oculus Rift troubleshooting guide: [http://m.vrheads.com/oculus-rift-troubleshooting-guide](http://m.vrheads.com/oculus-rift-troubleshooting-guide)
+* [How to play Stereoscopic 3D 360 Video in VR with Unity3D](https://unity3d.college/2017/07/31/how-to-play-stereoscopic-3d-360-video-in-vr-with-unity3d/)
 
 ## CREATING IMMERSIVE SPATIAL AUDIO IN VR:   
 * [http://www.blockinterval.com/project-updates/2015/11/10/better-sound-design-in-vr](http://www.blockinterval.com/project-updates/2015/11/10/better-sound-design-in-vr)
@@ -227,9 +228,15 @@ List all HRTF sound Engines:
 * [Building Virtual Reality with Unity and Steam VR](https://www.crcpress.com/Building-Virtual-Reality-with-Unity-and-Steam-VR/Murray/p/book/9781138033511)
 * [Learning Virtual Reality: Developing Immersive Experiences and Applications for Desktop, Web, and Mobile](https://www.amazon.com/Learning-Virtual-Reality-Experiences-Applications/dp/1491922834/)
 * [Entering Metaverse](https://www.amazon.it/Entering-Metaverse-Joining-Virtual-Industry-ebook/dp/B01LLHGAX6/ref=sr_1_1?ie=UTF8&qid=1476435500)
+* [COMP 4010 - Lecture1 Introduction to Virtual Reality](https://www.slideshare.net/marknb00/comp-4010-lecture1-introduction-to-virtual-reality)
 * VR Book from Prof. LaValle and MOOC VR Course:
 	1. [http://vr.cs.uiuc.edu/](http://vr.cs.uiuc.edu/)
 	2. [http://nptel.ac.in/syllabus/106106138/](http://nptel.ac.in/syllabus/106106138/)
+	3. [Youtube Videos Playlist](https://www.youtube.com/watch?v=aNC5YMUTcQ4&list=PLbMVogVj5nJSyt80VRXYC-YrAvQuUb6dh)
+
+* EE 267: Virtual Reality:
+	1. [Stanford Course EE 267](http://stanford.edu/class/ee267/)
+	2. [SIGGRAPH 2017 Build Your Own VR Display](https://www.youtube.com/watch?v=HhGubP8stHk)
 
 ## VR Tools and PlugIn:
 
@@ -253,6 +260,12 @@ List all HRTF sound Engines:
 * [Guardian Boundary Editor - Customize/straighten your boundaries](https://www.reddit.com/r/oculus/comments/6iezwq/guardian_boundary_editor_customizestraighten_your/) - [Download](http://www.emuvr.net/download/GuardianBoundaryEditor.zip)
 * [DEVELOPERS: this is how you handle the Oculus Parties voice chat when your app also uses voice chat (so that both VOIPs don't run at once)](https://www.reddit.com/r/oculus/comments/6q8e1u/developers_this_is_how_you_handle_the_oculus/)
 * [Getting started with Oculus Touch and Avatar SDK in Unity [Updated]](https://skarredghost.com/2017/01/03/getting-started-with-oculus-touch-and-avatar-sdk-in-unity/) - [Mirror 1](https://archive.is/a8W4R) - [Mirror 2](https://web.archive.org/web/20170731103259/https://skarredghost.com/2017/01/03/getting-started-with-oculus-touch-and-avatar-sdk-in-unity)
+* HTC SteamVR Tracking LightHouse System:
+	- [https://partner.steamgames.com/vrtracking](https://partner.steamgames.com/vrtrackin)
+	- [STEAMVR TRACKING TRAINING](https://www.synapse.com/steamvr)
+	- [Lighthouse Reverse-Engineered Documentation](https://github.com/nairol/LighthouseRedox)
+	- [https://github.com/cnlohr/libsurvive](https://github.com/cnlohr/libsurvive)
+	- [SteamVR Tracking HDK](https://www.triadsemi.com/product/steamvr-tracking-hdk/)
 
 ## List of Immersive Virtual Worlds:
 - [http://www.vrchat.net/](http://www.vrchat.net/)
