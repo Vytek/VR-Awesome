@@ -202,6 +202,8 @@ Axey Works: [https://www.assetstore.unity3d.com/en/#!/content/58821](https://www
 * [How to Beautify the VR Spectator Camera and record stunning VR Content of your game](http://blog.vikubb.com/2017/07/28/how-to-beautify-the-vr-spectator-camera-and-record-stunning-vr-content-of-your-game/) - [Mirror 1](https://archive.is/eVDNC) - [Mirror 2](https://web.archive.org/web/20170731081741/http://blog.vikubb.com/2017/07/28/how-to-beautify-the-vr-spectator-camera-and-record-stunning-vr-content-of-your-game/)
 * Oculus Rift troubleshooting guide: [http://m.vrheads.com/oculus-rift-troubleshooting-guide](http://m.vrheads.com/oculus-rift-troubleshooting-guide)
 * [How to play Stereoscopic 3D 360 Video in VR with Unity3D](https://unity3d.college/2017/07/31/how-to-play-stereoscopic-3d-360-video-in-vr-with-unity3d/)
+* [](“Anti-aliased Alpha Test: The Esoteric Alpha To Coverage” @bgolus https://medium.com/@bgolus/anti-aliased-alpha-test-the-esoteric-alpha-to-coverage-8b177335ae4f)
+
 
 ## CREATING IMMERSIVE SPATIAL AUDIO IN VR:   
 * [http://www.blockinterval.com/project-updates/2015/11/10/better-sound-design-in-vr](http://www.blockinterval.com/project-updates/2015/11/10/better-sound-design-in-vr)
