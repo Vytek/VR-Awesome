@@ -108,6 +108,10 @@
 * Vive Grip: [https://github.com/JScott/ViveGrip](https://github.com/JScott/ViveGrip)
 * [VR Drum Keyboard from NormalVR](http://www.normalvr.com/blog/an-open-source-keyboard-to-make-your-own/) - [Medium Mirror](https://medium.com/@normalvr/an-open-source-keyboard-to-make-your-own-4f8c531bb92d#.ecu0d3v4m) - [Mirror 2](https://archive.is/4GG8R)
 * [Keyboard Input for Virtual Reality](https://uxdesign.cc/keyboard-input-for-virtual-reality-d551a29c53e9#.12u2xskbr) - [Mirror](https://web.archive.org/web/20170223084857/https://uxdesign.cc/keyboard-input-for-virtual-reality-d551a29c53e9?gi=18e71e260b3f)
+* List VR KeyBoards:
+	1. VRKeys - A drum-style keyboard for VR in Unity: [https://github.com/campfireunion/VRKeys](https://github.com/campfireunion/VRKeys)
+	2. [Punchkeyboard](https://github.com/rjth/Punchkeyboard)
+	3. [Cutie Keys](https://github.com/NormalVR/CutieKeys)
 * VR Camera for HTC Vive: [VR Camera](https://www.assetstore.unity3d.com/en/#!/content/79203)
 * Unity POC for click-drag interactivity in Vive: [https://github.com/Albert/clicky-draggy](https://github.com/Albert/clicky-draggy)
 * Mirror in VR for SteamVR:
@@ -231,6 +235,7 @@ List all HRTF sound Engines:
 * [Learning Virtual Reality: Developing Immersive Experiences and Applications for Desktop, Web, and Mobile](https://www.amazon.com/Learning-Virtual-Reality-Experiences-Applications/dp/1491922834/)
 * [Entering Metaverse](https://www.amazon.it/Entering-Metaverse-Joining-Virtual-Industry-ebook/dp/B01LLHGAX6/ref=sr_1_1?ie=UTF8&qid=1476435500)
 * [COMP 4010 - Lecture1 Introduction to Virtual Reality](https://www.slideshare.net/marknb00/comp-4010-lecture1-introduction-to-virtual-reality)
+* [The Science of Locomotion in VR](https://medium.com/usable-or-not/the-science-of-locomotion-in-vr-e2314be3f1ca)
 * VR Book from Prof. LaValle and MOOC VR Course:
 	1. [http://vr.cs.uiuc.edu/](http://vr.cs.uiuc.edu/)
 	2. [http://nptel.ac.in/syllabus/106106138/](http://nptel.ac.in/syllabus/106106138/)
@@ -249,6 +254,8 @@ List all HRTF sound Engines:
 * VR Prototipes: [http://grayboxvr.com/](http://grayboxvr.com/)
 * OpenVR Advanced Settings Overlay: [https://github.com/matzman666/OpenVR-AdvancedSettings] (https://github.com/matzman666/OpenVR-AdvancedSettings) - [Supersample HTC Vive using OpenVR AdvancedSettings](http://www.roadtovr.com/supersample-htc-vive-oculus-rift-steamvr-openvr-advanced-settings-sharpen/)
 * ChaperoneTweak: An in-VR chaperone editor: [https://github.com/Xavr0k/ChaperoneTweak](https://github.com/Xavr0k/ChaperoneTweak)
+* Oculus TrayTool - SuperSampling profiles, HMD disconnect fixes [https://forums.oculus.com/community/discussion/47247/oculus-traytool-supersampling-profiles-hmd-disconnect-fixes-hopefully](https://forums.oculus.com/community/discussion/47247/oculus-traytool-supersampling-profiles-hmd-disconnect-fixes-hopefully)
+* Driver4VR – enhance your VR configuration: [http://www.driver4vr.com/](http://www.driver4vr.com/)
 * A tool to export any Unity GameObject into a FBX ASCII format: [https://github.com/KellanHiggins/UnityFBXExporter](https://github.com/KellanHiggins/UnityFBXExporter)
 * OpenVR-InputEmulator: [https://github.com/matzman666/OpenVR-InputEmulator](https://github.com/matzman666/OpenVR-InputEmulator)
 * CognitiveVR, VR data analisys: [http://cognitivevr.co/](http://cognitivevr.co/)
