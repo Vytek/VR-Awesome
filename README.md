@@ -79,6 +79,9 @@
 - [Sense of Presence in Social VR Experience](http://www.interactivearchitecture.org/sense-of-presence-in-social-vr-experience.html) - [Mirror 1](https://archive.is/KUcIh) - [Mirror 2](https://web.archive.org/web/20170223094600/http://www.interactivearchitecture.org/sense-of-presence-in-social-vr-experience.html)
 - [Networked-Aframe](http://haydenlee.io/networked-aframe/)
 
+### Tours:
+- [LiveTourLab](https://github.com/livetourlab/live-tour-lab) - Framework for creating VR Tours.
+
 ## UI/UX:
 
 - [UX of VR](http://www.uxofvr.com/) - A list of resources about the UI/UX considerations for VR.
