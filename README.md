@@ -10,6 +10,7 @@
 - [Razer OSVR](http://www.osvr.org/)
 - [FOVE](http://www.getfove.com/)
 - [StarVR](http://www.starvr.com/)
+- [Pimax 8K](https://www.pimaxvr.com/8k/?lang=en)
 - [Google Cardboard](https://vr.google.com/cardboard/)
 - [Google Daydream View](https://vr.google.com/daydream/headset/)
 
@@ -31,8 +32,11 @@
 	2. [https://senso.me/](https://senso.me/)
 	3. [http://www.dextarobotics.com/](http://www.dextarobotics.com/)
 	4. [https://www.neurodigital.es/](https://www.neurodigital.es/)
-- [http://www.vicovr.com/](http://www.vicovr.com/)
-- [http://www.smivision.com/en/gaze-and-eye-tracking-systems/home.html](http://www.smivision.com/en/gaze-and-eye-tracking-systems/home.html) - Eyes Tracking
+- Eye Tracking:
+	1. [http://www.vicovr.com/](http://www.vicovr.com/)
+	2. [http://www.smivision.com/en/gaze-and-eye-tracking-systems/home.html](http://www.smivision.com/en/gaze-and-eye-tracking-systems/home.html) - Eyes Tracking
+	3. [http://www.aglass.com/](http://www.aglass.com/)
+	4. Open source eye tracking: [https://pupil-labs.com](https://pupil-labs.com)
 - [http://www.binaryvr.com/](http://www.binaryvr.com/) - Facial Recognition
 - [The world’s first full-body haptic feedback, motion capture, thermo controlled suit.](https://teslasuit.io/)
 - Wireless HMD Kit:	
@@ -81,6 +85,8 @@
 
 ### Tours:
 - [LiveTourLab](https://github.com/livetourlab/live-tour-lab) - Framework for creating VR Tours.
+- [A simple framework for creating VR with Lua](http://lovr.org/)
+- Calcflow: [https://github.com/matryx/calcflow](https://github.com/matryx/calcflow)
 
 ## UI/UX:
 
@@ -152,6 +158,7 @@ Axey Works: [https://www.assetstore.unity3d.com/en/#!/content/58821](https://www
 * [Nvidia VRWorks for UE](https://developer.nvidia.com/nvidia-vrworks-and-ue4)
 * Similar VRTK for Unreal: [https://bitbucket.org/mordentral/vrexpansionplugin](https://bitbucket.org/mordentral/vrexpansionplugin)
 * Virtual Reality Pawn and Components Plugin v2.2: [https://www.unrealengine.com/marketplace/vr-pawn-components-plugin](https://www.unrealengine.com/marketplace/vr-pawn-components-plugin)
+* [Creating a VR Zombie Game With UE4 Blueprints](https://www.youtube.com/watch?v=ebV1UGkxkl4&list=PLrfSN3w5WCJWPv4B25PC2TYpb6myvZ6UY)
 
 ## VR Dev School, VR Course, Tutorials, VR Blogs:
 
@@ -258,9 +265,11 @@ List all HRTF sound Engines:
 * OpenVR Advanced Settings Overlay: [https://github.com/matzman666/OpenVR-AdvancedSettings] (https://github.com/matzman666/OpenVR-AdvancedSettings) - [Supersample HTC Vive using OpenVR AdvancedSettings](http://www.roadtovr.com/supersample-htc-vive-oculus-rift-steamvr-openvr-advanced-settings-sharpen/)
 * ChaperoneTweak: An in-VR chaperone editor: [https://github.com/Xavr0k/ChaperoneTweak](https://github.com/Xavr0k/ChaperoneTweak)
 * Oculus TrayTool - SuperSampling profiles, HMD disconnect fixes [https://forums.oculus.com/community/discussion/47247/oculus-traytool-supersampling-profiles-hmd-disconnect-fixes-hopefully](https://forums.oculus.com/community/discussion/47247/oculus-traytool-supersampling-profiles-hmd-disconnect-fixes-hopefully)
+* SteamVR Home Loader: [https://github.com/CogentHub/HomeLoader](https://github.com/CogentHub/HomeLoader)
 * Driver4VR – enhance your VR configuration: [http://www.driver4vr.com/](http://www.driver4vr.com/)
 * A tool to export any Unity GameObject into a FBX ASCII format: [https://github.com/KellanHiggins/UnityFBXExporter](https://github.com/KellanHiggins/UnityFBXExporter)
 * OpenVR-InputEmulator: [https://github.com/matzman666/OpenVR-InputEmulator](https://github.com/matzman666/OpenVR-InputEmulator)
+* Port your PC VR Application on Mobile: [https://riftcat.com/vridge](https://riftcat.com/vridge)
 * CognitiveVR, VR data analisys: [http://cognitivevr.co/](http://cognitivevr.co/)
 * [Ghostline is an advanced analytics suite for virtual reality](http://ghostline.xyz/)
 * [OpenHMD aims to provide a Free and Open Source API and drivers for immersive technology](http://openhmd.net/)
