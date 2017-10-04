@@ -101,6 +101,7 @@
 * SteamVR: [https://github.com/ValveSoftware/openvr](https://github.com/ValveSoftware/openvr)
 * Steam Lab Render: [https://www.assetstore.unity3d.com/en/#!/content/63141](https://www.assetstore.unity3d.com/en/#!/content/63141) - [https://github.com/ValveSoftware/the_lab_renderer](https://github.com/ValveSoftware/the_lab_renderer)
 * HTC Vive Asset Store Plugin:  [https://www.assetstore.unity3d.com/en/#!/search/page=1/sortby=popularity/query=publisher:21581]()
+* [Walking in Place script for Unity and SteamVR](https://github.com/pottedmeat7/SteamVRWIPLocomotion)
 * HTC Vive Teleportation System with Parabolic Pointer: [https://github.com/Flafla2/Vive-Teleporter](https://github.com/Flafla2/Vive-Teleporter)
 * VRTK: [https://github.com/thestonefox/SteamVR_Unity_Toolkit](https://github.com/thestonefox/SteamVR_Unity_Toolkit):
 	* [Loosely based on quintesse/PlayoVR/Assets/NetVRTK but for UNET](https://github.com/trumpetx/UNetVRTK)
@@ -113,6 +114,7 @@
 * ArmSwinger is an artificial VR locomotion library developed on Unity 5.4: [https://github.com/ElectricNightOwl/ArmSwinger](https://github.com/ElectricNightOwl/ArmSwinger)
 * VR UI. This project contains the full source code for the Mesh Maker VR UI system. It includes Buttons, Panels, and automatic layout tools like Row and Column containers. It also provides File Open and SaveAs dialogs using a PhysX based kinetic scroller. Factory scripts are provided to quickly build these components from the Editor or from code. The intent is to save time when designing complex VR application UIs: [https://github.com/createthis/createthis_vr_ui](https://github.com/createthis/createthis_vr_ui)
 * [Unusual Virtual reality locomotion modifications for Unity3D](https://github.com/Clavilux/VRLM)
+* [TButt is Turbo Button's framework for developing multiplatform VR games in Unity.](https://github.com/turbobutton/tbutt-vr-framework)
 * An Unity plugin that allows developers to access Vive device status [https://github.com/ViveSoftware/ViveInputUtility-Unity](https://github.com/ViveSoftware/ViveInputUtility-Unity)
 * Vive Grip: [https://github.com/JScott/ViveGrip](https://github.com/JScott/ViveGrip)
 * [VR Drum Keyboard from NormalVR](http://www.normalvr.com/blog/an-open-source-keyboard-to-make-your-own/) - [Medium Mirror](https://medium.com/@normalvr/an-open-source-keyboard-to-make-your-own-4f8c531bb92d#.ecu0d3v4m) - [Mirror 2](https://archive.is/4GG8R)
@@ -208,6 +210,7 @@ Axey Works: [https://www.assetstore.unity3d.com/en/#!/content/58821](https://www
 * [Advanced VR Mechanics With Unity and the HTC Vive Part 2](https://www.raywenderlich.com/159610/advanced-vr-mechanics-unity-htc-vive-part-2) - [Mirror](https://archive.is/9IyFG) - [Mirror 2](https://web.archive.org/web/20170609191610/https://www.raywenderlich.com/159610/advanced-vr-mechanics-unity-htc-vive-part-2)
 * [HTC Vive SteamVR Tutorial using Flafla2 Teleport, Probuil Box, Lab Render](https://www.youtube.com/watch?v=uDwAIveGDU0)
 * [HTC Vive VR Input](http://wacki.me/blog/2016/06/vr-gui-input-module-for-unity-htc-vive/) - [Mirror](https://archive.is/qCMTY) - [Mirror 2](https://web.archive.org/web/20170201100941/http://wacki.me/blog/2016/06/vr-gui-input-module-for-unity-htc-vive/)
+* [Unity + Vive Tutorial: Beginners](https://www.youtube.com/watch?v=q86rb1Eq-bA&list=PLmc6GPFDyfw_4kx-LhJyBOoCIukH5orQ9)
 * [How to make games for the HTC Vive with Unity and C#](https://www.youtube.com/playlist?list=PLEjAIFnF0Q_asf8ZIjTM4ijT89gB6M5r1) - [GitHub repo](https://github.com/LochieWestfallGames/VR-Tutorial)
 * [Vive Tutorial - Intro / UI | Unity VR (VRTK)](https://www.youtube.com/channel/UC2SDL6DcSlgVBTnEbfksQQQ) - [GitHub Repo](https://github.com/SyntonicApps/unity-vrtk-examples)
 * [Tutorial: Controlling Objects with Vive Trackers in Unity](https://www.solidearthvr.com/2017/05/12/tutorial-vive-tracker-basic-setup-in-unity/) - [Mirror 1](https://archive.is/Il17G) - [Mirror 2](https://web.archive.org/web/20170713091924/https://www.solidearthvr.com/2017/05/12/tutorial-vive-tracker-basic-setup-in-unity/)
@@ -216,7 +219,7 @@ Axey Works: [https://www.assetstore.unity3d.com/en/#!/content/58821](https://www
 * [How to Beautify the VR Spectator Camera and record stunning VR Content of your game](http://blog.vikubb.com/2017/07/28/how-to-beautify-the-vr-spectator-camera-and-record-stunning-vr-content-of-your-game/) - [Mirror 1](https://archive.is/eVDNC) - [Mirror 2](https://web.archive.org/web/20170731081741/http://blog.vikubb.com/2017/07/28/how-to-beautify-the-vr-spectator-camera-and-record-stunning-vr-content-of-your-game/)
 * Oculus Rift troubleshooting guide: [http://m.vrheads.com/oculus-rift-troubleshooting-guide](http://m.vrheads.com/oculus-rift-troubleshooting-guide)
 * [How to play Stereoscopic 3D 360 Video in VR with Unity3D](https://unity3d.college/2017/07/31/how-to-play-stereoscopic-3d-360-video-in-vr-with-unity3d/)
-* [](“Anti-aliased Alpha Test: The Esoteric Alpha To Coverage” @bgolus https://medium.com/@bgolus/anti-aliased-alpha-test-the-esoteric-alpha-to-coverage-8b177335ae4f)
+* [Anti-aliased Alpha Test: The Esoteric Alpha To Coverage](“Anti-aliased Alpha Test: The Esoteric Alpha To Coverage” @bgolus https://medium.com/@bgolus/anti-aliased-alpha-test-the-esoteric-alpha-to-coverage-8b177335ae4f)
 
 
 ## CREATING IMMERSIVE SPATIAL AUDIO IN VR:   
@@ -263,6 +266,7 @@ List all HRTF sound Engines:
 * ReVive: [https://github.com/LibreVR/Revive]()
 * VR Prototipes: [http://grayboxvr.com/](http://grayboxvr.com/)
 * OpenVR Advanced Settings Overlay: [https://github.com/matzman666/OpenVR-AdvancedSettings] (https://github.com/matzman666/OpenVR-AdvancedSettings) - [Supersample HTC Vive using OpenVR AdvancedSettings](http://www.roadtovr.com/supersample-htc-vive-oculus-rift-steamvr-openvr-advanced-settings-sharpen/)
+* [New Viveport Scene SDK Hints at the Future of VR Content Browsing](https://blog.vive.com/us/2017/09/28/early-release-viveport-scene-sdk/)
 * ChaperoneTweak: An in-VR chaperone editor: [https://github.com/Xavr0k/ChaperoneTweak](https://github.com/Xavr0k/ChaperoneTweak)
 * Oculus TrayTool - SuperSampling profiles, HMD disconnect fixes [https://forums.oculus.com/community/discussion/47247/oculus-traytool-supersampling-profiles-hmd-disconnect-fixes-hopefully](https://forums.oculus.com/community/discussion/47247/oculus-traytool-supersampling-profiles-hmd-disconnect-fixes-hopefully)
 * SteamVR Home Loader: [https://github.com/CogentHub/HomeLoader](https://github.com/CogentHub/HomeLoader)
