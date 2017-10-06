@@ -13,6 +13,7 @@
 - [Pimax 8K](https://www.pimaxvr.com/8k/?lang=en)
 - [Google Cardboard](https://vr.google.com/cardboard/)
 - [Google Daydream View](https://vr.google.com/daydream/headset/)
+- [Microsoft Mixed Reality Headsets](https://www.microsoft.com/en-us/store/collections/vrandmixedrealityheadsets)
 
 ### Other hardware:
 - [Leap Motion](https://www.leapmotion.com/) - Use hand and finger motions as input.
@@ -33,12 +34,13 @@
 	3. [http://www.dextarobotics.com/](http://www.dextarobotics.com/)
 	4. [https://www.neurodigital.es/](https://www.neurodigital.es/)
 - Eye Tracking:
-	1. [http://www.vicovr.com/](http://www.vicovr.com/)
-	2. [http://www.smivision.com/en/gaze-and-eye-tracking-systems/home.html](http://www.smivision.com/en/gaze-and-eye-tracking-systems/home.html) - Eyes Tracking
-	3. [http://www.aglass.com/](http://www.aglass.com/)
-	4. Open source eye tracking: [https://pupil-labs.com](https://pupil-labs.com)
+	1. [http://www.smivision.com/en/gaze-and-eye-tracking-systems/home.html](http://www.smivision.com/en/gaze-and-eye-tracking-systems/home.html) - Eyes Tracking
+	2. [http://www.aglass.com/](http://www.aglass.com/)
+	3. Open source eye tracking: [https://pupil-labs.com](https://pupil-labs.com)
 - [http://www.binaryvr.com/](http://www.binaryvr.com/) - Facial Recognition
-- [The world’s first full-body haptic feedback, motion capture, thermo controlled suit.](https://teslasuit.io/)
+- Full body tracking:
+	1. [VicoVR](http://www.vicovr.com/)
+	2. [The world’s first full-body haptic feedback, motion capture, thermo controlled suit.](https://teslasuit.io/)
 - Wireless HMD Kit:	
 	1. [http://intugame.com/quarkvr/](http://intugame.com/quarkvr/)
 	2. [Rivvr: Wireless VR for Oculus Rift and HTC Vive](https://www.rivvr.com/)
@@ -68,6 +70,7 @@
   - [Google VR SDK for Unity](https://developers.google.com/vr/unity/#features) - Build VR applications for Android and iOS.
 - [Unreal Engine](https://www.unrealengine.com) - VR Tutorials: [https://docs.unrealengine.com/latest/INT/Platforms/VR/](https://docs.unrealengine.com/latest/INT/Platforms/VR/)
 - [CryEngine](https://www.cryengine.com) - VR First Tutorials: [https://www.cryengine.com/tutorials/vr-first-webinars](https://www.cryengine.com/tutorials/vr-first-webinars)
+- [Stingray](https://www.autodesk.com/products/stingray/overview)
 
 ### 3D modeling:
 - [Blender](https://www.blender.org/)
@@ -236,6 +239,13 @@ Axey Works: [https://www.assetstore.unity3d.com/en/#!/content/58821](https://www
 List all HRTF sound Engines:
 [http://designingsound.org/2015/04/3d-audio-weighing-the-options/](http://designingsound.org/2015/04/3d-audio-weighing-the-options/)
 
+## VR News websites:
+* [Upload VR](http://uploadvr.com/)
+* [Road To VR](http://roadtovr.com/)
+* [VR Focus](https://www.vrfocus.com)
+* [VR Scout](https://vrscout.com/)
+* [The Ghost Howls](http://skarredghost.com)
+
 ## VR Book:
 * [http://www.thevrbook.net/](http://www.thevrbook.net/)
 * Handbook of Virtual Environments: Design, Implementation, and Applications, Second Edition: [http://www.amazon.it/gp/product/1466511842](http://www.amazon.it/gp/product/1466511842)
@@ -338,3 +348,4 @@ List all HRTF sound Engines:
 * [http://store.steampowered.com/](http://store.steampowered.com/)
 * [https://www.oculus.com/experiences/rift/](https://www.oculus.com/experiences/rift/)
 * [https://www.viveport.com/](https://www.viveport.com/)
+* [WEARVR](https://www.wearvr.com/)
