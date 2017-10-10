@@ -13,7 +13,7 @@
 - [Pimax 8K](https://www.pimaxvr.com/8k/?lang=en)
 - [Google Cardboard](https://vr.google.com/cardboard/)
 - [Google Daydream View](https://vr.google.com/daydream/headset/)
-- [Microsoft Mixed Reality Headsets](https://www.microsoft.com/en-us/store/collections/vrandmixedrealityheadsets)
+- [Microsoft Mixed Reality Headsets](https://www.microsoft.com/en-us/store/collections/vrandmixedrealityheadsets) - [Mixed Reality Toolkit](https://github.com/Microsoft/MixedRealityToolkit)
 
 ### Other hardware:
 - [Leap Motion](https://www.leapmotion.com/) - Use hand and finger motions as input.
@@ -86,9 +86,10 @@
 - [Sense of Presence in Social VR Experience](http://www.interactivearchitecture.org/sense-of-presence-in-social-vr-experience.html) - [Mirror 1](https://archive.is/KUcIh) - [Mirror 2](https://web.archive.org/web/20170223094600/http://www.interactivearchitecture.org/sense-of-presence-in-social-vr-experience.html)
 - [Networked-Aframe](http://haydenlee.io/networked-aframe/)
 
-### Tours:
+### Tours and Other Frameworks:
 - [LiveTourLab](https://github.com/livetourlab/live-tour-lab) - Framework for creating VR Tours.
 - [A simple framework for creating VR with Lua](http://lovr.org/)
+- [React VR](https://github.com/facebook/react-vr) - Facebook VR Project
 - Calcflow: [https://github.com/matryx/calcflow](https://github.com/matryx/calcflow)
 
 ## UI/UX:
@@ -245,6 +246,7 @@ List all HRTF sound Engines:
 * [VR Focus](https://www.vrfocus.com)
 * [VR Scout](https://vrscout.com/)
 * [The Ghost Howls](http://skarredghost.com)
+* [Liv Erickson](https://livierickson.com/) - [Personal GitHub Project LearnVR](https://github.com/misslivirose/learnvr)
 
 ## VR Book:
 * [http://www.thevrbook.net/](http://www.thevrbook.net/)
@@ -254,6 +256,7 @@ List all HRTF sound Engines:
   2. Github Source Code: [https://github.com/OculusRiftInAction/OculusRiftInAction](https://github.com/OculusRiftInAction/OculusRiftInAction)
   3. OculusRiftInAction Blog's Authors: [http://rifty-business.blogspot.it/](http://rifty-business.blogspot.it/)
 * [Unity Virtual Reality Projects](https://www.amazon.it/Virtual-Reality-Projects-Jonathan-Linowes/dp/178398855X)
+* [Virtual Reality: Create games from scratch](https://www.amazon.com/Virtual-Reality-Create-games-scratch-ebook/dp/B072TP1X1G/ref=sr_1_sc_1?ie=UTF8&qid=1507628436&sr=8-1-spell&keywords=Virtual+REalitygame+from+scrathc) - [HomeSite Project Source](http://projectlifehacks.wajdibr.com/)
 * [Building Virtual Reality with Unity and Steam VR](https://www.crcpress.com/Building-Virtual-Reality-with-Unity-and-Steam-VR/Murray/p/book/9781138033511)
 * [Learning Virtual Reality: Developing Immersive Experiences and Applications for Desktop, Web, and Mobile](https://www.amazon.com/Learning-Virtual-Reality-Experiences-Applications/dp/1491922834/)
 * [Entering Metaverse](https://www.amazon.it/Entering-Metaverse-Joining-Virtual-Industry-ebook/dp/B01LLHGAX6/ref=sr_1_1?ie=UTF8&qid=1476435500)
