@@ -41,13 +41,13 @@
 - Full body tracking:
 	1. [VicoVR](http://www.vicovr.com/)
 	2. [The world’s first full-body haptic feedback, motion capture, thermo controlled suit.](https://teslasuit.io/)
-- Wireless HMD Kit:	
+- Wireless HMD Kit:
 	1. [http://intugame.com/quarkvr/](http://intugame.com/quarkvr/)
 	2. [Rivvr: Wireless VR for Oculus Rift and HTC Vive](https://www.rivvr.com/)
 	3. [Immersive Robotic: Wireless Virtual Reality](http://www.immersiverobotics.com/our-technology/)
 	4. [http://kwikvr.com/](http://kwikvr.com/)
 	5. [https://www.vive.com/cn/accessory/tpcast/](https://www.vive.com/cn/accessory/tpcast/)
-	6. [https://www.tpcast.cn/h_en/htcvive.html?p1=1&p2=1](https://www.tpcast.cn/h_en/htcvive.html?p1=1&p2=1)	
+	6. [https://www.tpcast.cn/h_en/htcvive.html?p1=1&p2=1](https://www.tpcast.cn/h_en/htcvive.html?p1=1&p2=1)
 	7. [DisplayLink Ultra-Low Latency Wireless VR](http://www.displaylink.com/vr)
 
 ### Accessories
@@ -58,7 +58,7 @@
 * [ImmotionRoom: your full body in Virtual Reality](http://www.immotionar.com/en/)
 * [SteamVR Developer Hardware](http://steamcommunity.com/app/358720/discussions/)
 * [How to revive your non-working vive! (tips and tricks)](https://www.reddit.com/r/Vive/comments/4eu3uh/how_to_revive_your_nonworking_vive_tips_and_tricks/)
-* [Update Vive firmware](https://www.youtube.com/watch?v=_b3GjUdPzCA) 
+* [Update Vive firmware](https://www.youtube.com/watch?v=_b3GjUdPzCA)
 * [HTCVive Bracket for Welding headgear mod](http://www.thingiverse.com/thing:1620362)
 * [VR Frames – Glasses for Virtual Reality Headsets](https://vr-lens-lab.com/product/vr-frames-virtual-reality-glasses/)
 * [HTC Vive Disposable Hygiene Cover Starter Kit](https://vrcover.com/product/htc-vive-disposable-hygiene-cover/)
@@ -132,7 +132,7 @@
 * Mirror in VR for SteamVR:
 	1. [https://www.assetstore.unity3d.com/en/#!/content/71255](https://www.assetstore.unity3d.com/en/#!/content/71255)
 	2. [https://github.com/AADProductions/VR-Mirrors](ttps://github.com/AADProductions/VR-Mirrors)
-* [Unity EditorVR](https://github.com/Unity-Technologies/EditorVR): 
+* [Unity EditorVR](https://github.com/Unity-Technologies/EditorVR):
 	1. [EDITORVR EXPERIMENTAL BUILD BLOG Unity](https://blogs.unity3d.com/2016/12/15/editorvr-experimental-build-available-today/)
 	2. [Unity5 EditorVR hello world tutorial video (from scratch) featuring Oculus ](https://www.youtube.com/watch?v=U0gBRIY3TpE&t=210s)
 	3. [HOW TO SET UP UNITY'S VR EDITOR (EditorVR) !](https://www.youtube.com/watch?v=vAxPoVmhvaw)
@@ -154,6 +154,14 @@ Axey Works: [https://www.assetstore.unity3d.com/en/#!/content/58821](https://www
 * Assets LowPoly Free: [http://simplecreations.info/](http://simplecreations.info/)
 * Royalty free music: [http://soundimage.org/](http://soundimage.org/)
 * Texture Ninja :[https://texture.ninja/](https://texture.ninja/)
+* Mixed Light Mode Cheat Sheet :[https://docs.google.com/document/d/1U5osiyz5gnuii-yApTAHYgcvpU_lz4gVBrMMtzmNcCg/edit](https://docs.google.com/document/d/1U5osiyz5gnuii-yApTAHYgcvpU_lz4gVBrMMtzmNcCg/edit)
+#### Shaders
+* Low Poly Shader: [https://github.com/pavelkouril/unity-lowpoly-shader](https://github.com/pavelkouril/unity-lowpoly-shader)
+* Shader Forge Tutorial Blog: [http://blog.nordeus.com/art/50-shaders-of-forge-prototyping-with-shader-forge.htm](http://blog.nordeus.com/art/50-shaders-of-forge-prototyping-with-shader-forge.htm)
+* Shader discussion: [https://www.reddit.com/r/gamedev/comments/1nxcxs/how_do_i_approach_learning_to_write_shaders/](https://www.reddit.com/r/gamedev/comments/1nxcxs/how_do_i_approach_learning_to_write_shaders/)
+* Free shaders:[http://shaderslab.com/demo-82---extrude-faces.html](http://shaderslab.com/demo-82---extrude-faces.html)
+* Shapeshifting Object VFX in Unity:[https://80.lv/articles/shapeshifting-object-vfx-in-unity/](https://80.lv/articles/shapeshifting-object-vfx-in-unity/)
+* Water Ripple shader tutorial:[http://peerplay.nl/ripple-water-shader/](http://peerplay.nl/ripple-water-shader/)
 
 ### UnrealEngine VR:
 
@@ -341,7 +349,7 @@ List all HRTF sound Engines:
 * [Performant Mumble Client For Unity3D](https://github.com/BananaHemic/Mumble-Unity) - Warning seee note here: https://github.com/BananaHemic/Mumble-Unity/issues/6
 * SpatialOS Improbable.io: [https://spatialos.improbable.io/](https://spatialos.improbable.io/)
 	* [https://spatialos.improbable.io/games/sofa-so-good-the-spatialos-vr-starter-project-is-now-live](https://spatialos.improbable.io/games/sofa-so-good-the-spatialos-vr-starter-project-is-now-live)
-	* [https://github.com/rjfwhite/VRSpatialMadness](https://github.com/rjfwhite/VRSpatialMadness)	
+	* [https://github.com/rjfwhite/VRSpatialMadness](https://github.com/rjfwhite/VRSpatialMadness)
 
 ## Indie/Game/VR Market:
 
