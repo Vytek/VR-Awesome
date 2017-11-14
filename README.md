@@ -92,7 +92,6 @@
 - [A simple framework for creating VR with Lua](http://lovr.org/)
 - [React VR](https://github.com/facebook/react-vr) - Facebook VR Project
 - [VBjin-OVR - A Virtual Boy Emulator for the Oculus Rift](https://github.com/braindx/vbjin-ovr)
-- 
 - Calcflow: [https://github.com/matryx/calcflow](https://github.com/matryx/calcflow)
 
 ## UI/UX:
@@ -249,7 +248,7 @@ Axey Works: [https://www.assetstore.unity3d.com/en/#!/content/58821](https://www
 * [http://rorywalsh.github.io/CsoundUnity/](http://rorywalsh.github.io/CsoundUnity/)
 * [http://realspace3daudio.com/unityplugindownloads/](http://realspace3daudio.com/unityplugindownloads/)
 * [Free Valve Steam Audio](https://github.com/ValveSoftware/steam-audio) - [Support](http://steamcommunity.com/app/596420/discussions/0/133258092237744096/)
-* [Google Resonance Audio](https://github.com/resonance-audio) - 
+* [Google Resonance Audio](https://github.com/resonance-audio) - [https://developers.google.com/resonance-audio/develop/overview]()
 
 List all HRTF sound Engines:
 [http://designingsound.org/2015/04/3d-audio-weighing-the-options/](http://designingsound.org/2015/04/3d-audio-weighing-the-options/)
