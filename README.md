@@ -70,6 +70,7 @@
   - [Google VR SDK for Unity](https://developers.google.com/vr/unity/#features) - Build VR applications for Android and iOS.
 - [Unreal Engine](https://www.unrealengine.com) - VR Tutorials: [https://docs.unrealengine.com/latest/INT/Platforms/VR/](https://docs.unrealengine.com/latest/INT/Platforms/VR/)
 - [CryEngine](https://www.cryengine.com) - VR First Tutorials: [https://www.cryengine.com/tutorials/vr-first-webinars](https://www.cryengine.com/tutorials/vr-first-webinars)
+- [Godot Engine](https://godotengine.org/article/godot-3-vr-and-ar-support) - [https://www.youtube.com/watch?v=v291rMWCMRw](https://www.youtube.com/watch?v=v291rMWCMRw)
 - [Stingray](https://www.autodesk.com/products/stingray/overview)
 
 ### 3D modeling:
@@ -90,6 +91,8 @@
 - [LiveTourLab](https://github.com/livetourlab/live-tour-lab) - Framework for creating VR Tours.
 - [A simple framework for creating VR with Lua](http://lovr.org/)
 - [React VR](https://github.com/facebook/react-vr) - Facebook VR Project
+- [VBjin-OVR - A Virtual Boy Emulator for the Oculus Rift](https://github.com/braindx/vbjin-ovr)
+- 
 - Calcflow: [https://github.com/matryx/calcflow](https://github.com/matryx/calcflow)
 
 ## UI/UX:
@@ -143,6 +146,7 @@
 * Unity Post Processing source: [https://github.com/Unity-Technologies/PostProcessing/wiki](https://github.com/Unity-Technologies/PostProcessing/wiki)
 * A plugin to select deafult Microphone in Unity: [https://github.com/GabeBigBoxVR/UnityDefaultMicrophone](https://github.com/GabeBigBoxVR/UnityDefaultMicrophone)
 * List of Best Unity Assets for VR Devs: [Compiled by https://www.reddit.com/user/Legorobotdude](https://www.assetstore.unity3d.com/en/#!/list/2214-vr)
+* [Vapor is a Volumetric Fog system for Unity to add atmospheric lighting to any scene, optimized for VR](https://github.com/ArthurBrussee/Vapor)
 
 ### Unity Assets for VR:
 * [Yobi3D - Free 3D model search engine](https://www.yobi3d.com/)
@@ -173,6 +177,7 @@ Axey Works: [https://www.assetstore.unity3d.com/en/#!/content/58821](https://www
 * Similar VRTK for Unreal: [https://bitbucket.org/mordentral/vrexpansionplugin](https://bitbucket.org/mordentral/vrexpansionplugin)
 * Virtual Reality Pawn and Components Plugin v2.2: [https://www.unrealengine.com/marketplace/vr-pawn-components-plugin](https://www.unrealengine.com/marketplace/vr-pawn-components-plugin)
 * [Creating a VR Zombie Game With UE4 Blueprints](https://www.youtube.com/watch?v=ebV1UGkxkl4&list=PLrfSN3w5WCJWPv4B25PC2TYpb6myvZ6UY)
+* [UVRF - Handpresence temple for Rift / Vive (+ free shooting range)](https://forums.unrealengine.com/development-discussion/vr-ar-development/1381972-uvrf-handpresence-temple-for-rift-vive-free-shooting-range)
 
 ## VR Dev School, VR Course, Tutorials, VR Blogs:
 
@@ -244,6 +249,7 @@ Axey Works: [https://www.assetstore.unity3d.com/en/#!/content/58821](https://www
 * [http://rorywalsh.github.io/CsoundUnity/](http://rorywalsh.github.io/CsoundUnity/)
 * [http://realspace3daudio.com/unityplugindownloads/](http://realspace3daudio.com/unityplugindownloads/)
 * [Free Valve Steam Audio](https://github.com/ValveSoftware/steam-audio) - [Support](http://steamcommunity.com/app/596420/discussions/0/133258092237744096/)
+* [Google Resonance Audio](https://github.com/resonance-audio) - 
 
 List all HRTF sound Engines:
 [http://designingsound.org/2015/04/3d-audio-weighing-the-options/](http://designingsound.org/2015/04/3d-audio-weighing-the-options/)
@@ -274,7 +280,6 @@ List all HRTF sound Engines:
 	1. [http://vr.cs.uiuc.edu/](http://vr.cs.uiuc.edu/)
 	2. [http://nptel.ac.in/syllabus/106106138/](http://nptel.ac.in/syllabus/106106138/)
 	3. [Youtube Videos Playlist](https://www.youtube.com/watch?v=aNC5YMUTcQ4&list=PLbMVogVj5nJSyt80VRXYC-YrAvQuUb6dh)
-
 * EE 267: Virtual Reality:
 	1. [Stanford Course EE 267](http://stanford.edu/class/ee267/)
 	2. [SIGGRAPH 2017 Build Your Own VR Display](https://www.youtube.com/watch?v=HhGubP8stHk)
@@ -288,6 +293,7 @@ List all HRTF sound Engines:
 * VR Prototipes: [http://grayboxvr.com/](http://grayboxvr.com/)
 * OpenVR Advanced Settings Overlay: [https://github.com/matzman666/OpenVR-AdvancedSettings] (https://github.com/matzman666/OpenVR-AdvancedSettings) - [Supersample HTC Vive using OpenVR AdvancedSettings](http://www.roadtovr.com/supersample-htc-vive-oculus-rift-steamvr-openvr-advanced-settings-sharpen/)
 * [New Viveport Scene SDK Hints at the Future of VR Content Browsing](https://blog.vive.com/us/2017/09/28/early-release-viveport-scene-sdk/)
+* [An OpenVR driver that allows to create virtual controllers, emulate controller input, manipulate poses of existing controllers and remap buttons. ](https://github.com/matzman666/OpenVR-InputEmulator)
 * ChaperoneTweak: An in-VR chaperone editor: [https://github.com/Xavr0k/ChaperoneTweak](https://github.com/Xavr0k/ChaperoneTweak)
 * Oculus TrayTool - SuperSampling profiles, HMD disconnect fixes [https://forums.oculus.com/community/discussion/47247/oculus-traytool-supersampling-profiles-hmd-disconnect-fixes-hopefully](https://forums.oculus.com/community/discussion/47247/oculus-traytool-supersampling-profiles-hmd-disconnect-fixes-hopefully)
 * SteamVR Home Loader: [https://github.com/CogentHub/HomeLoader](https://github.com/CogentHub/HomeLoader)
