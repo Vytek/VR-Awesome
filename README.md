@@ -131,6 +131,7 @@
 	3. [Cutie Keys](https://github.com/NormalVR/CutieKeys)
 * VR Camera for HTC Vive: [VR Camera](https://www.assetstore.unity3d.com/en/#!/content/79203)
 * Unity POC for click-drag interactivity in Vive: [https://github.com/Albert/clicky-draggy](https://github.com/Albert/clicky-draggy)
+* A simple notification system to display plain text in VR for Unity engine: [https://github.com/diglungdig/Simple_Note_VR](https://github.com/diglungdig/Simple_Note_VR)
 * Mirror in VR for SteamVR:
 	1. [https://www.assetstore.unity3d.com/en/#!/content/71255](https://www.assetstore.unity3d.com/en/#!/content/71255)
 	2. [https://github.com/AADProductions/VR-Mirrors](ttps://github.com/AADProductions/VR-Mirrors)
@@ -145,10 +146,11 @@
 * Unity Post Processing source: [https://github.com/Unity-Technologies/PostProcessing/wiki](https://github.com/Unity-Technologies/PostProcessing/wiki)
 * A plugin to select deafult Microphone in Unity: [https://github.com/GabeBigBoxVR/UnityDefaultMicrophone](https://github.com/GabeBigBoxVR/UnityDefaultMicrophone)
 * List of Best Unity Assets for VR Devs: [Compiled by https://www.reddit.com/user/Legorobotdude](https://www.assetstore.unity3d.com/en/#!/list/2214-vr)
-* [Vapor is a Volumetric Fog system for Unity to add atmospheric lighting to any scene, optimized for VR](https://github.com/ArthurBrussee/Vapor)
 
 ### Unity Assets for VR:
+* [Google Poly API](https://developers.google.com/poly/)
 * [Yobi3D - Free 3D model search engine](https://www.yobi3d.com/)
+* [Free3D - Free 3D model search engine](https://free3d.com/)
 * Free low poly 3D nature assets (trees, plants, rocks and more!): [https://www.reddit.com/r/gamedev/comments/349kpt/free_low_poly_3d_nature_assets_trees_plants_rocks/](https://www.reddit.com/r/gamedev/comments/349kpt/free_low_poly_3d_nature_assets_trees_plants_rocks/)
 * Low Poly: Free Pack 3D Models/Environments
 Axey Works: [https://www.assetstore.unity3d.com/en/#!/content/58821](https://www.assetstore.unity3d.com/en/#!/content/58821)
@@ -157,7 +159,8 @@ Axey Works: [https://www.assetstore.unity3d.com/en/#!/content/58821](https://www
 * Assets LowPoly Free: [http://simplecreations.info/](http://simplecreations.info/)
 * Royalty free music: [http://soundimage.org/](http://soundimage.org/)
 * Texture Ninja :[https://texture.ninja/](https://texture.ninja/)
-* Mixed Light Mode Cheat Sheet :[https://docs.google.com/document/d/1U5osiyz5gnuii-yApTAHYgcvpU_lz4gVBrMMtzmNcCg/edit](https://docs.google.com/document/d/1U5osiyz5gnuii-yApTAHYgcvpU_lz4gVBrMMtzmNcCg/edit)
+* Mixed Light Mode Cheat Sheet: [https://docs.google.com/document/d/1U5osiyz5gnuii-yApTAHYgcvpU_lz4gVBrMMtzmNcCg/edit](https://docs.google.com/document/d/1U5osiyz5gnuii-yApTAHYgcvpU_lz4gVBrMMtzmNcCg/edit)
+
 #### Shaders
 * Low Poly Shader: [https://github.com/pavelkouril/unity-lowpoly-shader](https://github.com/pavelkouril/unity-lowpoly-shader)
 * Shader Forge Tutorial Blog: [http://blog.nordeus.com/art/50-shaders-of-forge-prototyping-with-shader-forge.htm](http://blog.nordeus.com/art/50-shaders-of-forge-prototyping-with-shader-forge.htm)
@@ -165,6 +168,8 @@ Axey Works: [https://www.assetstore.unity3d.com/en/#!/content/58821](https://www
 * Free shaders:[http://shaderslab.com/demo-82---extrude-faces.html](http://shaderslab.com/demo-82---extrude-faces.html)
 * Shapeshifting Object VFX in Unity:[https://80.lv/articles/shapeshifting-object-vfx-in-unity/](https://80.lv/articles/shapeshifting-object-vfx-in-unity/)
 * Water Ripple shader tutorial:[http://peerplay.nl/ripple-water-shader/](http://peerplay.nl/ripple-water-shader/)
+* Volumetric Fog for Unity (Optimized for Single Pass VR (<1ms on a 980 TI on a vive): [Vapor](https://github.com/ArthurBrussee/Vapor)
+* Modified Standard Unity Water for VR: [WaterVRTest](https://github.com/Vytek/WaterVRTest)
 
 ### UnrealEngine VR:
 
