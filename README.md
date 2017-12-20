@@ -170,6 +170,7 @@ Axey Works: [https://www.assetstore.unity3d.com/en/#!/content/58821](https://www
 * Water Ripple shader tutorial:[http://peerplay.nl/ripple-water-shader/](http://peerplay.nl/ripple-water-shader/)
 * Volumetric Fog for Unity (Optimized for Single Pass VR (<1ms on a 980 TI on a vive): [Vapor](https://github.com/ArthurBrussee/Vapor)
 * Modified Standard Unity Water for VR: [WaterVRTest](https://github.com/Vytek/WaterVRTest)
+* XRAntiAliasing: [https://github.com/demonixis/XRAntiAliasing](https://github.com/demonixis/XRAntiAliasing "FXAA and SMAA from Unity's Cinematic Effects converted to work with Single Pass Stereo Rendering")
 
 ### UnrealEngine VR:
 
@@ -273,6 +274,7 @@ List all HRTF sound Engines:
   1. Editor Manning Main site: [https://www.manning.com/books/oculus-rift-in-action](https://www.manning.com/books/oculus-rift-in-action)
   2. Github Source Code: [https://github.com/OculusRiftInAction/OculusRiftInAction](https://github.com/OculusRiftInAction/OculusRiftInAction)
   3. OculusRiftInAction Blog's Authors: [http://rifty-business.blogspot.it/](http://rifty-business.blogspot.it/)
+* Mastering Oculus Rift Development: [https://www.packtpub.com/game-development/mastering-oculus-rift-development](https://www.packtpub.com/game-development/mastering-oculus-rift-development) - Code Repository: [https://github.com/PacktPublishing/Mastering-Oculus-Rift-Development](https://github.com/PacktPublishing/Mastering-Oculus-Rift-Development)
 * [Unity Virtual Reality Projects](https://www.amazon.it/Virtual-Reality-Projects-Jonathan-Linowes/dp/178398855X)
 * [Virtual Reality: Create games from scratch](https://www.amazon.com/Virtual-Reality-Create-games-scratch-ebook/dp/B072TP1X1G/ref=sr_1_sc_1?ie=UTF8&qid=1507628436&sr=8-1-spell&keywords=Virtual+REalitygame+from+scrathc) - [HomeSite Project Source](http://projectlifehacks.wajdibr.com/)
 * [Building Virtual Reality with Unity and Steam VR](https://www.crcpress.com/Building-Virtual-Reality-with-Unity-and-Steam-VR/Murray/p/book/9781138033511)
