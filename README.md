@@ -70,7 +70,10 @@
   - [Google VR SDK for Unity](https://developers.google.com/vr/unity/#features) - Build VR applications for Android and iOS.
 - [Unreal Engine](https://www.unrealengine.com) - VR Tutorials: [https://docs.unrealengine.com/latest/INT/Platforms/VR/](https://docs.unrealengine.com/latest/INT/Platforms/VR/)
 - [CryEngine](https://www.cryengine.com) - VR First Tutorials: [https://www.cryengine.com/tutorials/vr-first-webinars](https://www.cryengine.com/tutorials/vr-first-webinars)
-- [Godot Engine](https://godotengine.org/article/godot-3-vr-and-ar-support) - [https://www.youtube.com/watch?v=v291rMWCMRw](https://www.youtube.com/watch?v=v291rMWCMRw)
+- [Godot Engine](https://godotengine.org/article/godot-3-vr-and-ar-support) 
+	- [https://www.youtube.com/watch?v=v291rMWCMRw](https://www.youtube.com/watch?v=v291rMWCMRw)
+	- [Introduction into the new Godot OpenVR Asset](https://www.youtube.com/watch?v=267dRjEYliU)
+	- [GDNative based Open VR module](https://github.com/BastiaanOlij/godot_openvr)
 - [Stingray](https://www.autodesk.com/products/stingray/overview)
 
 ### 3D modeling:
@@ -94,6 +97,10 @@
 - [VBjin-OVR - A Virtual Boy Emulator for the Oculus Rift](https://github.com/braindx/vbjin-ovr)
 - Calcflow: [https://github.com/matryx/calcflow](https://github.com/matryx/calcflow)
 
+### PSVR
+- [C library for Morpheus (Playstation VR)](https://github.com/alatnet/libpsvr)
+- [Open Source Open VR driver for the Playstation VR](https://github.com/alatnet/OpenPSVR)
+
 ## UI/UX:
 
 - [UX of VR](http://www.uxofvr.com/) - A list of resources about the UI/UX considerations for VR.
@@ -116,6 +123,7 @@
 	* [Syntonic VRTK Example Github Repo](https://github.com/SyntonicApps/unity-vrtk-examples) - [VRTK Examples & Tutorials](https://www.youtube.com/channel/UC2SDL6DcSlgVBTnEbfksQQQ)
 	* [Mesh Maker VR Github Repository](https://github.com/createthis/mesh_maker_vr)
 * NewtonVR: [https://github.com/TomorrowTodayLabs/NewtonVR] (https://github.com/TomorrowTodayLabs/NewtonVR)
+	* [Weapons Reload Mechanics for VR | Unity3d ( NewtonVR & SteamVR)](https://github.com/Oyshoboy/weaponReloadVR)
 * Facal Point VR: [http://www.albert-hwang.com/focal-point-vr](http://www.albert-hwang.com/focal-point-vr)
 * ArmSwinger is an artificial VR locomotion library developed on Unity 5.4: [https://github.com/ElectricNightOwl/ArmSwinger](https://github.com/ElectricNightOwl/ArmSwinger)
 * VR UI. This project contains the full source code for the Mesh Maker VR UI system. It includes Buttons, Panels, and automatic layout tools like Row and Column containers. It also provides File Open and SaveAs dialogs using a PhysX based kinetic scroller. Factory scripts are provided to quickly build these components from the Editor or from code. The intent is to save time when designing complex VR application UIs: [https://github.com/createthis/createthis_vr_ui](https://github.com/createthis/createthis_vr_ui)
@@ -183,6 +191,7 @@ Axey Works: [https://www.assetstore.unity3d.com/en/#!/content/58821](https://www
 * Virtual Reality Pawn and Components Plugin v2.2: [https://www.unrealengine.com/marketplace/vr-pawn-components-plugin](https://www.unrealengine.com/marketplace/vr-pawn-components-plugin)
 * [Creating a VR Zombie Game With UE4 Blueprints](https://www.youtube.com/watch?v=ebV1UGkxkl4&list=PLrfSN3w5WCJWPv4B25PC2TYpb6myvZ6UY)
 * [UVRF - Handpresence temple for Rift / Vive (+ free shooting range)](https://forums.unrealengine.com/development-discussion/vr-ar-development/1381972-uvrf-handpresence-temple-for-rift-vive-free-shooting-range)
+* [UVRF - Handpresence template for Rift / Vive (+ free shooting range) // Update 1.2 Bow archery range, directional and rotational grabs](https://forums.unrealengine.com/development-discussion/vr-ar-development/1381972-uvrf-handpresence-template-for-rift-vive-free-shooting-range-update-1-2-bow-archery-range-directional-and-rotational-grabs)
 
 ## VR Dev School, VR Course, Tutorials, VR Blogs:
 
