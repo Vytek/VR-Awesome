@@ -298,6 +298,9 @@ List all HRTF sound Engines:
 * EE 267: Virtual Reality:
 	1. [Stanford Course EE 267](http://stanford.edu/class/ee267/)
 	2. [SIGGRAPH 2017 Build Your Own VR Display](https://www.youtube.com/watch?v=HhGubP8stHk)
+* How you can build your own VR headset for $100:
+	1. [How you can build your own VR headset for $100](https://medium.freecodecamp.org/build-your-own-vr-headset-for-100-13d6f2b06385)
+	2. [Build your own VR headset for $100](https://github.com/relativty/Relativ) 	
 
 ## VR Tools and PlugIn:
 
@@ -333,6 +336,7 @@ List all HRTF sound Engines:
 	- [Lighthouse Reverse-Engineered Documentation](https://github.com/nairol/LighthouseRedox)
 	- [https://github.com/cnlohr/libsurvive](https://github.com/cnlohr/libsurvive)
 	- [SteamVR Tracking HDK](https://www.triadsemi.com/product/steamvr-tracking-hdk/)
+	- [FCC filing for Base 2.0 - photos and manual now available](https://www.reddit.com/r/Vive/comments/7uo5kp/fcc_filing_for_base_20_photos_and_manual_now/)
 
 ## List of Immersive Virtual Worlds:
 - [http://www.vrchat.net/](http://www.vrchat.net/)
