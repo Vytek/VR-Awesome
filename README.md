@@ -151,6 +151,7 @@
 * VR Movement System for HTC Vive: [https://www.assetstore.unity3d.com/en/#!/content/47329](https://www.assetstore.unity3d.com/en/#!/content/47329)
 * VR Movement System for Oculus Touch: [https://www.assetstore.unity3d.com/en/#!/content/47292](https://www.assetstore.unity3d.com/en/#!/content/47292)
 * Flight Navigation for HTC Vive controller: [https://www.assetstore.unity3d.com/en/#!/content/61830](https://www.assetstore.unity3d.com/en/#!/content/61830)
+* A quickstart beginner-targeted VR toolkit for Unity, based on Unity's built-in generic VR capabilities. It's either this or you start using a dozen different SDKs if you're doing multiplatform VR, basically. This Unity VR template will be helpful for you, no doubt about it [https://github.com/AlexHolderDeveloper/BigfootXR](https://github.com/AlexHolderDeveloper/BigfootXR)
 * Unity Post Processing source: [https://github.com/Unity-Technologies/PostProcessing/wiki](https://github.com/Unity-Technologies/PostProcessing/wiki)
 * A plugin to select deafult Microphone in Unity: [https://github.com/GabeBigBoxVR/UnityDefaultMicrophone](https://github.com/GabeBigBoxVR/UnityDefaultMicrophone)
 * List of Best Unity Assets for VR Devs: [Compiled by https://www.reddit.com/user/Legorobotdude](https://www.assetstore.unity3d.com/en/#!/list/2214-vr)
@@ -218,6 +219,8 @@ Axey Works: [https://www.assetstore.unity3d.com/en/#!/content/58821](https://www
 * Get Started Making Virtual Reality Games in Unity 5 for Free: [http://www.makeuseof.com/tag/get-started-making-virtual-reality-games-unity-5-free/](http://www.makeuseof.com/tag/get-started-making-virtual-reality-games-unity-5-free/ "Link to website")
 * Create a 1:1 replica of your VR workspace in under an hour with Unity: [https://medium.com/yvr/create-a-1-1-replica-of-your-vr-workspace-in-under-an-hour-with-unity-71399bdb50a9#.fpm4b223g](https://medium.com/yvr/create-a-1-1-replica-of-your-vr-workspace-in-under-an-hour-with-unity-71399bdb50a9#.fpm4b223g)
 * Very Interesting Blog for Unity VR Beginner developer: [https://livierickson.com/blog/](https://livierickson.com/blog/)
+* [VR Unity Beginner Tutorial - Hand Models And Animations](https://www.youtube.com/watch?v=qX8kabgz3wo
+) - [GITHUB Repo](https://github.com/ololralph/vrsandboxgame)
 * Stater Tutorial for Unity VR Vive Developer: [https://www.youtube.com/watch?v=ewqRU9y0i4I](https://www.youtube.com/watch?v=ewqRU9y0i4I)
 * NormalVR (New VR Blog): [http://www.normalvr.com/blog/throwing-throw-down/](http://www.normalvr.com/blog/throwing-throw-down/) - [Mirror on Medium](https://medium.com/@normalvr/throwing-throw-down-82db3a658d4c#.pmfdwxc5x)
 * [HOW TO CREATE A MINIMAP FOR VR IN UNITY](https://somedudes.ch/2017/02/21/how-to-create-a-minimap-for-vr-in-unity/) - [Mirror](https://archive.is/Sy5NG)
@@ -232,6 +235,7 @@ Axey Works: [https://www.assetstore.unity3d.com/en/#!/content/58821](https://www
 * [Getting started with SteamVR Controller Input](http://unity3d.college/2016/11/16/steamvr-controller-input/) - [Mirror](https://archive.is/iY9A0) - [Miror 2](https://web.archive.org/web/20170127090506/http://unity3d.college/2016/11/16/steamvr-controller-input/)
 * [Getting Started with SteamVR and Unity 5.4 Updated](http://unity3d.college/2016/04/29/getting-started-steamvr/) - [Mirror](https://archive.is/1oocQ)
 * [Using the Valves – Lab Renderer for VR](http://unity3d.college/2016/08/02/using-valves-lab-renderer-vr/) - [Mirror](https://archive.is/3IUmo) - [Mirror 2](https://web.archive.org/web/20161108223721/http://unity3d.college/2016/08/02/using-valves-lab-renderer-vr/)
+* [Introduction to OpenVR 101 Series: What is OpenVR and how to get started with its APIs](https://skarredghost.com/2018/03/15/introduction-to-openvr-101-series-what-is-openvr-and-how-to-get-started-with-its-apis/) - [Mirror1](https://archive.li/qSu3O) - [Mirror 2]() - [Simple OpenVR tracking example using the HTC Vive as part of the OpenVR tutorials on The Ghost Howls Virtual Reality blog: https://skarredghost.com/](https://web.archive.org/web/20180327084816/https://skarredghost.com/2018/03/15/introduction-to-openvr-101-series-what-is-openvr-and-how-to-get-started-with-its-apis/)
 * [Scripts that may be useful to other developers](https://github.com/Topazoo/HTC-Vive-Unity)
 * [Vive Test Project](https://github.com/CyrilPaulus/ViveTest)
 * [Unity 3D Steam VR Video Tutorial Series](https://www.youtube.com/channel/UCV82jCz4CnkXtIoSWqM0-5Q)
@@ -291,6 +295,7 @@ List all HRTF sound Engines:
 * [Entering Metaverse](https://www.amazon.it/Entering-Metaverse-Joining-Virtual-Industry-ebook/dp/B01LLHGAX6/ref=sr_1_1?ie=UTF8&qid=1476435500)
 * [COMP 4010 - Lecture1 Introduction to Virtual Reality](https://www.slideshare.net/marknb00/comp-4010-lecture1-introduction-to-virtual-reality)
 * [The Science of Locomotion in VR](https://medium.com/usable-or-not/the-science-of-locomotion-in-vr-e2314be3f1ca)
+* [GDC 2018 - OpenXR](https://www.youtube.com/watch?v=U-CpA5d9MjI) - [2018 GDC: Slides, Videos, etc...](https://www.khronos.org/developers/library/2018-gdc)
 * VR Book from Prof. LaValle and MOOC VR Course:
 	1. [http://vr.cs.uiuc.edu/](http://vr.cs.uiuc.edu/)
 	2. [http://nptel.ac.in/syllabus/106106138/](http://nptel.ac.in/syllabus/106106138/)
@@ -300,7 +305,7 @@ List all HRTF sound Engines:
 	2. [SIGGRAPH 2017 Build Your Own VR Display](https://www.youtube.com/watch?v=HhGubP8stHk)
 * How you can build your own VR headset for $100:
 	1. [How you can build your own VR headset for $100](https://medium.freecodecamp.org/build-your-own-vr-headset-for-100-13d6f2b06385)
-	2. [Build your own VR headset for $100](https://github.com/relativty/Relativ) 	
+	2. [Build your own VR headset for $100](https://github.com/relativty/Relativ)
 
 ## VR Tools and PlugIn:
 
@@ -337,6 +342,7 @@ List all HRTF sound Engines:
 	- [https://github.com/cnlohr/libsurvive](https://github.com/cnlohr/libsurvive)
 	- [SteamVR Tracking HDK](https://www.triadsemi.com/product/steamvr-tracking-hdk/)
 	- [FCC filing for Base 2.0 - photos and manual now available](https://www.reddit.com/r/Vive/comments/7uo5kp/fcc_filing_for_base_20_photos_and_manual_now/)
+	- [Opensource library for vive controller tracking](https://www.reddit.com/r/Vive/comments/83xvfv/opensource_library_for_vive_controller_tracking/)
 
 ## List of Immersive Virtual Worlds:
 - [http://www.vrchat.net/](http://www.vrchat.net/)
@@ -372,9 +378,13 @@ List all HRTF sound Engines:
 * [Unity Mecanim VR IK vs Final IK](https://www.youtube.com/watch?v=7y9GAVpCW_c) - [VR IK using native Unity Mecanim IK](https://github.com/createthis/unity_vr_ik_mecanim)
 * [Free, open-source TTS engine for .NET](https://github.com/TheBerkin/Sagen)
 * [Performant Mumble Client For Unity3D](https://github.com/BananaHemic/Mumble-Unity) - Warning seee note here: https://github.com/BananaHemic/Mumble-Unity/issues/6
+* [Networked Physics in Virtual Reality: Networking a stack of cubes with Unity and PhysX
+](https://developer.oculus.com/blog/networked-physics-in-virtual-reality-networking-a-stack-of-cubes-with-unity-and-physx/) - [Mirror 1](https://archive.li/jDCgq) - [Mirror 2](https://web.archive.org/web/20180327092206/https://developer.oculus.com/blog/networked-physics-in-virtual-reality-networking-a-stack-of-cubes-with-unity-and-physx/) - [Main Repo](https://github.com/fbsamples/oculus-networked-physics-sample) - [Example Test Repo](https://github.com/aaronvark/VRPhysicsGame)
 * SpatialOS Improbable.io: [https://spatialos.improbable.io/](https://spatialos.improbable.io/)
 	* [https://spatialos.improbable.io/games/sofa-so-good-the-spatialos-vr-starter-project-is-now-live](https://spatialos.improbable.io/games/sofa-so-good-the-spatialos-vr-starter-project-is-now-live)
+	* [Virtual Reality starter project](https://github.com/spatialos/VRStarterProject)
 	* [https://github.com/rjfwhite/VRSpatialMadness](https://github.com/rjfwhite/VRSpatialMadness)
+	* [QuantumScaleVR: Unity Assets for SpatialOS](https://assetstore.unity.com/packages/tools/integration/quantumscalevr-110326)
 
 ## Indie/Game/VR Market:
 
