@@ -7,6 +7,7 @@
 
 - [Oculus Rift](https://www.oculus.com/en-us/rift/)
 - [HTC Vive](http://www.htcvr.com/)
+- [HTC Vive Pro](https://www.vive.com/us/product/vive-pro/)
 - [Razer OSVR](http://www.osvr.org/)
 - [FOVE](http://www.getfove.com/)
 - [StarVR](http://www.starvr.com/)
@@ -34,9 +35,8 @@
 	3. [http://www.dextarobotics.com/](http://www.dextarobotics.com/)
 	4. [https://www.neurodigital.es/](https://www.neurodigital.es/)
 - Eye Tracking:
-	1. [http://www.smivision.com/en/gaze-and-eye-tracking-systems/home.html](http://www.smivision.com/en/gaze-and-eye-tracking-systems/home.html) - Eyes Tracking
-	2. [http://www.aglass.com/](http://www.aglass.com/)
-	3. Open source eye tracking: [https://pupil-labs.com](https://pupil-labs.com)
+	1. [http://www.aglass.com/](http://www.aglass.com/)
+	2. Open source eye tracking: [https://pupil-labs.com](https://pupil-labs.com)
 - [http://www.binaryvr.com/](http://www.binaryvr.com/) - Facial Recognition
 - Full body tracking:
 	1. [VicoVR](http://www.vicovr.com/)
