@@ -101,6 +101,12 @@
 - [C library for Morpheus (Playstation VR)](https://github.com/alatnet/libpsvr)
 - [Open Source Open VR driver for the Playstation VR](https://github.com/alatnet/OpenPSVR)
 
+### Open Source
+- [ApertusVR](http://apertusvr.org/) - Open Source, free, embeddable, multi-platform AR/VR/MR engine.
+	- [GitHub](https://github.com/MTASZTAKI/ApertusVR)
+	- [Forum](http://forum.apertusvr.org/)
+	- [Blog](http://blog.apertusvr.org/)
+
 ## UI/UX:
 
 - [UX of VR](http://www.uxofvr.com/) - A list of resources about the UI/UX considerations for VR.
@@ -278,6 +284,17 @@ List all HRTF sound Engines:
 * [VR Focus](https://www.vrfocus.com)
 * [VR Scout](https://vrscout.com/)
 * [The Ghost Howls](http://skarredghost.com)
+* [Virtual Reality Reporter](https://virtualrealityreporter.com/)
+* [VR360](https://www.virtualreality-news.net/)
+* [Mashable - VR](https://mashable.com/category/virtual-reality/)
+* [The Verge - VR](https://www.theverge.com/vr-virtual-reality)
+* [The Guardin - VR](https://www.theguardian.com/technology/virtual-reality)
+* [Gizmodo - VR](https://gizmodo.com/tag/virtual-reality)
+* [Telegraph - VR](https://www.telegraph.co.uk/virtual-reality/)
+* [ScienceDaily - VR](https://www.sciencedaily.com/news/computers_math/virtual_reality/)
+* [BBC - VR](https://www.bbc.com/news/topics/cywd23g0wzwt/virtual-reality)
+* [Entrepreneur - VR](https://www.entrepreneur.com/topic/virtual-reality)
+* [Wired - VR](https://www.wired.co.uk/topic/virtual-reality)
 * [Liv Erickson](https://livierickson.com/) - [Personal GitHub Project LearnVR](https://github.com/misslivirose/learnvr)
 
 ## VR Book:
