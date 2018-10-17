@@ -76,6 +76,10 @@
 	- [GDNative based Open VR module](https://github.com/BastiaanOlij/godot_openvr)
 - [Stingray](https://www.autodesk.com/products/stingray/overview)
 - [LÖVR](https://lovr.org)
+- [ApertusVR](http://apertusvr.org/) - Open Source, free, embeddable, multi-platform AR/VR/MR engine.
+	- [GitHub](https://github.com/MTASZTAKI/ApertusVR)
+	- [Forum](http://forum.apertusvr.org/)
+	- [Blog](http://blog.apertusvr.org/)
 
 ### 3D modeling:
 - [Blender](https://www.blender.org/)
@@ -101,12 +105,6 @@
 ### PSVR
 - [C library for Morpheus (Playstation VR)](https://github.com/alatnet/libpsvr)
 - [Open Source Open VR driver for the Playstation VR](https://github.com/alatnet/OpenPSVR)
-
-### Open Source
-- [ApertusVR](http://apertusvr.org/) - Open Source, free, embeddable, multi-platform AR/VR/MR engine.
-	- [GitHub](https://github.com/MTASZTAKI/ApertusVR)
-	- [Forum](http://forum.apertusvr.org/)
-	- [Blog](http://blog.apertusvr.org/)
 
 ## UI/UX:
 
