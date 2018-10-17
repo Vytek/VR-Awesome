@@ -118,18 +118,24 @@
 ## Unity VR Plugin:
 
 * SteamVR: [https://github.com/ValveSoftware/openvr](https://github.com/ValveSoftware/openvr)
+  * https://github.com/ValveSoftware/steamvr_unity_plugin
+  * https://assetstore.unity.com/packages/tools/integration/steamvr-plugin-32647
+  * Knuckles EV2, Unity, and the new SteamVR Input System: https://steamcommunity.com/sharedfiles/filedetails/?id=1416820276
+  * Knuckles EV3: What's New: https://steamcommunity.com/sharedfiles/filedetails/?id=1508356684
+  * Knuckles EV3 Tech Demo: https://github.com/ValveSoftware/Moondust
+  * Reimplementation of OpenVR, passing all calls directly to LibOVR: https://gitlab.com/znixian/OpenOVR
 * Steam Lab Render: [https://www.assetstore.unity3d.com/en/#!/content/63141](https://www.assetstore.unity3d.com/en/#!/content/63141) - [https://github.com/ValveSoftware/the_lab_renderer](https://github.com/ValveSoftware/the_lab_renderer)
 * HTC Vive Asset Store Plugin:  [https://www.assetstore.unity3d.com/en/#!/search/page=1/sortby=popularity/query=publisher:21581]()
 * [Walking in Place script for Unity and SteamVR](https://github.com/pottedmeat7/SteamVRWIPLocomotion)
 * HTC Vive Teleportation System with Parabolic Pointer: [https://github.com/Flafla2/Vive-Teleporter](https://github.com/Flafla2/Vive-Teleporter)
 * VRTK: [https://github.com/thestonefox/SteamVR_Unity_Toolkit](https://github.com/thestonefox/SteamVR_Unity_Toolkit):
-	* [Loosely based on quintesse/PlayoVR/Assets/NetVRTK but for UNET](https://github.com/trumpetx/UNetVRTK)
-	* [A Unity demo project using VRTK, PhotonNetwork and PUNVoice](https://github.com/quintesse/PlayoVR)
-	* [Lightsaber Training with the HTC Vive (with source code)](https://www.youtube.com/watch?v=rg_nS-vChLY)
-	* [Syntonic VRTK Example Github Repo](https://github.com/SyntonicApps/unity-vrtk-examples) - [VRTK Examples & Tutorials](https://www.youtube.com/channel/UC2SDL6DcSlgVBTnEbfksQQQ)
-	* [Mesh Maker VR Github Repository](https://github.com/createthis/mesh_maker_vr)
+  * [Loosely based on quintesse/PlayoVR/Assets/NetVRTK but for UNET](https://github.com/trumpetx/UNetVRTK)
+  * [A Unity demo project using VRTK, PhotonNetwork and PUNVoice](https://github.com/quintesse/PlayoVR)
+  * [Lightsaber Training with the HTC Vive (with source code)](https://www.youtube.com/watch?v=rg_nS-vChLY)
+  * [Syntonic VRTK Example Github Repo](https://github.com/SyntonicApps/unity-vrtk-examples) - [VRTK Examples & Tutorials](https://www.youtube.com/channel/UC2SDL6DcSlgVBTnEbfksQQQ)
+  * [Mesh Maker VR Github Repository](https://github.com/createthis/mesh_maker_vr)
 * NewtonVR: [https://github.com/TomorrowTodayLabs/NewtonVR] (https://github.com/TomorrowTodayLabs/NewtonVR)
-	* [Weapons Reload Mechanics for VR | Unity3d ( NewtonVR & SteamVR)](https://github.com/Oyshoboy/weaponReloadVR)
+  * [Weapons Reload Mechanics for VR | Unity3d ( NewtonVR & SteamVR)](https://github.com/Oyshoboy/weaponReloadVR)
 * Facal Point VR: [http://www.albert-hwang.com/focal-point-vr](http://www.albert-hwang.com/focal-point-vr)
 * ArmSwinger is an artificial VR locomotion library developed on Unity 5.4: [https://github.com/ElectricNightOwl/ArmSwinger](https://github.com/ElectricNightOwl/ArmSwinger)
 * VR UI. This project contains the full source code for the Mesh Maker VR UI system. It includes Buttons, Panels, and automatic layout tools like Row and Column containers. It also provides File Open and SaveAs dialogs using a PhysX based kinetic scroller. Factory scripts are provided to quickly build these components from the Editor or from code. The intent is to save time when designing complex VR application UIs: [https://github.com/createthis/createthis_vr_ui](https://github.com/createthis/createthis_vr_ui)
@@ -140,24 +146,25 @@
 * [VR Drum Keyboard from NormalVR](http://www.normalvr.com/blog/an-open-source-keyboard-to-make-your-own/) - [Medium Mirror](https://medium.com/@normalvr/an-open-source-keyboard-to-make-your-own-4f8c531bb92d#.ecu0d3v4m) - [Mirror 2](https://archive.is/4GG8R)
 * [Keyboard Input for Virtual Reality](https://uxdesign.cc/keyboard-input-for-virtual-reality-d551a29c53e9#.12u2xskbr) - [Mirror](https://web.archive.org/web/20170223084857/https://uxdesign.cc/keyboard-input-for-virtual-reality-d551a29c53e9?gi=18e71e260b3f)
 * List VR KeyBoards:
-	1. VRKeys - A drum-style keyboard for VR in Unity: [https://github.com/campfireunion/VRKeys](https://github.com/campfireunion/VRKeys)
-	2. [Punchkeyboard](https://github.com/rjth/Punchkeyboard)
-	3. [Cutie Keys](https://github.com/NormalVR/CutieKeys)
+  1. VRKeys - A drum-style keyboard for VR in Unity: [https://github.com/campfireunion/VRKeys](https://github.com/campfireunion/VRKeys)
+  2. [Punchkeyboard](https://github.com/rjth/Punchkeyboard)
+  3. [Cutie Keys](https://github.com/NormalVR/CutieKeys)
 * VR Camera for HTC Vive: [VR Camera](https://www.assetstore.unity3d.com/en/#!/content/79203)
 * Unity POC for click-drag interactivity in Vive: [https://github.com/Albert/clicky-draggy](https://github.com/Albert/clicky-draggy)
 * A simple notification system to display plain text in VR for Unity engine: [https://github.com/diglungdig/Simple_Note_VR](https://github.com/diglungdig/Simple_Note_VR)
 * Mirror in VR for SteamVR:
-	1. [https://www.assetstore.unity3d.com/en/#!/content/71255](https://www.assetstore.unity3d.com/en/#!/content/71255)
-	2. [https://github.com/AADProductions/VR-Mirrors](ttps://github.com/AADProductions/VR-Mirrors)
+  1. [https://www.assetstore.unity3d.com/en/#!/content/71255](https://www.assetstore.unity3d.com/en/#!/content/71255)
+  2. [https://github.com/AADProductions/VR-Mirrors](ttps://github.com/AADProductions/VR-Mirrors)
 * [Unity EditorVR](https://github.com/Unity-Technologies/EditorVR):
-	1. [EDITORVR EXPERIMENTAL BUILD BLOG Unity](https://blogs.unity3d.com/2016/12/15/editorvr-experimental-build-available-today/)
-	2. [Unity5 EditorVR hello world tutorial video (from scratch) featuring Oculus ](https://www.youtube.com/watch?v=U0gBRIY3TpE&t=210s)
-	3. [HOW TO SET UP UNITY'S VR EDITOR (EditorVR) !](https://www.youtube.com/watch?v=vAxPoVmhvaw)
-	4. [Unity VR: EditorVR Quick Look](https://www.youtube.com/watch?v=5-NAjKPsx4A)
+  1. [EDITORVR EXPERIMENTAL BUILD BLOG Unity](https://blogs.unity3d.com/2016/12/15/editorvr-experimental-build-available-today/)
+  2. [Unity5 EditorVR hello world tutorial video (from scratch) featuring Oculus ](https://www.youtube.com/watch?v=U0gBRIY3TpE&t=210s)
+  3. [HOW TO SET UP UNITY'S VR EDITOR (EditorVR) !](https://www.youtube.com/watch?v=vAxPoVmhvaw)
+  4. [Unity VR: EditorVR Quick Look](https://www.youtube.com/watch?v=5-NAjKPsx4A)
 * VR Movement System for HTC Vive: [https://www.assetstore.unity3d.com/en/#!/content/47329](https://www.assetstore.unity3d.com/en/#!/content/47329)
 * VR Movement System for Oculus Touch: [https://www.assetstore.unity3d.com/en/#!/content/47292](https://www.assetstore.unity3d.com/en/#!/content/47292)
 * Flight Navigation for HTC Vive controller: [https://www.assetstore.unity3d.com/en/#!/content/61830](https://www.assetstore.unity3d.com/en/#!/content/61830)
 * A quickstart beginner-targeted VR toolkit for Unity, based on Unity's built-in generic VR capabilities. It's either this or you start using a dozen different SDKs if you're doing multiplatform VR, basically. This Unity VR template will be helpful for you, no doubt about it [https://github.com/AlexHolderDeveloper/BigfootXR](https://github.com/AlexHolderDeveloper/BigfootXR)
+* VR Tunnelling Pro (VRTP) is the most advanced VR comfort solution for Unity 5.6+: https://github.com/sigtrapgames/VrTunnellingPro-Unity
 * Unity Post Processing source: [https://github.com/Unity-Technologies/PostProcessing/wiki](https://github.com/Unity-Technologies/PostProcessing/wiki)
 * A plugin to select deafult Microphone in Unity: [https://github.com/GabeBigBoxVR/UnityDefaultMicrophone](https://github.com/GabeBigBoxVR/UnityDefaultMicrophone)
 * List of Best Unity Assets for VR Devs: [Compiled by https://www.reddit.com/user/Legorobotdude](https://www.assetstore.unity3d.com/en/#!/list/2214-vr)
@@ -274,6 +281,7 @@ Axey Works: [https://www.assetstore.unity3d.com/en/#!/content/58821](https://www
 * [http://realspace3daudio.com/unityplugindownloads/](http://realspace3daudio.com/unityplugindownloads/)
 * [Free Valve Steam Audio](https://github.com/ValveSoftware/steam-audio) - [Support](http://steamcommunity.com/app/596420/discussions/0/133258092237744096/)
 * [Google Resonance Audio](https://github.com/resonance-audio) - [https://developers.google.com/resonance-audio/develop/overview]()
+* VIVE 3D Sound Perception SDK: https://developer.vive.com/resources/knowledgebase/vive-3dsp-sdk-2/
 
 List all HRTF sound Engines:
 [http://designingsound.org/2015/04/3d-audio-weighing-the-options/](http://designingsound.org/2015/04/3d-audio-weighing-the-options/)
@@ -337,6 +345,7 @@ List all HRTF sound Engines:
 * ChaperoneTweak: An in-VR chaperone editor: [https://github.com/Xavr0k/ChaperoneTweak](https://github.com/Xavr0k/ChaperoneTweak)
 * Oculus TrayTool - SuperSampling profiles, HMD disconnect fixes [https://forums.oculus.com/community/discussion/47247/oculus-traytool-supersampling-profiles-hmd-disconnect-fixes-hopefully](https://forums.oculus.com/community/discussion/47247/oculus-traytool-supersampling-profiles-hmd-disconnect-fixes-hopefully)
 * SteamVR Home Loader: [https://github.com/CogentHub/HomeLoader](https://github.com/CogentHub/HomeLoader)
+* N-GAME utility for keeping track of FPS (Frames Per Second), other performance counters, and SteamVR settings in SteamVR games and applications: https://store.steampowered.com/app/908520/fpsVR/
 * Driver4VR – enhance your VR configuration: [http://www.driver4vr.com/](http://www.driver4vr.com/)
 * A tool to export any Unity GameObject into a FBX ASCII format: [https://github.com/KellanHiggins/UnityFBXExporter](https://github.com/KellanHiggins/UnityFBXExporter)
 * OpenVR-InputEmulator: [https://github.com/matzman666/OpenVR-InputEmulator](https://github.com/matzman666/OpenVR-InputEmulator)
@@ -349,17 +358,18 @@ List all HRTF sound Engines:
 * [Useful tool to help you record in game footage while in your headset](https://github.com/KellanHiggins/VRCameraFramelines)
 * [Free NVIDIA FCAT VR Performance Analysis Tool Available Now For Download](http://www.geforce.com/whats-new/guides/fcat-vr-download-and-how-to-guide#HTCViveTestingWithFCATVR) - [Mirror](https://archive.is/CNqpW)
 * [NVIDIA VRWorks and Unity](https://developer.nvidia.com/nvidia-vrworks-and-unity)
+  * https://devblogs.nvidia.com/turing-variable-rate-shading-vrworks/
 * [Guardian Boundary Editor - Customize/straighten your boundaries](https://www.reddit.com/r/oculus/comments/6iezwq/guardian_boundary_editor_customizestraighten_your/) - [Download](http://www.emuvr.net/download/GuardianBoundaryEditor.zip)
 * [DEVELOPERS: this is how you handle the Oculus Parties voice chat when your app also uses voice chat (so that both VOIPs don't run at once)](https://www.reddit.com/r/oculus/comments/6q8e1u/developers_this_is_how_you_handle_the_oculus/)
 * [Getting started with Oculus Touch and Avatar SDK in Unity [Updated]](https://skarredghost.com/2017/01/03/getting-started-with-oculus-touch-and-avatar-sdk-in-unity/) - [Mirror 1](https://archive.is/a8W4R) - [Mirror 2](https://web.archive.org/web/20170731103259/https://skarredghost.com/2017/01/03/getting-started-with-oculus-touch-and-avatar-sdk-in-unity)
 * HTC SteamVR Tracking LightHouse System:
-	- [https://partner.steamgames.com/vrtracking](https://partner.steamgames.com/vrtrackin)
-	- [STEAMVR TRACKING TRAINING](https://www.synapse.com/steamvr)
-	- [Lighthouse Reverse-Engineered Documentation](https://github.com/nairol/LighthouseRedox)
-	- [https://github.com/cnlohr/libsurvive](https://github.com/cnlohr/libsurvive)
-	- [SteamVR Tracking HDK](https://www.triadsemi.com/product/steamvr-tracking-hdk/)
-	- [FCC filing for Base 2.0 - photos and manual now available](https://www.reddit.com/r/Vive/comments/7uo5kp/fcc_filing_for_base_20_photos_and_manual_now/)
-	- [Opensource library for vive controller tracking](https://www.reddit.com/r/Vive/comments/83xvfv/opensource_library_for_vive_controller_tracking/)
+  - [https://partner.steamgames.com/vrtracking](https://partner.steamgames.com/vrtrackin)
+  - [STEAMVR TRACKING TRAINING](https://www.synapse.com/steamvr)
+  - [Lighthouse Reverse-Engineered Documentation](https://github.com/nairol/LighthouseRedox)
+  - [https://github.com/cnlohr/libsurvive](https://github.com/cnlohr/libsurvive)
+  - [SteamVR Tracking HDK](https://www.triadsemi.com/product/steamvr-tracking-hdk/)
+  - [FCC filing for Base 2.0 - photos and manual now available](https://www.reddit.com/r/Vive/comments/7uo5kp/fcc_filing_for_base_20_photos_and_manual_now/)
+  - [Opensource library for vive controller tracking](https://www.reddit.com/r/Vive/comments/83xvfv/opensource_library_for_vive_controller_tracking/)
 
 ## List of Immersive Virtual Worlds:
 - [http://www.vrchat.net/](http://www.vrchat.net/)
