@@ -75,6 +75,7 @@
 	- [Introduction into the new Godot OpenVR Asset](https://www.youtube.com/watch?v=267dRjEYliU)
 	- [GDNative based Open VR module](https://github.com/BastiaanOlij/godot_openvr)
 - [Stingray](https://www.autodesk.com/products/stingray/overview)
+- [LÖVR](https://lovr.org)
 
 ### 3D modeling:
 - [Blender](https://www.blender.org/)
