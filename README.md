@@ -80,6 +80,9 @@
 	- [GitHub](https://github.com/MTASZTAKI/ApertusVR)
 	- [Forum](http://forum.apertusvr.org/)
 	- [Blog](http://blog.apertusvr.org/)
+- [Simmetri](https://simmetri.com/) - Powerfully fun sandbox VR engine and interactive design studio.
+	- [Steam Store Page](https://store.steampowered.com/app/547120/Simmetri/)
+	- [Discord](https://discord.gg/4a3M2kt)
 
 ### 3D modeling:
 - [Blender](https://www.blender.org/)
