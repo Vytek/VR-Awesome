@@ -182,9 +182,16 @@
 * Free Low Poly from QuaterniusDev Reddit user: [https://www.reddit.com/r/gamedev/comments/5a2xhl/free_low_poly_flat_shaded_pirate_pack/](https://www.reddit.com/r/gamedev/comments/5a2xhl/free_low_poly_flat_shaded_pirate_pack/)
 * Assets LowPoly Free: [http://simplecreations.info/](http://simplecreations.info/)
 * Royalty free music: [http://soundimage.org/](http://soundimage.org/)
-* Texture Ninja :[https://texture.ninja/](https://texture.ninja/)
-  * https://freepbr.com/
-  * https://cc0textures.com/
+* Free Texture:
+  * [https://texture.ninja/](https://texture.ninja/)
+  * [CC0 Textures](https://cc0textures.com/)
+  * [3D Textures](https://3dtextures.me)
+  * [CG Bookcase](https://www.cgbookcase.com)
+  * [Texture Haven](https://texturehaven.com)
+  * [Free PBR](https://freepbr.com) 
+  * [Poliigon free section](https://www.poliigon.com/search?is_free=true) (Non-commercial use)
+  * [30 Free PBR materials by Artem Lebedev](https://gumroad.com/l/ekRhc)
+  * [Free 5K textures by Miloš Belanec](https://www.artstation.com/deepmind/albums/89651) 
   * https://virtualshade.tumblr.com/
   * https://beta.gametextures.com/?order=popular
 * Mixed Light Mode Cheat Sheet: [https://docs.google.com/document/d/1U5osiyz5gnuii-yApTAHYgcvpU_lz4gVBrMMtzmNcCg/edit](https://docs.google.com/document/d/1U5osiyz5gnuii-yApTAHYgcvpU_lz4gVBrMMtzmNcCg/edit)
