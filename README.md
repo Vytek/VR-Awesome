@@ -166,6 +166,8 @@
 * VR Movement System for Oculus Touch: [https://www.assetstore.unity3d.com/en/#!/content/47292](https://www.assetstore.unity3d.com/en/#!/content/47292)
 * Flight Navigation for HTC Vive controller: [https://www.assetstore.unity3d.com/en/#!/content/61830](https://www.assetstore.unity3d.com/en/#!/content/61830)
 * A quickstart beginner-targeted VR toolkit for Unity, based on Unity's built-in generic VR capabilities. It's either this or you start using a dozen different SDKs if you're doing multiplatform VR, basically. This Unity VR template will be helpful for you, no doubt about it [https://github.com/AlexHolderDeveloper/BigfootXR](https://github.com/AlexHolderDeveloper/BigfootXR)
+* Moon Motion Toolkit - Free and open source toolkit for VR locomotion http://moonmotionproject.com [https://github.com/MoonMotionProject/MoonMotion](https://github.com/MoonMotionProject/MoonMotion)
+* A lightweight multiplatform interface for making VR games in Unity. [https://github.com/turbobutton/tbutt-vr](https://github.com/turbobutton/tbutt-vr)
 * VR Tunnelling Pro (VRTP) is the most advanced VR comfort solution for Unity 5.6+: https://github.com/sigtrapgames/VrTunnellingPro-Unity
 * Unity Post Processing source: [https://github.com/Unity-Technologies/PostProcessing/wiki](https://github.com/Unity-Technologies/PostProcessing/wiki)
 * A plugin to select deafult Microphone in Unity: [https://github.com/GabeBigBoxVR/UnityDefaultMicrophone](https://github.com/GabeBigBoxVR/UnityDefaultMicrophone)
@@ -219,6 +221,7 @@
 * [Creating a VR Zombie Game With UE4 Blueprints](https://www.youtube.com/watch?v=ebV1UGkxkl4&list=PLrfSN3w5WCJWPv4B25PC2TYpb6myvZ6UY)
 * [UVRF - Handpresence temple for Rift / Vive (+ free shooting range)](https://forums.unrealengine.com/development-discussion/vr-ar-development/1381972-uvrf-handpresence-temple-for-rift-vive-free-shooting-range)
 * [UVRF - Handpresence template for Rift / Vive (+ free shooting range) // Update 1.2 Bow archery range, directional and rotational grabs](https://forums.unrealengine.com/development-discussion/vr-ar-development/1381972-uvrf-handpresence-template-for-rift-vive-free-shooting-range-update-1-2-bow-archery-range-directional-and-rotational-grabs)
+* Unreal Engine Blueprint & C++ VR interaction functions (pre-configured VR Pawn & Grab/Push/Pull, Move, Teleport, Gestures recording & recognition component) for your VR projects. Get up & running quickly with your VR experience or game with this comprehensive plugin for UE4 [https://github.com/1runeberg/RunebergVRPlugin](https://github.com/1runeberg/RunebergVRPlugin)
 
 ## VR Dev School, VR Course, Tutorials, VR Blogs:
 
@@ -353,6 +356,7 @@ List all HRTF sound Engines:
 * ReVive: [https://github.com/LibreVR/Revive]()
 * VR Prototipes: [http://grayboxvr.com/](http://grayboxvr.com/)
 * OpenVR Advanced Settings Overlay: [https://github.com/matzman666/OpenVR-AdvancedSettings] (https://github.com/matzman666/OpenVR-AdvancedSettings) - [Supersample HTC Vive using OpenVR AdvancedSettings](http://www.roadtovr.com/supersample-htc-vive-oculus-rift-steamvr-openvr-advanced-settings-sharpen/)
+	* Update release [https://github.com/OpenVR-Advanced-Settings/OpenVR-AdvancedSettings](https://github.com/OpenVR-Advanced-Settings/OpenVR-AdvancedSettings)
 * [New Viveport Scene SDK Hints at the Future of VR Content Browsing](https://blog.vive.com/us/2017/09/28/early-release-viveport-scene-sdk/)
 * [An OpenVR driver that allows to create virtual controllers, emulate controller input, manipulate poses of existing controllers and remap buttons. ](https://github.com/matzman666/OpenVR-InputEmulator)
 * ChaperoneTweak: An in-VR chaperone editor: [https://github.com/Xavr0k/ChaperoneTweak](https://github.com/Xavr0k/ChaperoneTweak)
