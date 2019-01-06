@@ -168,6 +168,7 @@
 * A quickstart beginner-targeted VR toolkit for Unity, based on Unity's built-in generic VR capabilities. It's either this or you start using a dozen different SDKs if you're doing multiplatform VR, basically. This Unity VR template will be helpful for you, no doubt about it [https://github.com/AlexHolderDeveloper/BigfootXR](https://github.com/AlexHolderDeveloper/BigfootXR)
 * Moon Motion Toolkit - Free and open source toolkit for VR locomotion http://moonmotionproject.com [https://github.com/MoonMotionProject/MoonMotion](https://github.com/MoonMotionProject/MoonMotion)
 * A lightweight multiplatform interface for making VR games in Unity. [https://github.com/turbobutton/tbutt-vr](https://github.com/turbobutton/tbutt-vr)
+* VR Scriptable Framework using Hybrid ECS [https://github.com/Jamy4000/VRSF_Hybrid_ECS](https://github.com/Jamy4000/VRSF_Hybrid_ECS)
 * VR Tunnelling Pro (VRTP) is the most advanced VR comfort solution for Unity 5.6+: https://github.com/sigtrapgames/VrTunnellingPro-Unity
 * Unity Post Processing source: [https://github.com/Unity-Technologies/PostProcessing/wiki](https://github.com/Unity-Technologies/PostProcessing/wiki)
 * A plugin to select deafult Microphone in Unity: [https://github.com/GabeBigBoxVR/UnityDefaultMicrophone](https://github.com/GabeBigBoxVR/UnityDefaultMicrophone)
