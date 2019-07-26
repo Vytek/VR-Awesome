@@ -4,17 +4,28 @@
 ## Hardware
 
 ### Head-mounted display:
-
-- [Oculus Rift](https://www.oculus.com/en-us/rift/)
-- [HTC Vive](http://www.htcvr.com/)
-- [HTC Vive Pro](https://www.vive.com/us/product/vive-pro/)
+- Oculus
+	1. [Oculus Rift](https://www.oculus.com/en-us/rift/)
+	2. [Oculus Quest](https://www.oculus.com/quest/)
+	3. [Oculus Go](https://www.oculus.com/go/)
+	4. [Gear VR](https://www.samsung.com/global/galaxy/gear-vr/)
+- HTC
+	1. [HTC Vive](http://www.htcvr.com/)
+	2. [HTC Vive Pro](https://www.vive.com/us/product/vive-pro/)
+	3. [HTC Vive Focus](https://enterprise.vive.com/us/product/vive-focus/)
 - [Razer OSVR](http://www.osvr.org/)
 - [FOVE](http://www.getfove.com/)
 - [StarVR](http://www.starvr.com/)
 - [Pimax 8K](https://www.pimaxvr.com/8k/?lang=en)
 - [Google Cardboard](https://vr.google.com/cardboard/)
 - [Google Daydream View](https://vr.google.com/daydream/headset/)
-- [Microsoft Mixed Reality Headsets](https://www.microsoft.com/en-us/store/collections/vrandmixedrealityheadsets) - [Mixed Reality Toolkit](https://github.com/Microsoft/MixedRealityToolkit)
+- [Windows Mixed Reality Headsets](https://www.microsoft.com/en-us/store/collections/vrandmixedrealityheadsets)
+	1. [Asus WMR HC102](https://www.asus.com/us/Headset/ASUS-Windows-Mixed-Reality-Headset-HC102/)
+	2. [Lenovo Explorer](https://www.lenovo.com/us/en/virtual-reality-and-smart-devices/virtual-and-augmented-reality/lenovo-explorer/Lenovo-Explorer/p/G10NREAG0A2)
+	3. [Samsung HMD Odyssey+](https://www.samsung.com/us/computing/hmd/windows-mixed-reality/hmd-odyssey-windows-mixed-reality-headset-xe800zba-hc1us/)
+	4. [Acer WMR Headset](https://www.acer.com/ac/en/US/content/series/wmr)
+	5. [HP WMR Headset](https://www8.hp.com/us/en/campaigns/mixedrealityheadset/overview.html)
+	6. [Mixed Reality Toolkit](https://github.com/Microsoft/MixedRealityToolkit)
 
 ### Other hardware:
 - [Leap Motion](https://www.leapmotion.com/) - Use hand and finger motions as input.
@@ -49,6 +60,8 @@
 	5. [https://www.vive.com/cn/accessory/tpcast/](https://www.vive.com/cn/accessory/tpcast/)
 	6. [https://www.tpcast.cn/h_en/htcvive.html?p1=1&p2=1](https://www.tpcast.cn/h_en/htcvive.html?p1=1&p2=1)
 	7. [DisplayLink Ultra-Low Latency Wireless VR](http://www.displaylink.com/vr)
+- Extrasensory
+	1. [FEELREAL-VR Smell](https://feelreal.com/)
 
 ### Accessories
 
@@ -91,6 +104,7 @@
 - [Anim8or](http://www.anim8or.com/)
 - [Make Human](http://www.makehuman.org/)
 - [DeleD 3DEditor CE](https://sourceforge.net/projects/deled/)
+- [Esri CityEngine](https://www.esri.com/en-us/arcgis/products/esri-cityengine/overview)
 
 ### Web:
 - [Awesome WebVR](https://github.com/wizztjh/awesome-WebVR) - List of WebVR resources.
