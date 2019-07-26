@@ -28,40 +28,40 @@
 	6. [Mixed Reality Toolkit](https://github.com/Microsoft/MixedRealityToolkit)
 
 ### Other hardware:
-- [Leap Motion](https://www.leapmotion.com/) - Use hand and finger motions as input.
-- [http://priovr.com/#about](http://priovr.com/#about)
-- [https://neuronmocap.com/]() - Mocap
-- [http://sixense.com/razerhydra](https://neuronmocap.com/)
-- [http://sixense.com/wireless](http://sixense.com/wireless)
-- [http://www.reachvr.com/](http://www.reachvr.com/)
-- [http://graphinesoftware.com/](http://graphinesoftware.com/)
-- [http://ovrvision.com/order-ovr1/](http://ovrvision.com/order-ovr1/)
-- [https://www.thalmic.com/en/myo/](https://www.thalmic.com/en/myo/)
-- [http://www.remoriavr.com/](http://www.remoriavr.com/) - Lignum Input
-- [http://julesthuillier.com/vrtracker/](http://julesthuillier.com/vrtracker/)
-- [Tobbi VR integration](https://www.tobiipro.com/product-listing/vr-integration/)
+- Motion Tracking:
+	1. [Leap Motion](https://www.leapmotion.com/) - Use hand and finger motions as input.
+	2. [Yost Labs](http://priovr.com/#about)
+	3. [Mocap](https://neuronmocap.com/)
+	4. [http://sixense.com/wireless](http://sixense.com/wireless)
+	5. [http://www.reachvr.com/](http://www.reachvr.com/)
+	6. [http://ovrvision.com/order-ovr1/](http://ovrvision.com/order-ovr1/)
+	7. [MYO Armband](https://developerblog.myo.com/tag/virtual-reality/)
+	8. [Remoria VR Lignum Input](https://www.vrfocus.com/2016/11/remoria-vr-kickstarting-universal-vr-controller/)
+	9. [VR Tracker](https://vrtracker.xyz/)
 - VR Glove:
-	1. [https://manus-vr.com/](https://manus-vr.com/)
-	2. [https://senso.me/](https://senso.me/)
-	3. [http://www.dextarobotics.com/](http://www.dextarobotics.com/)
-	4. [https://www.neurodigital.es/](https://www.neurodigital.es/)
+	1. [Manus VR](https://manus-vr.com/)
+	2. [Senso Glove](https://senso.me/)
+	3. [Dexta Robotics](http://www.dextarobotics.com/)
+	4. [Avatar VR](https://avatarvr.es/)
 - Eye Tracking:
-	1. [http://www.aglass.com/](http://www.aglass.com/)
-	2. Open source eye tracking: [https://pupil-labs.com](https://pupil-labs.com)
-- [http://www.binaryvr.com/](http://www.binaryvr.com/) - Facial Recognition
+	1. [aGlass](http://www.aglass.com/)
+	2. [Open Source Eye Tracking: Pupil Labs](https://pupil-labs.com)
+	3. [Tobbi VR Integration](https://www.tobiipro.com/product-listing/vr-integration/)
+- Facial Recognition:
+	1. [Hyprsense](https://www.hyprsense.com/)
 - Full body tracking:
 	1. [VicoVR](http://www.vicovr.com/)
 	2. [The world’s first full-body haptic feedback, motion capture, thermo controlled suit.](https://teslasuit.io/)
 - Wireless HMD Kit:
-	1. [http://intugame.com/quarkvr/](http://intugame.com/quarkvr/)
-	2. [Rivvr: Wireless VR for Oculus Rift and HTC Vive](https://www.rivvr.com/)
-	3. [Immersive Robotic: Wireless Virtual Reality](http://www.immersiverobotics.com/our-technology/)
+	1. [QuarkVR](https://www.quarkvr.io/)
+	2. [Rivvr: Wireless VR for Oculus Rift and HTC Vive](https://www.tomshardware.com/news/sixa-rivvr-wireless-vr-pre-orders,36351.html)
+	3. [Immersive Robotic: Wireless Virtual Reality](https://www.immersiverobotics.com/imr-wearable-accessory/)
 	4. [http://kwikvr.com/](http://kwikvr.com/)
 	5. [https://www.vive.com/cn/accessory/tpcast/](https://www.vive.com/cn/accessory/tpcast/)
 	6. [https://www.tpcast.cn/h_en/htcvive.html?p1=1&p2=1](https://www.tpcast.cn/h_en/htcvive.html?p1=1&p2=1)
 	7. [DisplayLink Ultra-Low Latency Wireless VR](http://www.displaylink.com/vr)
 - Extrasensory
-	1. [FEELREAL-VR Smell](https://feelreal.com/)
+	1. [FEELREAL](https://feelreal.com/)
 
 ### Accessories
 
@@ -187,6 +187,7 @@
 * Unity Post Processing source: [https://github.com/Unity-Technologies/PostProcessing/wiki](https://github.com/Unity-Technologies/PostProcessing/wiki)
 * A plugin to select deafult Microphone in Unity: [https://github.com/GabeBigBoxVR/UnityDefaultMicrophone](https://github.com/GabeBigBoxVR/UnityDefaultMicrophone)
 * List of Best Unity Assets for VR Devs: [Compiled by https://www.reddit.com/user/Legorobotdude](https://www.assetstore.unity3d.com/en/#!/list/2214-vr)
+* - [http://graphinesoftware.com/](http://graphinesoftware.com/) - Texture Rendering
 
 ### Unity Assets for VR:
 * [Google Poly API](https://developers.google.com/poly/)
