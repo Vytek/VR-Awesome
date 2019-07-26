@@ -3,7 +3,7 @@
 
 ## Hardware
 
-### Head-mounted display:
+### Head-mounted display
 - Oculus
 	1. [Oculus Rift](https://www.oculus.com/en-us/rift/)
 	2. [Oculus Quest](https://www.oculus.com/quest/)
@@ -27,7 +27,7 @@
 	5. [HP WMR Headset](https://www8.hp.com/us/en/campaigns/mixedrealityheadset/overview.html)
 	6. [Mixed Reality Toolkit](https://github.com/Microsoft/MixedRealityToolkit)
 
-### Other hardware:
+### Other hardware
 - Motion Tracking:
 	1. [Leap Motion](https://www.leapmotion.com/)
 	2. [Yost Labs](http://priovr.com/#about)
@@ -77,7 +77,7 @@
 
 ## Software
 
-### (Game) engines:
+### (Game) engines
 - [Unity](https://unity3d.com/) - Lots of resources, easy to get started. [Awesome Unity ](https://github.com/RyanNielson/awesome-unity)
   - [Google VR SDK for Unity](https://developers.google.com/vr/unity/#features) - Build VR applications for Android and iOS.
 - [Unreal Engine](https://www.unrealengine.com) - VR Tutorials: [https://docs.unrealengine.com/latest/INT/Platforms/VR/](https://docs.unrealengine.com/latest/INT/Platforms/VR/)
@@ -96,7 +96,7 @@
 	- [Steam Store Page](https://store.steampowered.com/app/547120/Simmetri/)
 	- [Discord](https://discord.gg/4a3M2kt)
 
-### 3D modeling:
+### 3D modeling
 - [Blender](https://www.blender.org/)
 - [Wings3d](http://www.wings3d.com/)
 - [Freecad](http://www.freecadweb.org/)
@@ -105,24 +105,24 @@
 - [DeleD 3DEditor CE](https://sourceforge.net/projects/deled/)
 - [Esri CityEngine](https://www.esri.com/en-us/arcgis/products/esri-cityengine/overview)
 
-### Web:
+### Web
 - [Awesome WebVR](https://github.com/wizztjh/awesome-WebVR) - List of WebVR resources.
 - [Practical VR:A design cheat sheet](https://medium.com/@hitsmachines/practical-vr-ce80427e8e9d)
 - [Sense of Presence in Social VR Experience](http://www.interactivearchitecture.org/sense-of-presence-in-social-vr-experience.html) - [Mirror 1](https://archive.is/KUcIh) - [Mirror 2](https://web.archive.org/web/20170223094600/http://www.interactivearchitecture.org/sense-of-presence-in-social-vr-experience.html)
 - [Networked-Aframe](http://haydenlee.io/networked-aframe/)
 
-### Tours and Other Frameworks:
+### Tours and Other Frameworks
 - [LiveTourLab](https://github.com/livetourlab/live-tour-lab) - Framework for creating VR Tours.
 - [A simple framework for creating VR with Lua](http://lovr.org/)
 - [React VR](https://github.com/facebook/react-vr) - Facebook VR Project
 - [VBjin-OVR - A Virtual Boy Emulator for the Oculus Rift](https://github.com/braindx/vbjin-ovr)
-- Calcflow: [https://github.com/matryx/calcflow](https://github.com/matryx/calcflow)
+- [Calcflow](https://github.com/matryx/calcflow)
 
 ### PSVR
 - [C library for Morpheus (Playstation VR)](https://github.com/alatnet/libpsvr)
 - [Open Source Open VR driver for the Playstation VR](https://github.com/alatnet/OpenPSVR)
 
-## UI/UX:
+## UI/UX
 
 - [UX of VR](http://www.uxofvr.com/) - A list of resources about the UI/UX considerations for VR.
 - [Practical VR: A design cheat sheet](https://medium.com/@hitsmachines/practical-vr-ce80427e8e9d)
@@ -130,7 +130,7 @@
 - [Simulating Weight in VR](http://www.roadtovr.com/b-reel-simulating-object-weight-mass-virtual-reality-motion-controllers/) - [Mirror Medium](https://medium.com/@B__REEL/simulating-weight-in-vr-d161e87990b#.vde09kd3e) - [Github Repository](https://github.com/B-Reel/vr-weight)
 - [Ciro Continisio (Unity Technologies) - UX and Interaction in Virtual Reality at DevGAMM Conference](https://www.youtube.com/watch?v=LYzhsUVAED4)
 
-## Unity VR Plugin:
+## Unity VR Plugin
 
 - [Valve OpenVR](https://github.com/ValveSoftware/openvr)
   - [SeamVR](https://github.com/ValveSoftware/steamvr_unity_plugin)
@@ -155,7 +155,8 @@
   - [Weapons Reload Mechanics for VR | Unity3d ( NewtonVR & SteamVR)](https://github.com/Oyshoboy/weaponReloadVR)
 - [Focal Point VR](http://www.albert-hwang.com/focal-point-vr)
 - [ArmSwinger is an artificial VR locomotion library developed on Unity 5.4](https://github.com/ElectricNightOwl/ArmSwinger)
-- VR UI. This project contains the full source code for the Mesh Maker VR UI system. It includes Buttons, Panels, and automatic layout tools like Row and Column containers. It also provides File Open and SaveAs dialogs using a PhysX based kinetic scroller. Factory scripts are provided to quickly build these components from the Editor or from code. The intent is to save time when designing complex VR application UIs: [https://github.com/createthis/createthis_vr_ui](https://github.com/createthis/createthis_vr_ui)
+- [Createthis VR UI](https://github.com/createthis/createthis_vr_ui)
+	> VR UI. This project contains the full source code for the Mesh Maker VR UI system. It includes Buttons, Panels, and automatic layout tools like Row and Column containers. It also provides File Open and SaveAs dialogs using a PhysX based kinetic scroller. Factory scripts are provided to quickly build these components from the Editor or from code. The intent is to save time when designing complex VR application UIs.
 - [Unusual Virtual reality locomotion modifications for Unity3D](https://github.com/Clavilux/VRLM)
 - [TButt is Turbo Button's framework for developing multiplatform VR games in Unity.](https://github.com/turbobutton/tbutt-vr-framework)
 - [An Unity plugin that allows developers to access Vive device status](https://github.com/ViveSoftware/ViveInputUtility-Unity)
@@ -164,7 +165,7 @@
 - [Medium Mirror](https://medium.com/@normalvr/an-open-source-keyboard-to-make-your-own-4f8c531bb92d#.ecu0d3v4m)
 - [Mirror 2](https://archive.is/4GG8R)
 - [Keyboard Input for Virtual Reality](https://uxdesign.cc/keyboard-input-for-virtual-reality-d551a29c53e9#.12u2xskbr) - [Mirror](https://web.archive.org/web/20170223084857/https://uxdesign.cc/keyboard-input-for-virtual-reality-d551a29c53e9?gi=18e71e260b3f)
-- List VR KeyBoards:
+- VR KeyBoards:
   1. [VRKeys - A drum-style keyboard for VR in Unity](https://github.com/campfireunion/VRKeys)
   2. [Punchkeyboard](https://github.com/rjth/Punchkeyboard)
   3. [Cutie Keys](https://github.com/NormalVR/CutieKeys)
@@ -172,32 +173,34 @@
 - [Unity POC for click-drag interactivity in Vive](https://github.com/Albert/clicky-draggy)
 - [A simple notification system to display plain text in VR for Unity engine](https://github.com/diglungdig/Simple_Note_VR)
 - Mirror in VR for SteamVR:
-  1. [https://www.assetstore.unity3d.com/en/#!/content/71255](https://www.assetstore.unity3d.com/en/#!/content/71255)
-  2. [https://github.com/AADProductions/VR-Mirrors](ttps://github.com/AADProductions/VR-Mirrors)
+  1. [Mirror - Asset Store](https://www.assetstore.unity3d.com/en/#!/content/71255)
+  2. [AADProductions VR Mirrors](https://github.com/AADProductions/VR-Mirrors)
 - [Unity EditorVR](https://github.com/Unity-Technologies/EditorVR):
   1. [EDITORVR EXPERIMENTAL BUILD BLOG Unity](https://blogs.unity3d.com/2016/12/15/editorvr-experimental-build-available-today/)
   2. [Unity5 EditorVR hello world tutorial video (from scratch) featuring Oculus ](https://www.youtube.com/watch?v=U0gBRIY3TpE&t=210s)
   3. [HOW TO SET UP UNITY'S VR EDITOR (EditorVR) !](https://www.youtube.com/watch?v=vAxPoVmhvaw)
   4. [Unity VR: EditorVR Quick Look](https://www.youtube.com/watch?v=5-NAjKPsx4A)
-- VR Movement System for HTC Vive: [https://www.assetstore.unity3d.com/en/#!/content/47329](https://www.assetstore.unity3d.com/en/#!/content/47329)
-- VR Movement System for Oculus Touch: [https://www.assetstore.unity3d.com/en/#!/content/47292](https://www.assetstore.unity3d.com/en/#!/content/47292)
-- Flight Navigation for HTC Vive controller: [https://www.assetstore.unity3d.com/en/#!/content/61830](https://www.assetstore.unity3d.com/en/#!/content/61830)
-- A quickstart beginner-targeted VR toolkit for Unity, based on Unity's built-in generic VR capabilities. It's either this or you start using a dozen different SDKs if you're doing multiplatform VR, basically. This Unity VR template will be helpful for you, no doubt about it [https://github.com/AlexHolderDeveloper/BigfootXR](https://github.com/AlexHolderDeveloper/BigfootXR)
-- Moon Motion Toolkit - Free and open source toolkit for VR locomotion http://moonmotionproject.com [https://github.com/MoonMotionProject/MoonMotion](https://github.com/MoonMotionProject/MoonMotion)
-- A lightweight multiplatform interface for making VR games in Unity. [https://github.com/turbobutton/tbutt-vr](https://github.com/turbobutton/tbutt-vr)
-- VR Scriptable Framework using Hybrid ECS [https://github.com/Jamy4000/VRSF_Hybrid_ECS](https://github.com/Jamy4000/VRSF_Hybrid_ECS)
-- VR Tunnelling Pro (VRTP) is the most advanced VR comfort solution for Unity 5.6+: https://github.com/sigtrapgames/VrTunnellingPro-Unity
-- Unity Post Processing source: [https://github.com/Unity-Technologies/PostProcessing/wiki](https://github.com/Unity-Technologies/PostProcessing/wiki)
-- A plugin to select deafult Microphone in Unity: [https://github.com/GabeBigBoxVR/UnityDefaultMicrophone](https://github.com/GabeBigBoxVR/UnityDefaultMicrophone)
-- List of Best Unity Assets for VR Devs: [Compiled by https://www.reddit.com/user/Legorobotdude](https://www.assetstore.unity3d.com/en/#!/list/2214-vr)
-- - [http://graphinesoftware.com/](http://graphinesoftware.com/) - Texture Rendering
+- [VR Movement System for HTC Vive](https://www.assetstore.unity3d.com/en/#!/content/47329)
+- [VR Movement System for Oculus Touch](https://www.assetstore.unity3d.com/en/#!/content/47292)
+- [Flight Navigation for HTC Vive controller](https://www.assetstore.unity3d.com/en/#!/content/61830)
+- [BigfootXR](https://github.com/AlexHolderDeveloper/BigfootXR)
+	> A quickstart beginner-targeted VR toolkit for Unity, based on Unity's built-in generic VR capabilities. It's either this or you start using a dozen different SDKs if you're doing multiplatform VR, basically. This Unity VR template will be helpful for you, no doubt about it.
+- [Moon Motion Toolkit - Free and open source toolkit for VR locomotion](http://moonmotionproject.com)
+- [Moon Motion Project - Github](https://github.com/MoonMotionProject/MoonMotion)
+- [A lightweight multiplatform interface for making VR games in Unity](https://github.com/turbobutton/tbutt-vr)
+- [VR Scriptable Framework using Hybrid ECS](https://github.com/Jamy4000/VRSF_Hybrid_ECS)
+- [VR Tunnelling Pro (VRTP) is the most advanced VR comfort solution for Unity 5.6+](https://github.com/sigtrapgames/VrTunnellingPro-Unity)
+- [Unity Post Processing source](https://github.com/Unity-Technologies/PostProcessing/wiki)
+- [A plugin to select default Microphone in Unity](https://github.com/GabeBigBoxVR/UnityDefaultMicrophone)
+- [List of Best Unity Assets for VR Devs compiled by reddit.com/user/Legorobotdude](https://www.assetstore.unity3d.com/en/#!/list/2214-vr)
+- [Graphine - Texture Rendering](http://graphinesoftware.com/)
 
-### Unity Assets for VR:
+### Unity Assets for VR
 - [Google Poly API](https://developers.google.com/poly/)
 - [Yobi3D - Free 3D model search engine](https://www.yobi3d.com/)
 - [Free3D - Free 3D model search engine](https://free3d.com/)
-- [Free low poly 3D nature assets (trees, plants, rocks and more!)](https://www.reddit.com/r/gamedev/comments/349kpt/free_low_poly_3d_nature_assets_trees_plants_rocks/)
 - Low Poly: Free Pack 3D Models/Environments
+	- [Low Poly 3D nature assets (trees, plants, rocks and more!)](https://www.reddit.com/r/gamedev/comments/349kpt/free_low_poly_3d_nature_assets_trees_plants_rocks/)
 	- [Axey Works](https://www.assetstore.unity3d.com/en/#!/content/58821)
 	- [Low Poly Animals](http://opengameart.org/content/5-low-poly-animals)
 	- [Free Low Poly from QuaterniusDev Reddit user](https://www.reddit.com/r/gamedev/comments/5a2xhl/free_low_poly_flat_shaded_pirate_pack/)
@@ -217,18 +220,18 @@
   - [Beta Game Textures](https://beta.gametextures.com/?order=popular)
 - [Mixed Light Mode Cheat Sheet](https://docs.google.com/document/d/1U5osiyz5gnuii-yApTAHYgcvpU_lz4gVBrMMtzmNcCg/edit)
 
-#### Shaders
-- Low Poly Shader: [https://github.com/pavelkouril/unity-lowpoly-shader](https://github.com/pavelkouril/unity-lowpoly-shader)
-- Shader Forge Tutorial Blog: [http://blog.nordeus.com/art/50-shaders-of-forge-prototyping-with-shader-forge.htm](http://blog.nordeus.com/art/50-shaders-of-forge-prototyping-with-shader-forge.htm)
-- Shader discussion: [https://www.reddit.com/r/gamedev/comments/1nxcxs/how_do_i_approach_learning_to_write_shaders/](https://www.reddit.com/r/gamedev/comments/1nxcxs/how_do_i_approach_learning_to_write_shaders/)
-- Free shaders:[http://shaderslab.com/demo-82---extrude-faces.html](http://shaderslab.com/demo-82---extrude-faces.html)
-- Shapeshifting Object VFX in Unity:[https://80.lv/articles/shapeshifting-object-vfx-in-unity/](https://80.lv/articles/shapeshifting-object-vfx-in-unity/)
-- Water Ripple shader tutorial:[http://peerplay.nl/ripple-water-shader/](http://peerplay.nl/ripple-water-shader/)
-- Volumetric Fog for Unity (Optimized for Single Pass VR (<1ms on a 980 TI on a vive): [Vapor](https://github.com/ArthurBrussee/Vapor)
-- Modified Standard Unity Water for VR: [WaterVRTest](https://github.com/Vytek/WaterVRTest)
-- XRAntiAliasing: [https://github.com/demonixis/XRAntiAliasing](https://github.com/demonixis/XRAntiAliasing "FXAA and SMAA from Unity's Cinematic Effects converted to work with Single Pass Stereo Rendering")
+### Shaders
+- [Low Poly Shader](https://github.com/pavelkouril/unity-lowpoly-shader)
+- [Shader Forge Tutorial Blog](http://blog.nordeus.com/art/50-shaders-of-forge-prototyping-with-shader-forge.htm)
+- [Reddit Shader discussion](https://www.reddit.com/r/gamedev/comments/1nxcxs/how_do_i_approach_learning_to_write_shaders/)
+- [Free shaders](http://shaderslab.com/demo-82---extrude-faces.html)
+- [Shapeshifting Object VFX in Unity](https://80.lv/articles/shapeshifting-object-vfx-in-unity/)
+- [Water Ripple shader tutorial](http://peerplay.nl/ripple-water-shader/)
+- [Volumetric Fog for Unity (Optimized for Single Pass VR (<1ms on a 980 TI on a vive) - Vapor](https://github.com/ArthurBrussee/Vapor)
+- [Modified Standard Unity Water for VR - WaterVRTest](https://github.com/Vytek/WaterVRTest)
+- [XR Anti Aliasing](https://github.com/demonixis/XRCinematicImageEffects)
 
-### UnrealEngine VR:
+### UnrealEngine VR
 
 - [https://github.com/CJRobertson/HTCViveTemplate-UE4](https://github.com/CJRobertson/HTCViveTemplate-UE4)
 - [https://forums.unrealengine.com/showthread.php?106609-Steam-VR-Template](https://forums.unrealengine.com/showthread.php?106609-Steam-VR-Template)
@@ -242,7 +245,7 @@
 - [UVRF - Handpresence template for Rift / Vive (+ free shooting range) // Update 1.2 Bow archery range, directional and rotational grabs](https://forums.unrealengine.com/development-discussion/vr-ar-development/1381972-uvrf-handpresence-template-for-rift-vive-free-shooting-range-update-1-2-bow-archery-range-directional-and-rotational-grabs)
 - Unreal Engine Blueprint & C++ VR interaction functions (pre-configured VR Pawn & Grab/Push/Pull, Move, Teleport, Gestures recording & recognition component) for your VR projects. Get up & running quickly with your VR experience or game with this comprehensive plugin for UE4 [https://github.com/1runeberg/RunebergVRPlugin](https://github.com/1runeberg/RunebergVRPlugin)
 
-## VR Dev School, VR Course, Tutorials, VR Blogs:
+## VR Dev School, VR Course, Tutorials, VR Blogs
 
 - VR School/Courses:
 	- VRDev School: http://www.vrdev.school/
@@ -305,7 +308,7 @@
 - [Anti-aliased Alpha Test: The Esoteric Alpha To Coverage](“Anti-aliased Alpha Test: The Esoteric Alpha To Coverage” @bgolus https://medium.com/@bgolus/anti-aliased-alpha-test-the-esoteric-alpha-to-coverage-8b177335ae4f)
 
 
-## CREATING IMMERSIVE SPATIAL AUDIO IN VR:   
+## Creating Immersive Spatial Audio In VR
 - [http://www.blockinterval.com/project-updates/2015/11/10/better-sound-design-in-vr](http://www.blockinterval.com/project-updates/2015/11/10/better-sound-design-in-vr)
 - [http://entitycrisis.blogspot.it/2014/09/surround-binaural-or-spatial-sound-in.html](http://entitycrisis.blogspot.it/2014/09/surround-binaural-or-spatial-sound-in.html)
 - [http://dearvr.com/](http://dearvr.com/)
@@ -321,7 +324,7 @@
 List all HRTF sound Engines:
 [http://designingsound.org/2015/04/3d-audio-weighing-the-options/](http://designingsound.org/2015/04/3d-audio-weighing-the-options/)
 
-## VR News websites:
+## VR News Websites
 - [Upload VR](http://uploadvr.com/)
 - [Road To VR](http://roadtovr.com/)
 - [VR Focus](https://www.vrfocus.com)
@@ -340,7 +343,7 @@ List all HRTF sound Engines:
 - [Wired - VR](https://www.wired.co.uk/topic/virtual-reality)
 - [Liv Erickson](https://livierickson.com/) - [Personal GitHub Project LearnVR](https://github.com/misslivirose/learnvr)
 
-## VR Book:
+## VR Books
 - [http://www.thevrbook.net/](http://www.thevrbook.net/)
 - Handbook of Virtual Environments: Design, Implementation, and Applications, Second Edition: [http://www.amazon.it/gp/product/1466511842](http://www.amazon.it/gp/product/1466511842)
 - [Oculus in Action](https://www.amazon.com/Oculus-Action-Bradley-Austin-Davis/dp/1617292192)
@@ -367,7 +370,7 @@ List all HRTF sound Engines:
 	1. [How you can build your own VR headset for $100](https://medium.freecodecamp.org/build-your-own-vr-headset-for-100-13d6f2b06385)
 	2. [Build your own VR headset for $100](https://github.com/relativty/Relativ)
 
-## VR Tools and PlugIn:
+## VR Tools and PlugIns
 
 - Google TiltBrush Utility: [https://github.com/google/tiltbrushtoolkit](https://github.com/google/tiltbrushtoolkit)
 - VR Simulator: [http://developers.immerseum.io/vr-simulator-beta-0.9/](http://developers.immerseum.io/vr-simulator-beta-0.9/)
@@ -407,7 +410,7 @@ List all HRTF sound Engines:
   - [FCC filing for Base 2.0 - photos and manual now available](https://www.reddit.com/r/Vive/comments/7uo5kp/fcc_filing_for_base_20_photos_and_manual_now/)
   - [Opensource library for vive controller tracking](https://www.reddit.com/r/Vive/comments/83xvfv/opensource_library_for_vive_controller_tracking/)
 
-## List of Immersive Virtual Worlds:
+## Immersive Virtual Worlds
 - [http://www.vrchat.net/](http://www.vrchat.net/)
 - [http://janusvr.com/](http://janusvr.com/)
 - [https://highfidelity.com/](https://highfidelity.com/)
@@ -418,7 +421,7 @@ List all HRTF sound Engines:
 - [http://anyland.com/](http://anyland.com/)
 - [http://www.metaworldvr.com/](http://www.metaworldvr.com/)
 
-### Reddit on Virtual Reality:
+### Reddit on Virtual Reality
 - [Virtual Reality](https://www.reddit.com/r/virtualreality/)
 - [Oculus](https://www.reddit.com/r/oculus/)
 - [Vive](https://www.reddit.com/r/vive/)
@@ -426,14 +429,14 @@ List all HRTF sound Engines:
 - [/r/learnVRdev/](https://www.reddit.com/r/learnVRdev/)
 - [/r/vrdev/](https://www.reddit.com/r/vrdev/)
 
-## Other Awesome VR Lists:
+## Other Awesome VR Lists
 
 - [Awesome VR](https://github.com/thejourneydude/awesome_vr)
 - [Awesome VR](https://github.com/cjroth/awesome-vr)
 - [Awesome WebVR](https://github.com/wizztjh/awesome-WebVR)
 - [Awesome VR UX](https://github.com/mauricesvay/awesome-vr-ux)
 
-## How to build a Metaverse:
+## How to Build a Metaverse
 
 - [https://github.com/HiddenMonk/Unity3DRuntimeTransformGizmo](https://github.com/HiddenMonk/Unity3DRuntimeTransformGizmo)
 - [http://www.darkriftnetworking.com/Default.cshtml](http://www.darkriftnetworking.com/Default.cshtml)
@@ -449,7 +452,7 @@ List all HRTF sound Engines:
 	- [https://github.com/rjfwhite/VRSpatialMadness](https://github.com/rjfwhite/VRSpatialMadness)
 	- [QuantumScaleVR: Unity Assets for SpatialOS](https://assetstore.unity.com/packages/tools/integration/quantumscalevr-110326)
 
-## Indie/Game/VR Market:
+## Indie/Game/VR Market
 
 - [https://itch.io/](https://itch.io/)
 - [http://gamejolt.com/](http://gamejolt.com/)
