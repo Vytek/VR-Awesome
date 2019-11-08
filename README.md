@@ -15,6 +15,8 @@
 - [Google Cardboard](https://vr.google.com/cardboard/)
 - [Google Daydream View](https://vr.google.com/daydream/headset/)
 - [Microsoft Mixed Reality Headsets](https://www.microsoft.com/en-us/store/collections/vrandmixedrealityheadsets) - [Mixed Reality Toolkit](https://github.com/Microsoft/MixedRealityToolkit)
+- [Valve Index VR Kit](https://store.steampowered.com/sub/354231/)
+- [Varjo VR-2 Pro, VR-2](https://varjo.com/products/)
 
 ### Other hardware:
 - [Leap Motion](https://www.leapmotion.com/) - Use hand and finger motions as input.
@@ -126,6 +128,11 @@
   * Knuckles EV3: What's New: https://steamcommunity.com/sharedfiles/filedetails/?id=1508356684
   * Knuckles EV3 Tech Demo: https://github.com/ValveSoftware/Moondust
   * Reimplementation of OpenVR, passing all calls directly to LibOVR: https://gitlab.com/znixian/OpenOVR
+
+* SteamVR 2:
+	* https://github.com/ValveSoftware/steamvr_unity_plugin
+	* https://medium.com/@sarthakghosh/a-complete-guide-to-the-steamvr-2-0-input-system-in-unity-380e3b1b3311
+	* https://www.youtube.com/watch?v=5C6zr4Q5AlA&list=PLrk7hDwk64-YPtAkAwIOhlJuQzC2sP25G 
 * Steam Lab Render: [https://www.assetstore.unity3d.com/en/#!/content/63141](https://www.assetstore.unity3d.com/en/#!/content/63141) - [https://github.com/ValveSoftware/the_lab_renderer](https://github.com/ValveSoftware/the_lab_renderer)
 * HTC Vive Asset Store Plugin:  [https://www.assetstore.unity3d.com/en/#!/search/page=1/sortby=popularity/query=publisher:21581]()
 * [Walking in Place script for Unity and SteamVR](https://github.com/pottedmeat7/SteamVRWIPLocomotion)
