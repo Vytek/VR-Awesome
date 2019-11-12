@@ -128,7 +128,6 @@
   * Knuckles EV3: What's New: https://steamcommunity.com/sharedfiles/filedetails/?id=1508356684
   * Knuckles EV3 Tech Demo: https://github.com/ValveSoftware/Moondust
   * Reimplementation of OpenVR, passing all calls directly to LibOVR: https://gitlab.com/znixian/OpenOVR
-
 * SteamVR 2:
 	* https://github.com/ValveSoftware/steamvr_unity_plugin
 	* https://medium.com/@sarthakghosh/a-complete-guide-to-the-steamvr-2-0-input-system-in-unity-380e3b1b3311
@@ -180,6 +179,7 @@
 * Unity Post Processing source: [https://github.com/Unity-Technologies/PostProcessing/wiki](https://github.com/Unity-Technologies/PostProcessing/wiki)
 * A plugin to select deafult Microphone in Unity: [https://github.com/GabeBigBoxVR/UnityDefaultMicrophone](https://github.com/GabeBigBoxVR/UnityDefaultMicrophone)
 * List of Best Unity Assets for VR Devs: [Compiled by https://www.reddit.com/user/Legorobotdude](https://www.assetstore.unity3d.com/en/#!/list/2214-vr)
+* RGB Haptics 1.0: https://www.rgbschemes.com/blog/rgb-haptics-1.0/
 
 ### Unity Assets for VR:
 * [Google Poly API](https://developers.google.com/poly/)
@@ -355,6 +355,7 @@ List all HRTF sound Engines:
 * How you can build your own VR headset for $100:
 	1. [How you can build your own VR headset for $100](https://medium.freecodecamp.org/build-your-own-vr-headset-for-100-13d6f2b06385)
 	2. [Build your own VR headset for $100](https://github.com/relativty/Relativ)
+* Virtual Reality with VRTK4: https://www.apress.com/it/book/9781484254875#aboutBook
 
 ## VR Tools and PlugIn:
 
